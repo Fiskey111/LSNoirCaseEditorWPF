@@ -1,0 +1,1692 @@
+1/2/2023 | 7:42:19 PM : OpenCase()
+1/2/2023 | 7:42:19 PM : CheckSave false
+1/2/2023 | 7:42:26 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+1/2/2023 | 7:42:26 PM : Clearing nodes
+1/2/2023 | 7:42:26 PM : GetTreeViewData
+1/2/2023 | 7:42:26 PM : Checking property: ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+1/2/2023 | 7:42:26 PM : Node created: Case ID
+1/2/2023 | 7:42:26 PM : rootStageNode Items = 0
+1/2/2023 | 7:42:26 PM : Checking property: Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+1/2/2023 | 7:42:26 PM : Node created: Case Name
+1/2/2023 | 7:42:26 PM : rootStageNode Items = 0
+1/2/2023 | 7:42:26 PM : Checking property: Description
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+1/2/2023 | 7:42:26 PM : Node created: Case Description
+1/2/2023 | 7:42:26 PM : rootStageNode Items = 0
+1/2/2023 | 7:42:26 PM : Checking property: Progress
+1/2/2023 | 7:42:26 PM : rootStageNode Items = 0
+1/2/2023 | 7:42:26 PM : Checking property: Documents
+1/2/2023 | 7:42:26 PM : rootStageNode Items = 0
+1/2/2023 | 7:42:26 PM : Checking property: DetailedInformation
+1/2/2023 | 7:42:26 PM : rootStageNode Items = 0
+1/2/2023 | 7:42:26 PM : Checking property: Notes
+1/2/2023 | 7:42:26 PM : rootStageNode Items = 0
+1/2/2023 | 7:42:26 PM : Checking property: Stages
+1/2/2023 | 7:42:26 PM : Checking property: ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Stage - CSI, ID, CaseManager.NewData.Stage
+1/2/2023 | 7:42:26 PM : Node created: Stage ID
+1/2/2023 | 7:42:26 PM : stageNode Items = 1
+1/2/2023 | 7:42:26 PM : Checking property: Completed
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Stage - CSI, Completed, CaseManager.NewData.Stage
+1/2/2023 | 7:42:26 PM : Node created: 
+1/2/2023 | 7:42:26 PM : stageNode Items = 2
+1/2/2023 | 7:42:26 PM : Checking property: StageType
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Stage - CSI, StageType, CaseManager.NewData.Stage
+1/2/2023 | 7:42:26 PM : Node created: Stage Type
+1/2/2023 | 7:42:26 PM : stageNode Items = 3
+1/2/2023 | 7:42:26 PM : Checking property: SceneItems
+1/2/2023 | 7:42:26 PM : AddSceneItems: CSI
+1/2/2023 | 7:42:26 PM : Creating scene item: victim
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scene ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Random
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Type of Object
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Spawn Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Position Frozen
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Weapon Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scenarios
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - victim, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Is Interactable
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Important
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Compliant
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Message when Collected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Secondary Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:26 PM : Node created: Traces
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:26 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:26 PM : sceneNode Items = 11
+1/2/2023 | 7:42:26 PM : Creating scene item: evidence_1
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scene ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Random
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Type of Object
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Spawn Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Position Frozen
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Weapon Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scenarios
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Is Interactable
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Important
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Compliant
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Message when Collected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Secondary Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:26 PM : Node created: Traces
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:26 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:26 PM : sceneNode Items = 11
+1/2/2023 | 7:42:26 PM : Creating scene item: first_officer
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scene ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Random
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Type of Object
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Spawn Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Position Frozen
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Weapon Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scenarios
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - first_officer, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Is Interactable
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Important
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Compliant
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Message when Collected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Secondary Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:26 PM : Node created: Traces
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:26 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:26 PM : sceneNode Items = 11
+1/2/2023 | 7:42:26 PM : Creating scene item: evidence_2
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scene ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Random
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Type of Object
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Spawn Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Position Frozen
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Weapon Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scenarios
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_2, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Is Interactable
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Important
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Compliant
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Message when Collected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Secondary Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:26 PM : Node created: Traces
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:26 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:26 PM : sceneNode Items = 11
+1/2/2023 | 7:42:26 PM : Creating scene item: evidence_3
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scene ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Random
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Type of Object
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Spawn Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Position Frozen
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Weapon Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scenarios
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - evidence_3, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Is Interactable
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Important
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Compliant
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Message when Collected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Secondary Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:26 PM : Node created: Traces
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:26 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:26 PM : sceneNode Items = 11
+1/2/2023 | 7:42:26 PM : Creating scene item: trash_01
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scene ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Random
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Type of Object
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Spawn Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Position Frozen
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Weapon Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scenarios
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_01, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Is Interactable
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Important
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Compliant
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Message when Collected
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:26 PM : Node created: Secondary Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:26 PM : Node created: Traces
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:26 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:26 PM : sceneNode Items = 11
+1/2/2023 | 7:42:26 PM : Creating scene item: trash_02
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Scene ID
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Model Random
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Type of Object
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Spawn Position
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Position Frozen
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:26 PM : Node created: Weapon Name
+1/2/2023 | 7:42:26 PM : AddItemToTreeView: Scene Item - trash_02, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scenarios
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_02, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Is Interactable
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Important
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Compliant
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Message when Collected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Secondary Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:27 PM : Node created: Traces
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:27 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:27 PM : sceneNode Items = 11
+1/2/2023 | 7:42:27 PM : Creating scene item: trash_03
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scene ID
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Random
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Type of Object
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Spawn Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Position Frozen
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Weapon Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scenarios
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - trash_03, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Is Interactable
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Important
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Compliant
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Message when Collected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Secondary Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:27 PM : Node created: Traces
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:27 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:27 PM : sceneNode Items = 11
+1/2/2023 | 7:42:27 PM : Creating scene item: policeguard_1
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scene ID
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Random
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Type of Object
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Spawn Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Position Frozen
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Weapon Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scenarios
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeguard_1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Is Interactable
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Important
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Compliant
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Message when Collected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Secondary Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:27 PM : Node created: Traces
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:27 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:27 PM : sceneNode Items = 11
+1/2/2023 | 7:42:27 PM : Creating scene item: police_veh_01
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scene ID
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Random
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Type of Object
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Spawn Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Position Frozen
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Weapon Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scenarios
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - police_veh_01, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Is Interactable
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Important
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Compliant
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Message when Collected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Secondary Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:27 PM : Node created: Traces
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:27 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:27 PM : sceneNode Items = 11
+1/2/2023 | 7:42:27 PM : Creating scene item: policeveh2
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scene ID
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Random
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Type of Object
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Spawn Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Position Frozen
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Weapon Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scenarios
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - policeveh2, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Is Interactable
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Important
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Compliant
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Message when Collected
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:27 PM : Node created: Secondary Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:27 PM : Node created: Traces
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:27 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:27 PM : sceneNode Items = 11
+1/2/2023 | 7:42:27 PM : Creating scene item: barricade1
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - barricade1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Scene ID
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - barricade1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Name
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - barricade1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Model Random
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - barricade1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Type of Object
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - barricade1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:27 PM : Node created: Spawn Position
+1/2/2023 | 7:42:27 PM : AddItemToTreeView: Scene Item - barricade1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Position Frozen
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Weapon Name
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Scenarios
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Is Interactable
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Important
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Compliant
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Message when Collected
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Secondary Position
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:28 PM : Node created: Traces
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:28 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:28 PM : sceneNode Items = 11
+1/2/2023 | 7:42:28 PM : Creating scene item: barricade2
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Scene ID
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Model Name
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Model Random
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Type of Object
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Spawn Position
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Position Frozen
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Weapon Name
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Scenarios
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - barricade2, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Is Interactable
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Important
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Compliant
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Message when Collected
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Secondary Position
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:28 PM : Node created: Traces
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:28 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:28 PM : sceneNode Items = 11
+1/2/2023 | 7:42:28 PM : Creating scene item: police_crowd_1
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Scene ID
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Model Name
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Model Random
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Type of Object
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Spawn Position
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Position Frozen
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Weapon Name
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Scenarios
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Scene Item - police_crowd_1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:28 PM : Node created: Is Interactable
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Important
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Compliant
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Message when Collected
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:28 PM : Node created: Secondary Position
+1/2/2023 | 7:42:28 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:29 PM : Node created: Traces
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:29 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:29 PM : sceneNode Items = 11
+1/2/2023 | 7:42:29 PM : Creating scene item: guard2
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Scene ID
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Model Name
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Model Random
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Type of Object
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Spawn Position
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Position Frozen
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Weapon Name
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Scenarios
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard2, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Is Interactable
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:29 PM : Node created: Important
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:29 PM : Node created: Compliant
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:29 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:29 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:29 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:29 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:29 PM : Node created: Message when Collected
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:29 PM : Node created: Secondary Position
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:29 PM : Node created: Traces
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:29 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:29 PM : sceneNode Items = 11
+1/2/2023 | 7:42:29 PM : Creating scene item: guard3
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard3, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Scene ID
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard3, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Model Name
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard3, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Model Random
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard3, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Type of Object
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard3, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Spawn Position
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:29 PM : AddItemToTreeView: Scene Item - guard3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:29 PM : Node created: Position Frozen
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - guard3, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Weapon Name
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - guard3, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Scenarios
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - guard3, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Is Interactable
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Important
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Compliant
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Message when Collected
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Secondary Position
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:30 PM : Node created: Traces
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:30 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:30 PM : sceneNode Items = 11
+1/2/2023 | 7:42:30 PM : Creating scene item: cop_clipboard
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Scene ID
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Model Name
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Model Random
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Type of Object
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Spawn Position
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Position Frozen
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Weapon Name
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Scenarios
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Scene Item - cop_clipboard, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:30 PM : Node created: Is Interactable
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Important
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:30 PM : Node created: Compliant
+1/2/2023 | 7:42:30 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Message when Collected
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Secondary Position
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:31 PM : Node created: Traces
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:31 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:31 PM : sceneNode Items = 11
+1/2/2023 | 7:42:31 PM : Creating scene item: cop_investigate
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Scene ID
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Model Name
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Model Random
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Type of Object
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Spawn Position
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Position Frozen
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Weapon Name
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Scenarios
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Scene Item - cop_investigate, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:31 PM : Node created: Is Interactable
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Important
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Compliant
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Message when Collected
+1/2/2023 | 7:42:31 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:31 PM : Node created: Secondary Position
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:32 PM : Node created: Traces
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:32 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:32 PM : sceneNode Items = 11
+1/2/2023 | 7:42:32 PM : Creating scene item: bystander1
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Scene ID
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Model Name
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Model Random
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Type of Object
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Spawn Position
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Position Frozen
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Weapon Name
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Scenarios
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Scene Item - bystander1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:32 PM : Node created: Is Interactable
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:32 PM : Node created: Important
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:32 PM : Node created: Compliant
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:32 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:32 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:32 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:32 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:32 PM : Node created: Message when Collected
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:32 PM : Node created: Secondary Position
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:32 PM : Node created: Traces
+1/2/2023 | 7:42:32 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:32 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:32 PM : sceneNode Items = 11
+1/2/2023 | 7:42:32 PM : Creating scene item: bystander2
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Scene ID
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Model Name
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Model Random
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Type of Object
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Spawn Position
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Position Frozen
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Weapon Name
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Scenarios
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander2, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Is Interactable
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:33 PM : Node created: Important
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:33 PM : Node created: Compliant
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:33 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:33 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:33 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:33 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:33 PM : Node created: Message when Collected
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:33 PM : Node created: Secondary Position
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:33 PM : Node created: Traces
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:33 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:33 PM : sceneNode Items = 11
+1/2/2023 | 7:42:33 PM : Creating scene item: bystander3
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander3, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Scene ID
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander3, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Model Name
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander3, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:33 PM : Node created: Model Random
+1/2/2023 | 7:42:33 PM : AddItemToTreeView: Scene Item - bystander3, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:34 PM : Node created: Type of Object
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Scene Item - bystander3, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:34 PM : Node created: Spawn Position
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Scene Item - bystander3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:34 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Scene Item - bystander3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:34 PM : Node created: Position Frozen
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Scene Item - bystander3, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:34 PM : Node created: Weapon Name
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Scene Item - bystander3, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:34 PM : Node created: Scenarios
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Scene Item - bystander3, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:34 PM : Node created: Is Interactable
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:34 PM : Node created: Important
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:34 PM : Node created: Compliant
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:34 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:34 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:34 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:34 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:34 PM : Node created: Message when Collected
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:34 PM : Node created: Secondary Position
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:34 PM : Node created: Traces
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:34 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:34 PM : sceneNode Items = 11
+1/2/2023 | 7:42:34 PM : Creating scene item: pap1
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Scene Item - pap1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:34 PM : Node created: Scene ID
+1/2/2023 | 7:42:34 PM : AddItemToTreeView: Scene Item - pap1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Model Name
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Scene Item - pap1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Model Random
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Scene Item - pap1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Type of Object
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Scene Item - pap1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Spawn Position
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Scene Item - pap1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Scene Item - pap1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Position Frozen
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Scene Item - pap1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Weapon Name
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Scene Item - pap1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Scenarios
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Scene Item - pap1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:35 PM : Node created: Is Interactable
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:35 PM : Node created: Important
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:35 PM : Node created: Compliant
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:35 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:35 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:35 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:36 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:36 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:36 PM : Node created: Message when Collected
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:36 PM : Node created: Secondary Position
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:36 PM : Node created: Traces
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:36 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:36 PM : sceneNode Items = 11
+1/2/2023 | 7:42:36 PM : Creating scene item: pap2
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Scene Item - pap2, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:36 PM : Node created: Scene ID
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Scene Item - pap2, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:36 PM : Node created: Model Name
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Scene Item - pap2, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:36 PM : Node created: Model Random
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Scene Item - pap2, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:36 PM : Node created: Type of Object
+1/2/2023 | 7:42:36 PM : AddItemToTreeView: Scene Item - pap2, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:36 PM : Node created: Spawn Position
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Scene Item - pap2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:37 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Scene Item - pap2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:37 PM : Node created: Position Frozen
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Scene Item - pap2, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:37 PM : Node created: Weapon Name
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Scene Item - pap2, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:37 PM : Node created: Scenarios
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Scene Item - pap2, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:37 PM : Node created: Is Interactable
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:37 PM : Node created: Important
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:37 PM : Node created: Compliant
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:37 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:37 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:37 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:37 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:37 PM : Node created: Message when Collected
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:37 PM : Node created: Secondary Position
+1/2/2023 | 7:42:37 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:38 PM : Node created: Traces
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:38 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:38 PM : sceneNode Items = 11
+1/2/2023 | 7:42:38 PM : Creating scene item: guard4
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Scene ID
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Model Name
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Model Random
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Type of Object
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Spawn Position
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Position Frozen
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Weapon Name
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Scenarios
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Scene Item - guard4, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:38 PM : Node created: Is Interactable
+1/2/2023 | 7:42:38 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:38 PM : Node created: Important
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:39 PM : Node created: Compliant
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:39 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:39 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:39 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:39 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:39 PM : Node created: Message when Collected
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:39 PM : Node created: Secondary Position
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:39 PM : Node created: Traces
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:39 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:39 PM : sceneNode Items = 11
+1/2/2023 | 7:42:39 PM : Creating scene item: pap3
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Scene Item - pap3, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:39 PM : Node created: Scene ID
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Scene Item - pap3, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:39 PM : Node created: Model Name
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Scene Item - pap3, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:39 PM : Node created: Model Random
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Scene Item - pap3, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:39 PM : Node created: Type of Object
+1/2/2023 | 7:42:39 PM : AddItemToTreeView: Scene Item - pap3, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:40 PM : Node created: Spawn Position
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Scene Item - pap3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:40 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Scene Item - pap3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:40 PM : Node created: Position Frozen
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Scene Item - pap3, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:40 PM : Node created: Weapon Name
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Scene Item - pap3, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:40 PM : Node created: Scenarios
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Scene Item - pap3, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:40 PM : Node created: Is Interactable
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:40 PM : Node created: Important
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:40 PM : Node created: Compliant
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:40 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:40 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:40 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:40 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:40 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:41 PM : Node created: Message when Collected
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:41 PM : Node created: Secondary Position
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:41 PM : Node created: Traces
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:41 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:41 PM : sceneNode Items = 11
+1/2/2023 | 7:42:41 PM : Creating scene item: pap4
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Scene Item - pap4, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:41 PM : Node created: Scene ID
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Scene Item - pap4, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:41 PM : Node created: Model Name
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Scene Item - pap4, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:41 PM : Node created: Model Random
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Scene Item - pap4, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:41 PM : Node created: Type of Object
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Scene Item - pap4, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:41 PM : Node created: Spawn Position
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Scene Item - pap4, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:41 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Scene Item - pap4, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:41 PM : Node created: Position Frozen
+1/2/2023 | 7:42:41 PM : AddItemToTreeView: Scene Item - pap4, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:41 PM : Node created: Weapon Name
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Scene Item - pap4, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:42 PM : Node created: Scenarios
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Scene Item - pap4, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:42 PM : Node created: Is Interactable
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:42 PM : Node created: Important
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:42 PM : Node created: Compliant
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:42 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:42 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:42 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:42 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:42 PM : Node created: Message when Collected
+1/2/2023 | 7:42:42 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:42 PM : Node created: Secondary Position
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:43 PM : Node created: Traces
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:43 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:43 PM : sceneNode Items = 11
+1/2/2023 | 7:42:43 PM : Creating scene item: pap5
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Scene Item - pap5, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:43 PM : Node created: Scene ID
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Scene Item - pap5, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:43 PM : Node created: Model Name
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Scene Item - pap5, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:43 PM : Node created: Model Random
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Scene Item - pap5, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:43 PM : Node created: Type of Object
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Scene Item - pap5, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:43 PM : Node created: Spawn Position
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Scene Item - pap5, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:43 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Scene Item - pap5, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:43 PM : Node created: Position Frozen
+1/2/2023 | 7:42:43 PM : AddItemToTreeView: Scene Item - pap5, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:43 PM : Node created: Weapon Name
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Scene Item - pap5, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:44 PM : Node created: Scenarios
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Scene Item - pap5, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:44 PM : Node created: Is Interactable
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:44 PM : Node created: Important
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:44 PM : Node created: Compliant
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:44 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:44 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:44 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:44 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:44 PM : Node created: Message when Collected
+1/2/2023 | 7:42:44 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:44 PM : Node created: Secondary Position
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:45 PM : Node created: Traces
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:45 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:45 PM : sceneNode Items = 11
+1/2/2023 | 7:42:45 PM : Creating scene item: bystander4
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Scene Item - bystander4, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:45 PM : Node created: Scene ID
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Scene Item - bystander4, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:45 PM : Node created: Model Name
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Scene Item - bystander4, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:45 PM : Node created: Model Random
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Scene Item - bystander4, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:45 PM : Node created: Type of Object
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Scene Item - bystander4, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:45 PM : Node created: Spawn Position
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Scene Item - bystander4, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:45 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Scene Item - bystander4, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:45 PM : Node created: Position Frozen
+1/2/2023 | 7:42:45 PM : AddItemToTreeView: Scene Item - bystander4, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:46 PM : Node created: Weapon Name
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Scene Item - bystander4, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:46 PM : Node created: Scenarios
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Scene Item - bystander4, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:46 PM : Node created: Is Interactable
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:46 PM : Node created: Important
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:46 PM : Node created: Compliant
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:46 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:46 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:46 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:46 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:46 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:47 PM : Node created: Message when Collected
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:47 PM : Node created: Secondary Position
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:47 PM : Node created: Traces
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:47 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:47 PM : sceneNode Items = 11
+1/2/2023 | 7:42:47 PM : Creating scene item: bystander5
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Scene Item - bystander5, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:47 PM : Node created: Scene ID
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Scene Item - bystander5, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:47 PM : Node created: Model Name
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Scene Item - bystander5, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:47 PM : Node created: Model Random
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Scene Item - bystander5, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:47 PM : Node created: Type of Object
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Scene Item - bystander5, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:47 PM : Node created: Spawn Position
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Scene Item - bystander5, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:47 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:47 PM : AddItemToTreeView: Scene Item - bystander5, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:48 PM : Node created: Position Frozen
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Scene Item - bystander5, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:48 PM : Node created: Weapon Name
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Scene Item - bystander5, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:48 PM : Node created: Scenarios
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Scene Item - bystander5, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:48 PM : Node created: Is Interactable
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:48 PM : Node created: Important
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:48 PM : Node created: Compliant
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:48 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:48 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:48 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:48 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:48 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:49 PM : Node created: Message when Collected
+1/2/2023 | 7:42:49 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:49 PM : Node created: Secondary Position
+1/2/2023 | 7:42:49 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:49 PM : Node created: Traces
+1/2/2023 | 7:42:49 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:49 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:49 PM : sceneNode Items = 11
+1/2/2023 | 7:42:49 PM : Creating scene item: bystander6
+1/2/2023 | 7:42:49 PM : AddItemToTreeView: Scene Item - bystander6, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:49 PM : Node created: Scene ID
+1/2/2023 | 7:42:49 PM : AddItemToTreeView: Scene Item - bystander6, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:49 PM : Node created: Model Name
+1/2/2023 | 7:42:49 PM : AddItemToTreeView: Scene Item - bystander6, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:49 PM : Node created: Model Random
+1/2/2023 | 7:42:49 PM : AddItemToTreeView: Scene Item - bystander6, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:49 PM : Node created: Type of Object
+1/2/2023 | 7:42:49 PM : AddItemToTreeView: Scene Item - bystander6, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:50 PM : Node created: Spawn Position
+1/2/2023 | 7:42:50 PM : AddItemToTreeView: Scene Item - bystander6, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:50 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:50 PM : AddItemToTreeView: Scene Item - bystander6, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:50 PM : Node created: Position Frozen
+1/2/2023 | 7:42:50 PM : AddItemToTreeView: Scene Item - bystander6, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:50 PM : Node created: Weapon Name
+1/2/2023 | 7:42:50 PM : AddItemToTreeView: Scene Item - bystander6, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:50 PM : Node created: Scenarios
+1/2/2023 | 7:42:50 PM : AddItemToTreeView: Scene Item - bystander6, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:50 PM : Node created: Is Interactable
+1/2/2023 | 7:42:50 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:50 PM : Node created: Important
+1/2/2023 | 7:42:50 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:50 PM : Node created: Compliant
+1/2/2023 | 7:42:50 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:51 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:51 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:51 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:51 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:51 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:51 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:51 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:51 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:51 PM : Node created: Message when Collected
+1/2/2023 | 7:42:51 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:51 PM : Node created: Secondary Position
+1/2/2023 | 7:42:51 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:51 PM : Node created: Traces
+1/2/2023 | 7:42:51 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:51 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:51 PM : sceneNode Items = 11
+1/2/2023 | 7:42:52 PM : Creating scene item: pap7
+1/2/2023 | 7:42:52 PM : AddItemToTreeView: Scene Item - pap7, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:52 PM : Node created: Scene ID
+1/2/2023 | 7:42:52 PM : AddItemToTreeView: Scene Item - pap7, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:52 PM : Node created: Model Name
+1/2/2023 | 7:42:52 PM : AddItemToTreeView: Scene Item - pap7, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:52 PM : Node created: Model Random
+1/2/2023 | 7:42:52 PM : AddItemToTreeView: Scene Item - pap7, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:52 PM : Node created: Type of Object
+1/2/2023 | 7:42:52 PM : AddItemToTreeView: Scene Item - pap7, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:52 PM : Node created: Spawn Position
+1/2/2023 | 7:42:52 PM : AddItemToTreeView: Scene Item - pap7, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:52 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:52 PM : AddItemToTreeView: Scene Item - pap7, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:52 PM : Node created: Position Frozen
+1/2/2023 | 7:42:52 PM : AddItemToTreeView: Scene Item - pap7, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:53 PM : Node created: Weapon Name
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Scene Item - pap7, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:53 PM : Node created: Scenarios
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Scene Item - pap7, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:53 PM : Node created: Is Interactable
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:53 PM : Node created: Important
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:53 PM : Node created: Compliant
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:53 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:53 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:53 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:53 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:53 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:54 PM : Node created: Message when Collected
+1/2/2023 | 7:42:54 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:54 PM : Node created: Secondary Position
+1/2/2023 | 7:42:54 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:54 PM : Node created: Traces
+1/2/2023 | 7:42:54 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:54 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:54 PM : sceneNode Items = 11
+1/2/2023 | 7:42:54 PM : Creating scene item: bystander8
+1/2/2023 | 7:42:54 PM : AddItemToTreeView: Scene Item - bystander8, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:54 PM : Node created: Scene ID
+1/2/2023 | 7:42:54 PM : AddItemToTreeView: Scene Item - bystander8, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:54 PM : Node created: Model Name
+1/2/2023 | 7:42:54 PM : AddItemToTreeView: Scene Item - bystander8, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:54 PM : Node created: Model Random
+1/2/2023 | 7:42:54 PM : AddItemToTreeView: Scene Item - bystander8, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:55 PM : Node created: Type of Object
+1/2/2023 | 7:42:55 PM : AddItemToTreeView: Scene Item - bystander8, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:55 PM : Node created: Spawn Position
+1/2/2023 | 7:42:55 PM : AddItemToTreeView: Scene Item - bystander8, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:55 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:55 PM : AddItemToTreeView: Scene Item - bystander8, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:55 PM : Node created: Position Frozen
+1/2/2023 | 7:42:55 PM : AddItemToTreeView: Scene Item - bystander8, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:55 PM : Node created: Weapon Name
+1/2/2023 | 7:42:55 PM : AddItemToTreeView: Scene Item - bystander8, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:55 PM : Node created: Scenarios
+1/2/2023 | 7:42:55 PM : AddItemToTreeView: Scene Item - bystander8, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:55 PM : Node created: Is Interactable
+1/2/2023 | 7:42:55 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:55 PM : Node created: Important
+1/2/2023 | 7:42:55 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:55 PM : Node created: Compliant
+1/2/2023 | 7:42:56 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:56 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:56 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:56 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:56 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:56 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:56 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:56 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:56 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:56 PM : Node created: Message when Collected
+1/2/2023 | 7:42:56 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:56 PM : Node created: Secondary Position
+1/2/2023 | 7:42:56 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:56 PM : Node created: Traces
+1/2/2023 | 7:42:56 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:56 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:56 PM : sceneNode Items = 11
+1/2/2023 | 7:42:57 PM : Creating scene item: policeveh3
+1/2/2023 | 7:42:57 PM : AddItemToTreeView: Scene Item - policeveh3, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:57 PM : Node created: Scene ID
+1/2/2023 | 7:42:57 PM : AddItemToTreeView: Scene Item - policeveh3, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:57 PM : Node created: Model Name
+1/2/2023 | 7:42:57 PM : AddItemToTreeView: Scene Item - policeveh3, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:57 PM : Node created: Model Random
+1/2/2023 | 7:42:57 PM : AddItemToTreeView: Scene Item - policeveh3, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:57 PM : Node created: Type of Object
+1/2/2023 | 7:42:57 PM : AddItemToTreeView: Scene Item - policeveh3, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:57 PM : Node created: Spawn Position
+1/2/2023 | 7:42:57 PM : AddItemToTreeView: Scene Item - policeveh3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:57 PM : Node created: Vehicle Lights
+1/2/2023 | 7:42:57 PM : AddItemToTreeView: Scene Item - policeveh3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:57 PM : Node created: Position Frozen
+1/2/2023 | 7:42:58 PM : AddItemToTreeView: Scene Item - policeveh3, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:58 PM : Node created: Weapon Name
+1/2/2023 | 7:42:58 PM : AddItemToTreeView: Scene Item - policeveh3, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:58 PM : Node created: Scenarios
+1/2/2023 | 7:42:58 PM : AddItemToTreeView: Scene Item - policeveh3, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:58 PM : Node created: Is Interactable
+1/2/2023 | 7:42:58 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:58 PM : Node created: Important
+1/2/2023 | 7:42:58 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:58 PM : Node created: Compliant
+1/2/2023 | 7:42:58 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:58 PM : Node created: Can Be Inspected
+1/2/2023 | 7:42:58 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:58 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:42:58 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:58 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:42:59 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:59 PM : Node created: Text while Inspecting
+1/2/2023 | 7:42:59 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:59 PM : Node created: Message when Collected
+1/2/2023 | 7:42:59 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:42:59 PM : Node created: Secondary Position
+1/2/2023 | 7:42:59 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:42:59 PM : Node created: Traces
+1/2/2023 | 7:42:59 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:42:59 PM : Node created: Interrogation ID
+1/2/2023 | 7:42:59 PM : sceneNode Items = 11
+1/2/2023 | 7:42:59 PM : Creating scene item: barrier3
+1/2/2023 | 7:42:59 PM : AddItemToTreeView: Scene Item - barrier3, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:42:59 PM : Node created: Scene ID
+1/2/2023 | 7:43:00 PM : AddItemToTreeView: Scene Item - barrier3, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:00 PM : Node created: Model Name
+1/2/2023 | 7:43:00 PM : AddItemToTreeView: Scene Item - barrier3, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:00 PM : Node created: Model Random
+1/2/2023 | 7:43:00 PM : AddItemToTreeView: Scene Item - barrier3, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:00 PM : Node created: Type of Object
+1/2/2023 | 7:43:00 PM : AddItemToTreeView: Scene Item - barrier3, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:00 PM : Node created: Spawn Position
+1/2/2023 | 7:43:00 PM : AddItemToTreeView: Scene Item - barrier3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:00 PM : Node created: Vehicle Lights
+1/2/2023 | 7:43:00 PM : AddItemToTreeView: Scene Item - barrier3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:00 PM : Node created: Position Frozen
+1/2/2023 | 7:43:00 PM : AddItemToTreeView: Scene Item - barrier3, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:01 PM : Node created: Weapon Name
+1/2/2023 | 7:43:01 PM : AddItemToTreeView: Scene Item - barrier3, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:01 PM : Node created: Scenarios
+1/2/2023 | 7:43:01 PM : AddItemToTreeView: Scene Item - barrier3, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:01 PM : Node created: Is Interactable
+1/2/2023 | 7:43:01 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:01 PM : Node created: Important
+1/2/2023 | 7:43:01 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:01 PM : Node created: Compliant
+1/2/2023 | 7:43:01 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:01 PM : Node created: Can Be Inspected
+1/2/2023 | 7:43:01 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:01 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:43:02 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:02 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:43:02 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:02 PM : Node created: Text while Inspecting
+1/2/2023 | 7:43:02 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:02 PM : Node created: Message when Collected
+1/2/2023 | 7:43:02 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:02 PM : Node created: Secondary Position
+1/2/2023 | 7:43:02 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:43:02 PM : Node created: Traces
+1/2/2023 | 7:43:02 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:43:02 PM : Node created: Interrogation ID
+1/2/2023 | 7:43:03 PM : sceneNode Items = 11
+1/2/2023 | 7:43:03 PM : Creating scene item: policveh4
+1/2/2023 | 7:43:03 PM : AddItemToTreeView: Scene Item - policveh4, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:03 PM : Node created: Scene ID
+1/2/2023 | 7:43:03 PM : AddItemToTreeView: Scene Item - policveh4, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:03 PM : Node created: Model Name
+1/2/2023 | 7:43:03 PM : AddItemToTreeView: Scene Item - policveh4, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:03 PM : Node created: Model Random
+1/2/2023 | 7:43:03 PM : AddItemToTreeView: Scene Item - policveh4, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:03 PM : Node created: Type of Object
+1/2/2023 | 7:43:03 PM : AddItemToTreeView: Scene Item - policveh4, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:03 PM : Node created: Spawn Position
+1/2/2023 | 7:43:04 PM : AddItemToTreeView: Scene Item - policveh4, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:04 PM : Node created: Vehicle Lights
+1/2/2023 | 7:43:04 PM : AddItemToTreeView: Scene Item - policveh4, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:04 PM : Node created: Position Frozen
+1/2/2023 | 7:43:04 PM : AddItemToTreeView: Scene Item - policveh4, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:04 PM : Node created: Weapon Name
+1/2/2023 | 7:43:04 PM : AddItemToTreeView: Scene Item - policveh4, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:04 PM : Node created: Scenarios
+1/2/2023 | 7:43:04 PM : AddItemToTreeView: Scene Item - policveh4, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:04 PM : Node created: Is Interactable
+1/2/2023 | 7:43:04 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:04 PM : Node created: Important
+1/2/2023 | 7:43:05 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:05 PM : Node created: Compliant
+1/2/2023 | 7:43:05 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:05 PM : Node created: Can Be Inspected
+1/2/2023 | 7:43:05 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:05 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:43:05 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:05 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:43:05 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:05 PM : Node created: Text while Inspecting
+1/2/2023 | 7:43:05 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:05 PM : Node created: Message when Collected
+1/2/2023 | 7:43:06 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:06 PM : Node created: Secondary Position
+1/2/2023 | 7:43:06 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:43:06 PM : Node created: Traces
+1/2/2023 | 7:43:06 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:43:06 PM : Node created: Interrogation ID
+1/2/2023 | 7:43:06 PM : sceneNode Items = 11
+1/2/2023 | 7:43:06 PM : Creating scene item: policevehguard1
+1/2/2023 | 7:43:06 PM : AddItemToTreeView: Scene Item - policevehguard1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:06 PM : Node created: Scene ID
+1/2/2023 | 7:43:06 PM : AddItemToTreeView: Scene Item - policevehguard1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:06 PM : Node created: Model Name
+1/2/2023 | 7:43:07 PM : AddItemToTreeView: Scene Item - policevehguard1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:07 PM : Node created: Model Random
+1/2/2023 | 7:43:07 PM : AddItemToTreeView: Scene Item - policevehguard1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:07 PM : Node created: Type of Object
+1/2/2023 | 7:43:07 PM : AddItemToTreeView: Scene Item - policevehguard1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:07 PM : Node created: Spawn Position
+1/2/2023 | 7:43:07 PM : AddItemToTreeView: Scene Item - policevehguard1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:07 PM : Node created: Vehicle Lights
+1/2/2023 | 7:43:07 PM : AddItemToTreeView: Scene Item - policevehguard1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:07 PM : Node created: Position Frozen
+1/2/2023 | 7:43:07 PM : AddItemToTreeView: Scene Item - policevehguard1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:07 PM : Node created: Weapon Name
+1/2/2023 | 7:43:07 PM : AddItemToTreeView: Scene Item - policevehguard1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:07 PM : Node created: Scenarios
+1/2/2023 | 7:43:08 PM : AddItemToTreeView: Scene Item - policevehguard1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:08 PM : Node created: Is Interactable
+1/2/2023 | 7:43:08 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:08 PM : Node created: Important
+1/2/2023 | 7:43:08 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:08 PM : Node created: Compliant
+1/2/2023 | 7:43:08 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:08 PM : Node created: Can Be Inspected
+1/2/2023 | 7:43:08 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:08 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:43:08 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:08 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:43:09 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:09 PM : Node created: Text while Inspecting
+1/2/2023 | 7:43:09 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:09 PM : Node created: Message when Collected
+1/2/2023 | 7:43:09 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:09 PM : Node created: Secondary Position
+1/2/2023 | 7:43:09 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:43:09 PM : Node created: Traces
+1/2/2023 | 7:43:09 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:43:09 PM : Node created: Interrogation ID
+1/2/2023 | 7:43:09 PM : sceneNode Items = 11
+1/2/2023 | 7:43:09 PM : Creating scene item: witness1
+1/2/2023 | 7:43:10 PM : AddItemToTreeView: Scene Item - witness1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:10 PM : Node created: Scene ID
+1/2/2023 | 7:43:10 PM : AddItemToTreeView: Scene Item - witness1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:10 PM : Node created: Model Name
+1/2/2023 | 7:43:10 PM : AddItemToTreeView: Scene Item - witness1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:10 PM : Node created: Model Random
+1/2/2023 | 7:43:10 PM : AddItemToTreeView: Scene Item - witness1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:10 PM : Node created: Type of Object
+1/2/2023 | 7:43:10 PM : AddItemToTreeView: Scene Item - witness1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:10 PM : Node created: Spawn Position
+1/2/2023 | 7:43:10 PM : AddItemToTreeView: Scene Item - witness1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:11 PM : Node created: Vehicle Lights
+1/2/2023 | 7:43:11 PM : AddItemToTreeView: Scene Item - witness1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:11 PM : Node created: Position Frozen
+1/2/2023 | 7:43:11 PM : AddItemToTreeView: Scene Item - witness1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:11 PM : Node created: Weapon Name
+1/2/2023 | 7:43:11 PM : AddItemToTreeView: Scene Item - witness1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:11 PM : Node created: Scenarios
+1/2/2023 | 7:43:11 PM : AddItemToTreeView: Scene Item - witness1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:11 PM : Node created: Is Interactable
+1/2/2023 | 7:43:11 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:11 PM : Node created: Important
+1/2/2023 | 7:43:12 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:12 PM : Node created: Compliant
+1/2/2023 | 7:43:12 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:12 PM : Node created: Can Be Inspected
+1/2/2023 | 7:43:12 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:12 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:43:12 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:12 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:43:12 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:12 PM : Node created: Text while Inspecting
+1/2/2023 | 7:43:12 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:13 PM : Node created: Message when Collected
+1/2/2023 | 7:43:13 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:13 PM : Node created: Secondary Position
+1/2/2023 | 7:43:13 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:43:13 PM : Node created: Traces
+1/2/2023 | 7:43:13 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:43:13 PM : Node created: Interrogation ID
+1/2/2023 | 7:43:13 PM : sceneNode Items = 11
+1/2/2023 | 7:43:13 PM : Creating scene item: witnessguard1
+1/2/2023 | 7:43:13 PM : AddItemToTreeView: Scene Item - witnessguard1, ID, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:13 PM : Node created: Scene ID
+1/2/2023 | 7:43:13 PM : AddItemToTreeView: Scene Item - witnessguard1, Model, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:14 PM : Node created: Model Name
+1/2/2023 | 7:43:14 PM : AddItemToTreeView: Scene Item - witnessguard1, ModelRandom, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:14 PM : Node created: Model Random
+1/2/2023 | 7:43:14 PM : AddItemToTreeView: Scene Item - witnessguard1, Type, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:14 PM : Node created: Type of Object
+1/2/2023 | 7:43:14 PM : AddItemToTreeView: Scene Item - witnessguard1, SpawnPosition, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:14 PM : Node created: Spawn Position
+1/2/2023 | 7:43:14 PM : AddItemToTreeView: Scene Item - witnessguard1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:14 PM : Node created: Vehicle Lights
+1/2/2023 | 7:43:14 PM : AddItemToTreeView: Scene Item - witnessguard1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:14 PM : Node created: Position Frozen
+1/2/2023 | 7:43:15 PM : AddItemToTreeView: Scene Item - witnessguard1, WeaponName, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:15 PM : Node created: Weapon Name
+1/2/2023 | 7:43:15 PM : AddItemToTreeView: Scene Item - witnessguard1, Scenarios, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:15 PM : Node created: Scenarios
+1/2/2023 | 7:43:15 PM : AddItemToTreeView: Scene Item - witnessguard1, IsInteractable, CaseManager.NewData.SceneItem
+1/2/2023 | 7:43:15 PM : Node created: Is Interactable
+1/2/2023 | 7:43:15 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:15 PM : Node created: Important
+1/2/2023 | 7:43:15 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:15 PM : Node created: Compliant
+1/2/2023 | 7:43:15 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:16 PM : Node created: Can Be Inspected
+1/2/2023 | 7:43:16 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:16 PM : Node created: Play Sound on Collection
+1/2/2023 | 7:43:16 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:16 PM : Node created: Play Sound Nearby
+1/2/2023 | 7:43:16 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:16 PM : Node created: Text while Inspecting
+1/2/2023 | 7:43:16 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:16 PM : Node created: Message when Collected
+1/2/2023 | 7:43:16 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/2/2023 | 7:43:16 PM : Node created: Secondary Position
+1/2/2023 | 7:43:17 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/2/2023 | 7:43:17 PM : Node created: Traces
+1/2/2023 | 7:43:17 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/2/2023 | 7:43:17 PM : Node created: Interrogation ID
+1/2/2023 | 7:43:17 PM : sceneNode Items = 11
+1/2/2023 | 7:43:17 PM : stageNode Items = 4
+1/2/2023 | 7:43:17 PM : Checking property: CallPosition
+1/2/2023 | 7:43:17 PM : AddItemToTreeView: Stage - CSI, CallPosition, CaseManager.NewData.Stage
+1/2/2023 | 7:43:17 PM : Node created: Call Position
+1/2/2023 | 7:43:17 PM : stageNode Items = 5
+1/2/2023 | 7:43:17 PM : Checking property: ApproachSoundEnabled
+1/2/2023 | 7:43:17 PM : AddItemToTreeView: Stage - CSI, ApproachSoundEnabled, CaseManager.NewData.Stage
+1/2/2023 | 7:43:18 PM : Node created: Approach Sound
+1/2/2023 | 7:43:18 PM : stageNode Items = 6
+1/2/2023 | 7:43:18 PM : Checking property: TimeStart
+1/2/2023 | 7:43:18 PM : AddItemToTreeView: Stage - CSI, TimeStart, CaseManager.NewData.Stage
+1/2/2023 | 7:43:18 PM : Node created: Time of Start
+1/2/2023 | 7:43:18 PM : stageNode Items = 7
+1/2/2023 | 7:43:18 PM : Checking property: CallNotification
+1/2/2023 | 7:43:18 PM : stageNode Items = 8
+1/2/2023 | 7:43:18 PM : Checking property: CallBlip
+1/2/2023 | 7:43:19 PM : System.Reflection.TargetException: Non-static method requires a target.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+1/2/2023 | 7:43:19 PM : System.Reflection.TargetException: Non-static method requires a target.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+1/2/2023 | 7:43:19 PM : System.Reflection.TargetException: Non-static method requires a target.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+1/2/2023 | 7:43:19 PM : System.Reflection.TargetException: Non-static method requires a target.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+1/2/2023 | 7:43:19 PM : stageNode Items = 9
+1/2/2023 | 7:43:19 PM : Checking property: PriorStages
+1/2/2023 | 7:43:19 PM : AddItemToTreeView: Stage - CSI, PriorStages, CaseManager.NewData.Stage
+1/2/2023 | 7:43:19 PM : Node created: Prior Stages
+1/2/2023 | 7:43:19 PM : stageNode Items = 10
+1/2/2023 | 7:43:19 PM : Checking property: NextStages
+1/2/2023 | 7:43:20 PM : AddItemToTreeView: Stage - CSI, NextStages, CaseManager.NewData.Stage
+1/2/2023 | 7:43:20 PM : Node created: Next Stages
+1/2/2023 | 7:43:20 PM : stageNode Items = 11
+1/2/2023 | 7:43:20 PM : rootStageNode Items = 1
+1/2/2023 | 7:43:20 PM : UpdateCaseData with new node Case Data
+1/2/2023 | 7:43:20 PM : Total time to load case: 54155.6408ms

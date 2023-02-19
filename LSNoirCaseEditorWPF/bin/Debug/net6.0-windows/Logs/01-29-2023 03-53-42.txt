@@ -1,0 +1,50 @@
+1/29/2023 | 3:53:46 PM : CheckSave false
+1/29/2023 | 3:53:47 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+1/29/2023 | 3:53:47 PM : Clearing nodes
+1/29/2023 | 3:53:47 PM : GetTreeViewData
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : Checking property: ID
+1/29/2023 | 3:53:47 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+1/29/2023 | 3:53:47 PM : Node created: Case ID
+1/29/2023 | 3:53:47 PM : rootStageNode Items = 0
+1/29/2023 | 3:53:47 PM : Checking property: Name
+1/29/2023 | 3:53:47 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+1/29/2023 | 3:53:47 PM : Node created: Case Name
+1/29/2023 | 3:53:47 PM : rootStageNode Items = 0
+1/29/2023 | 3:53:47 PM : Checking property: Description
+1/29/2023 | 3:53:47 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+1/29/2023 | 3:53:47 PM : Node created: Case Description
+1/29/2023 | 3:53:47 PM : rootStageNode Items = 0
+1/29/2023 | 3:53:47 PM : Checking property: Progress
+1/29/2023 | 3:53:47 PM : rootStageNode Items = 0
+1/29/2023 | 3:53:47 PM : Checking property: Documents
+1/29/2023 | 3:53:47 PM : rootStageNode Items = 0
+1/29/2023 | 3:53:47 PM : Checking property: DetailedInformation
+1/29/2023 | 3:53:47 PM : rootStageNode Items = 0
+1/29/2023 | 3:53:47 PM : Checking property: Notes
+1/29/2023 | 3:53:47 PM : rootStageNode Items = 0
+1/29/2023 | 3:53:47 PM : Checking property: Stages
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : Checking property: ID
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : AddItemToTreeView: Stage - CSI, ID, CaseManager.NewData.Stage
+1/29/2023 | 3:53:47 PM : Node created: Stage ID
+1/29/2023 | 3:53:47 PM : stageNode Items = 1
+1/29/2023 | 3:53:47 PM : Checking property: Completed
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : AddItemToTreeView: Stage - CSI, Completed, CaseManager.NewData.Stage
+1/29/2023 | 3:53:47 PM : Node created: 
+1/29/2023 | 3:53:47 PM : stageNode Items = 2
+1/29/2023 | 3:53:47 PM : Checking property: StageType
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : AddItemToTreeView: Stage - CSI, StageType, CaseManager.NewData.Stage
+1/29/2023 | 3:53:47 PM : Node created: Stage Type
+1/29/2023 | 3:53:47 PM : stageNode Items = 3
+1/29/2023 | 3:53:47 PM : Checking property: SceneItems
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : AddSceneItems: CSI
+1/29/2023 | 3:53:47 PM : CreateRootNode returned null: False
+1/29/2023 | 3:53:47 PM : Total of 38 tasks created

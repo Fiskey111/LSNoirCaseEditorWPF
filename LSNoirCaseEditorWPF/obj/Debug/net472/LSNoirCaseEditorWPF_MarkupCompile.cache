@@ -1,0 +1,20 @@
+﻿LSNoirCaseEditorWPF
+
+
+winexe
+C#
+.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\
+LSNoirCaseEditorWPF
+none
+false
+TRACE;DEBUG;NETFRAMEWORK;NET472;
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\App.xaml
+6-1692130422
+21-1085234232
+11-91268586
+222865950207
+Pages\CaseViewer.xaml;Pages\Flowchart.xaml;Pages\LogScreen.xaml;Pages\SettingsPage.xaml;Windows\MainScreen.xaml;Windows\NewFileCreator.xaml;
+
+True
+

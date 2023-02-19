@@ -1,0 +1,85 @@
+1/29/2023 | 4:03:37 PM : CheckSave false
+1/29/2023 | 4:03:38 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+1/29/2023 | 4:03:38 PM : Clearing nodes
+1/29/2023 | 4:03:38 PM : GetTreeViewData
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : Checking property: ID
+1/29/2023 | 4:03:38 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+1/29/2023 | 4:03:38 PM : Node created: Case ID
+1/29/2023 | 4:03:38 PM : rootStageNode Items = 0
+1/29/2023 | 4:03:38 PM : Checking property: Name
+1/29/2023 | 4:03:38 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+1/29/2023 | 4:03:38 PM : Node created: Case Name
+1/29/2023 | 4:03:38 PM : rootStageNode Items = 0
+1/29/2023 | 4:03:38 PM : Checking property: Description
+1/29/2023 | 4:03:38 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+1/29/2023 | 4:03:38 PM : Node created: Case Description
+1/29/2023 | 4:03:38 PM : rootStageNode Items = 0
+1/29/2023 | 4:03:38 PM : Checking property: Progress
+1/29/2023 | 4:03:38 PM : rootStageNode Items = 0
+1/29/2023 | 4:03:38 PM : Checking property: Documents
+1/29/2023 | 4:03:38 PM : rootStageNode Items = 0
+1/29/2023 | 4:03:38 PM : Checking property: DetailedInformation
+1/29/2023 | 4:03:38 PM : rootStageNode Items = 0
+1/29/2023 | 4:03:38 PM : Checking property: Notes
+1/29/2023 | 4:03:38 PM : rootStageNode Items = 0
+1/29/2023 | 4:03:38 PM : Checking property: Stages
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : Checking property: ID
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : AddItemToTreeView: Stage - CSI, ID, CaseManager.NewData.Stage
+1/29/2023 | 4:03:38 PM : Node created: Stage ID
+1/29/2023 | 4:03:38 PM : stageNode Items = 1
+1/29/2023 | 4:03:38 PM : Checking property: Completed
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : AddItemToTreeView: Stage - CSI, Completed, CaseManager.NewData.Stage
+1/29/2023 | 4:03:38 PM : Node created: 
+1/29/2023 | 4:03:38 PM : stageNode Items = 2
+1/29/2023 | 4:03:38 PM : Checking property: StageType
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : AddItemToTreeView: Stage - CSI, StageType, CaseManager.NewData.Stage
+1/29/2023 | 4:03:38 PM : Node created: Stage Type
+1/29/2023 | 4:03:38 PM : stageNode Items = 3
+1/29/2023 | 4:03:38 PM : Checking property: SceneItems
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : AddSceneItems: CSI
+1/29/2023 | 4:03:38 PM : CreateRootNode returned null: False
+1/29/2023 | 4:03:38 PM : Total of 38 tasks created
+1/29/2023 | 4:03:38 PM : Scene Item evidence_3 properties checked in 0.6711ms
+1/29/2023 | 4:03:38 PM : Scene Item trash_01 properties checked in 0.6717ms
+1/29/2023 | 4:03:38 PM : Scene Item barricade1 properties checked in 0.5733ms
+1/29/2023 | 4:03:38 PM : Scene Item victim properties checked in 0.6876ms
+1/29/2023 | 4:03:38 PM : Scene Item policeguard_1 properties checked in 0.5945ms
+1/29/2023 | 4:03:38 PM : Scene Item first_officer properties checked in 0.5839ms
+1/29/2023 | 4:03:38 PM : Scene Item trash_02 properties checked in 0.7808ms
+1/29/2023 | 4:03:38 PM : Scene Item police_veh_01 properties checked in 0.5285ms
+1/29/2023 | 4:03:38 PM : Scene Item policeveh2 properties checked in 0.7452ms
+1/29/2023 | 4:03:39 PM : Scene Item barricade2 properties checked in 0.0068ms
+1/29/2023 | 4:03:40 PM : Scene Item police_crowd_1 properties checked in 0.0065ms
+1/29/2023 | 4:03:41 PM : Scene Item guard2 properties checked in 0.0077ms
+1/29/2023 | 4:03:42 PM : Scene Item guard3 properties checked in 0.0071ms
+1/29/2023 | 4:03:43 PM : Scene Item cop_clipboard properties checked in 0.0067ms
+1/29/2023 | 4:03:44 PM : Scene Item cop_investigate properties checked in 0.0064ms
+1/29/2023 | 4:03:45 PM : Scene Item bystander1 properties checked in 0.007ms
+1/29/2023 | 4:03:46 PM : Scene Item bystander2 properties checked in 0.0061ms
+1/29/2023 | 4:03:47 PM : Scene Item bystander3 properties checked in 0.008ms
+1/29/2023 | 4:03:48 PM : Scene Item pap1 properties checked in 0.0081ms
+1/29/2023 | 4:03:49 PM : Scene Item pap2 properties checked in 0.0075ms
+1/29/2023 | 4:03:50 PM : Scene Item guard4 properties checked in 0.0095ms
+1/29/2023 | 4:03:51 PM : Scene Item pap3 properties checked in 0.0045ms
+1/29/2023 | 4:03:52 PM : Scene Item pap4 properties checked in 0.006ms
+1/29/2023 | 4:03:53 PM : Scene Item pap5 properties checked in 0.0069ms
+1/29/2023 | 4:03:54 PM : Scene Item bystander4 properties checked in 0.0056ms
+1/29/2023 | 4:03:55 PM : Scene Item bystander5 properties checked in 0.0054ms
+1/29/2023 | 4:03:56 PM : Scene Item bystander6 properties checked in 0.0071ms
+1/29/2023 | 4:03:57 PM : Scene Item pap7 properties checked in 0.0062ms
+1/29/2023 | 4:03:58 PM : Scene Item bystander8 properties checked in 0.0057ms
+1/29/2023 | 4:03:59 PM : Scene Item policeveh3 properties checked in 0.0048ms
+1/29/2023 | 4:04:00 PM : Scene Item barrier3 properties checked in 0.0062ms
+1/29/2023 | 4:04:01 PM : Scene Item policveh4 properties checked in 0.0071ms
+1/29/2023 | 4:04:02 PM : Scene Item policevehguard1 properties checked in 0.0053ms
+1/29/2023 | 4:04:03 PM : Scene Item witness1 properties checked in 0.006ms
+1/29/2023 | 4:04:04 PM : Scene Item witnessguard1 properties checked in 0.0089ms

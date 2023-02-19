@@ -1,0 +1,79 @@
+﻿<Window
+    x:Class="LSNoirCaseEditorWPF.Windows.MainScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Width="1500"
+    Height="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Menu x:Name="NavView">
+            <MenuItem x:Name="home" Click="Menu_Clicked"  Margin="5,5,5,5">
+                <MenuItem.Header>
+                    <TextBlock Text="Home" VerticalAlignment="Center" />
+                </MenuItem.Header>
+                <MenuItem.Icon>
+                    <Image Source="/Images/home.png"  VerticalAlignment="Center" />
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem x:Name="navNewCase" Click="Menu_Clicked"  Margin="5,5,5,5">
+                <MenuItem.Header>
+                    <TextBlock Text="New Case" VerticalAlignment="Center" />
+                </MenuItem.Header>
+                <MenuItem.Icon>
+                    <Image Source="/Images/folder-add.png"  VerticalAlignment="Center" />
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem x:Name="navOpenCase" Click="Menu_Clicked"  Margin="5,5,5,5">
+                <MenuItem.Header>
+                    <TextBlock Text="Open Case" VerticalAlignment="Center" />
+                </MenuItem.Header>
+                <MenuItem.Icon>
+                    <Image Source="/Images/folder-open.png"  VerticalAlignment="Center" />
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem x:Name="navSaveCase" Click="Menu_Clicked"  Margin="5,5,5,5">
+                <MenuItem.Header>
+                    <TextBlock Text="Save Case" VerticalAlignment="Center" />
+                </MenuItem.Header>
+                <MenuItem.Icon>
+                    <Image Source="/Images/save.png"  VerticalAlignment="Center" />
+                </MenuItem.Icon>
+            </MenuItem>
+
+            <MenuItem x:Name="navPrintCase" Click="Menu_Clicked"  Margin="5,5,5,5">
+                <MenuItem.Header>
+                    <TextBlock Text="Print" VerticalAlignment="Center" />
+                </MenuItem.Header>
+                <MenuItem.Icon>
+                    <Image Source="/Images/printer.png"  VerticalAlignment="Center" />
+                </MenuItem.Icon>
+            </MenuItem>
+
+            <MenuItem x:Name="navInfo" Click="Menu_Clicked"  Margin="5,5,5,5">
+                <MenuItem.Header>
+                    <TextBlock Text="About" VerticalAlignment="Center" />
+                </MenuItem.Header>
+                <MenuItem.Icon>
+                    <Image Source="/Images/symbol-info.png"  VerticalAlignment="Center" />
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem x:Name="navViewSource" Click="Menu_Clicked"  Margin="5,5,5,5">
+                <MenuItem.Header>
+                    <TextBlock Text="Source" VerticalAlignment="Center" />
+                </MenuItem.Header>
+                <MenuItem.Icon>
+                    <Image Source="/Images/view-cloud.png"  VerticalAlignment="Center" />
+                </MenuItem.Icon>
+            </MenuItem>
+        </Menu>
+        <TabControl x:Name="MainNavigation" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="1" Margin="5,5,5,5" Loaded="TabView_Loaded" />
+    </Grid>
+</Window>

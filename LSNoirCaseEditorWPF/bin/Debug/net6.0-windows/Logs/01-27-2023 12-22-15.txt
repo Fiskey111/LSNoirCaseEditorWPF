@@ -1,0 +1,1921 @@
+1/27/2023 | 12:22:18 PM : OpenCase()
+1/27/2023 | 12:22:18 PM : CheckSave false
+1/27/2023 | 12:22:20 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+1/27/2023 | 12:22:20 PM : Clearing nodes
+1/27/2023 | 12:22:20 PM : GetTreeViewData
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Checking property: ID
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+1/27/2023 | 12:22:20 PM : Node created: Case ID
+1/27/2023 | 12:22:20 PM : rootStageNode Items = 0
+1/27/2023 | 12:22:20 PM : Checking property: Name
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+1/27/2023 | 12:22:20 PM : Node created: Case Name
+1/27/2023 | 12:22:20 PM : rootStageNode Items = 0
+1/27/2023 | 12:22:20 PM : Checking property: Description
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+1/27/2023 | 12:22:20 PM : Node created: Case Description
+1/27/2023 | 12:22:20 PM : rootStageNode Items = 0
+1/27/2023 | 12:22:20 PM : Checking property: Progress
+1/27/2023 | 12:22:20 PM : rootStageNode Items = 0
+1/27/2023 | 12:22:20 PM : Checking property: Documents
+1/27/2023 | 12:22:20 PM : rootStageNode Items = 0
+1/27/2023 | 12:22:20 PM : Checking property: DetailedInformation
+1/27/2023 | 12:22:20 PM : rootStageNode Items = 0
+1/27/2023 | 12:22:20 PM : Checking property: Notes
+1/27/2023 | 12:22:20 PM : rootStageNode Items = 0
+1/27/2023 | 12:22:20 PM : Checking property: Stages
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Checking property: ID
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Stage - CSI, ID, CaseManager.NewData.Stage
+1/27/2023 | 12:22:20 PM : Node created: Stage ID
+1/27/2023 | 12:22:20 PM : stageNode Items = 1
+1/27/2023 | 12:22:20 PM : Checking property: Completed
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Stage - CSI, Completed, CaseManager.NewData.Stage
+1/27/2023 | 12:22:20 PM : Node created: 
+1/27/2023 | 12:22:20 PM : stageNode Items = 2
+1/27/2023 | 12:22:20 PM : Checking property: StageType
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Stage - CSI, StageType, CaseManager.NewData.Stage
+1/27/2023 | 12:22:20 PM : Node created: Stage Type
+1/27/2023 | 12:22:20 PM : stageNode Items = 3
+1/27/2023 | 12:22:20 PM : Checking property: SceneItems
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddSceneItems: CSI
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Adding task to list victim
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Scene ID
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 1.4273ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 2.3602ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Model Name
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 19.1676ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 19.6717ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Model Random
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 1.4173ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 1.9127ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Type of Object
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 1.7806ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 2.3029ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Spawn Position
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 11.5767ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 12.0359ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 1.11ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 1.5991ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Position Frozen
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 2.733ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 3.2557ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Weapon Name
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 1.1712ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 1.6618ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Scenarios
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 3.5523ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.3716ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - victim, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Is Interactable
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 1.4849ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 2.0803ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Important
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 2.4116ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Compliant
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 1.4625ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 1.558ms
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 0.0388ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 3.0969ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 2.1218ms
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 0.0403ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 1.6706ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Message when Collected
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 1.5901ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 1.9826ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Secondary Position
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 1.524ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:20 PM : Node created: Traces
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 3.4043ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 2.5239ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:20 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Scene Item victim interaction checked in 5.1632ms
+1/27/2023 | 12:22:20 PM : sceneNode Items = 11
+1/27/2023 | 12:22:20 PM : Scene Item victim properties checked in 41.954ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 42.7074ms
+1/27/2023 | 12:22:20 PM : Adding task to list evidence_1
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Scene ID
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 1.9149ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 3.3715ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Model Name
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 3.58ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 4.751ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Model Random
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 3.6629ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 4.5893ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Type of Object
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 1.7687ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 3.2012ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Spawn Position
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 2.69ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 3.9976ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 3.9338ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.265ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Position Frozen
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 3.8266ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 6.1772ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Weapon Name
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 3.2245ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 4.8188ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Scenarios
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 2.504ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 3.4033ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - evidence_1, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Is Interactable
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 2.6116ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 3.5204ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Important
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 3.3931ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Compliant
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.6976ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.8141ms
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 0.0399ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.8875ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.5709ms
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 0.0366ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.8904ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Message when Collected
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.3953ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.0786ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Secondary Position
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.6499ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:20 PM : Node created: Traces
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 4.3248ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 2.2108ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:20 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 interaction checked in 6.6596ms
+1/27/2023 | 12:22:20 PM : sceneNode Items = 11
+1/27/2023 | 12:22:20 PM : Scene Item evidence_1 properties checked in 58.8763ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 59.8461ms
+1/27/2023 | 12:22:20 PM : Adding task to list first_officer
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Scene ID
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 4.0338ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.4398ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Model Name
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 4.5707ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 6.5526ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Model Random
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 4.3146ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.5003ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Type of Object
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 3.8711ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.6468ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Spawn Position
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 3.6893ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.6742ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 3.7896ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.6835ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Position Frozen
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 3.8728ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.8838ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Weapon Name
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 3.5816ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.3982ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Scenarios
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 3.9904ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.9288ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Scene Item - first_officer, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:20 PM : Node created: Is Interactable
+1/27/2023 | 12:22:20 PM : Scene Item first_officer properties checked in 3.72ms
+1/27/2023 | 12:22:20 PM : Scene Item added in 5.4884ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Important
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 4.4225ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Compliant
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 6.9834ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 3.3676ms
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 0.0408ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 4.2087ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 3.9914ms
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 0.0324ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 4.6018ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Message when Collected
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 4.35ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 3.3028ms
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:20 PM : Node created: Secondary Position
+1/27/2023 | 12:22:20 PM : Scene Item first_officer interaction checked in 5.2696ms
+1/27/2023 | 12:22:20 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:20 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:20 PM : Node created: Traces
+1/27/2023 | 12:22:21 PM : Scene Item first_officer interaction checked in 8.262ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item first_officer interaction checked in 3.0111ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:21 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item first_officer interaction checked in 10.0857ms
+1/27/2023 | 12:22:21 PM : sceneNode Items = 11
+1/27/2023 | 12:22:21 PM : Scene Item first_officer properties checked in 94.3741ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 96.271ms
+1/27/2023 | 12:22:21 PM : Adding task to list evidence_2
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Scene ID
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 5.3439ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 8.1145ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Model Name
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 6.028ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 8.8691ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Model Random
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 5.3228ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 7.4621ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Type of Object
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 6.7711ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 9.0587ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Spawn Position
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 6.2879ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 9.0545ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 5.6754ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 8.6108ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Position Frozen
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 5.0227ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 7.7438ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Weapon Name
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 4.9243ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 7.849ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Scenarios
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 5.7545ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 8.8602ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_2, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Is Interactable
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 5.9303ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 8.5682ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Important
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 6.2808ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Compliant
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 5.7659ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 5.8174ms
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 0.038ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 6.2098ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 5.6273ms
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 0.0359ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 5.6174ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Message when Collected
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 5.7221ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 3.7233ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Secondary Position
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 5.7353ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:21 PM : Node created: Traces
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 10.1324ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 4.5945ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:21 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 interaction checked in 12.1345ms
+1/27/2023 | 12:22:21 PM : sceneNode Items = 11
+1/27/2023 | 12:22:21 PM : Scene Item evidence_2 properties checked in 121.1318ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 123.3722ms
+1/27/2023 | 12:22:21 PM : Adding task to list evidence_3
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Scene ID
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 7.5298ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 10.5893ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Model Name
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 7.8421ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 10.8311ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Model Random
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 8.2478ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 11.1838ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Type of Object
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 6.4768ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 9.8224ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Spawn Position
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 7.1951ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 10.288ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 6.9663ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 10.3429ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Position Frozen
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 7.1933ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 11.2165ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Weapon Name
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 7.4923ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 12.1876ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Scenarios
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 7.1878ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 11.0572ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - evidence_3, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Is Interactable
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 7.4252ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 12.5153ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Important
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 7.379ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Compliant
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 8.2637ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 8.7096ms
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 0.0346ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 7.4935ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 8.8244ms
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 0.0367ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 9.163ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Message when Collected
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 10.9412ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 6.0948ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Secondary Position
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 7.9682ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:21 PM : Node created: Traces
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 12.9299ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 5.2502ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:21 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 interaction checked in 17.0712ms
+1/27/2023 | 12:22:21 PM : sceneNode Items = 11
+1/27/2023 | 12:22:21 PM : Scene Item evidence_3 properties checked in 175.8018ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 179.4985ms
+1/27/2023 | 12:22:21 PM : Adding task to list trash_01
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Scene ID
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 8.8836ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 13.2784ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Model Name
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 8.9535ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 13.6921ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Model Random
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 8.512ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 12.5985ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Type of Object
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 9.0103ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 13.1992ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Spawn Position
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 10.4583ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 14.5825ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 9.5919ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 14.9833ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Position Frozen
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 9.3631ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 13.5646ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Weapon Name
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 8.9025ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 12.9279ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Scenarios
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 10.0926ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 15.4644ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Scene Item - trash_01, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:21 PM : Node created: Is Interactable
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 properties checked in 10.0516ms
+1/27/2023 | 12:22:21 PM : Scene Item added in 14.1087ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Important
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 9.4513ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Compliant
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 11.0044ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 10.7567ms
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 0.0352ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 11.1465ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 10.8388ms
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 0.0333ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 11.553ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Message when Collected
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 10.154ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 5.5331ms
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:21 PM : Node created: Secondary Position
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 11.5864ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:21 PM : Node created: Traces
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 15.7597ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : Scene Item trash_01 interaction checked in 6.7831ms
+1/27/2023 | 12:22:21 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:21 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:22 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : Scene Item trash_01 interaction checked in 28.7604ms
+1/27/2023 | 12:22:22 PM : sceneNode Items = 11
+1/27/2023 | 12:22:22 PM : Scene Item trash_01 properties checked in 228.4109ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 233.1637ms
+1/27/2023 | 12:22:22 PM : Adding task to list trash_02
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Scene ID
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 16.259ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 24.302ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Model Name
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 12.6925ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 18.6137ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Model Random
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 12.2629ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 18.7278ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Type of Object
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 19.4938ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 24.4324ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Spawn Position
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 10.9017ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 16.9015ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 11.3547ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 16.7216ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Position Frozen
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 11.7587ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 18.4016ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Weapon Name
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 11.9083ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 25.8072ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Scenarios
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 18.2433ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 24.2597ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_02, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Is Interactable
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 17.3917ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 23.6459ms
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:22 PM : Node created: Important
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 18.8406ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:22 PM : Node created: Compliant
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 18.087ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:22 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 18.1164ms
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 0.0484ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:22 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 17.3757ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:22 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 19.0592ms
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 0.0474ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:22 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 20.3021ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:22 PM : Node created: Message when Collected
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 19.1592ms
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 12.4461ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:22 PM : Node created: Secondary Position
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 20.0276ms
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:22 PM : Node created: Traces
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 26.6058ms
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 7.5895ms
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:22 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 interaction checked in 38.2984ms
+1/27/2023 | 12:22:22 PM : sceneNode Items = 11
+1/27/2023 | 12:22:22 PM : Scene Item trash_02 properties checked in 386.481ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 395.9447ms
+1/27/2023 | 12:22:22 PM : Adding task to list trash_03
+1/27/2023 | 12:22:22 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_03, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Scene ID
+1/27/2023 | 12:22:22 PM : Scene Item trash_03 properties checked in 19.3353ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 35.5102ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_03, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Model Name
+1/27/2023 | 12:22:22 PM : Scene Item trash_03 properties checked in 31.7926ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 48.4685ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_03, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Model Random
+1/27/2023 | 12:22:22 PM : Scene Item trash_03 properties checked in 28.0498ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 42.4666ms
+1/27/2023 | 12:22:22 PM : AddItemToTreeView: Scene Item - trash_03, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:22 PM : Node created: Type of Object
+1/27/2023 | 12:22:22 PM : Scene Item trash_03 properties checked in 29.6664ms
+1/27/2023 | 12:22:22 PM : Scene Item added in 42.4044ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Scene Item - trash_03, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:23 PM : Node created: Spawn Position
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 properties checked in 26.13ms
+1/27/2023 | 12:22:23 PM : Scene Item added in 38.8593ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Scene Item - trash_03, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:23 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 properties checked in 26.4664ms
+1/27/2023 | 12:22:23 PM : Scene Item added in 40.3961ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Scene Item - trash_03, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:23 PM : Node created: Position Frozen
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 properties checked in 26.658ms
+1/27/2023 | 12:22:23 PM : Scene Item added in 43.0399ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Scene Item - trash_03, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:23 PM : Node created: Weapon Name
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 properties checked in 29.9323ms
+1/27/2023 | 12:22:23 PM : Scene Item added in 43.2588ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Scene Item - trash_03, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:23 PM : Node created: Scenarios
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 properties checked in 29.6303ms
+1/27/2023 | 12:22:23 PM : Scene Item added in 43.2161ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Scene Item - trash_03, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:23 PM : Node created: Is Interactable
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 properties checked in 34.6068ms
+1/27/2023 | 12:22:23 PM : Scene Item added in 51.6933ms
+1/27/2023 | 12:22:23 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:23 PM : Node created: Important
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 28.8003ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:23 PM : Node created: Compliant
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 28.0502ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:23 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 30.4378ms
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 0.0524ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:23 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 31.3051ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:23 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 27.288ms
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 0.0436ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:23 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 30.3356ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:23 PM : Node created: Message when Collected
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 28.1502ms
+1/27/2023 | 12:22:23 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 18.3303ms
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:23 PM : Node created: Secondary Position
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 33.6614ms
+1/27/2023 | 12:22:23 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:23 PM : Node created: Traces
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 49.0983ms
+1/27/2023 | 12:22:23 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 19.2025ms
+1/27/2023 | 12:22:23 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:23 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:23 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:23 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 interaction checked in 57.219ms
+1/27/2023 | 12:22:23 PM : sceneNode Items = 11
+1/27/2023 | 12:22:23 PM : Scene Item trash_03 properties checked in 619.0873ms
+1/27/2023 | 12:22:23 PM : Scene Item added in 633.5718ms
+1/27/2023 | 12:22:24 PM : Adding task to list policeguard_1
+1/27/2023 | 12:22:24 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Scene ID
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 28.0204ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 42.1224ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Model Name
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 34.4364ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 49.5653ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Model Random
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 30.7464ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 45.8621ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Type of Object
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 32.351ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 46.8197ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Spawn Position
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 29.9003ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 45.2048ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 28.6848ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 45.7158ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Position Frozen
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 29.8082ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 45.6808ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Weapon Name
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 32.2709ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 46.4258ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Scenarios
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 29.2064ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 44.3162ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Scene Item - policeguard_1, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:24 PM : Node created: Is Interactable
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 properties checked in 32.8575ms
+1/27/2023 | 12:22:24 PM : Scene Item added in 47.9138ms
+1/27/2023 | 12:22:24 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:24 PM : Node created: Important
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 interaction checked in 30.8404ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:24 PM : Node created: Compliant
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 interaction checked in 31.0522ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:24 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 interaction checked in 34.5858ms
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 interaction checked in 0.0566ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:24 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 interaction checked in 31.4563ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:24 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 interaction checked in 31.1025ms
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 interaction checked in 0.0525ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:24 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:24 PM : Scene Item policeguard_1 interaction checked in 31.2548ms
+1/27/2023 | 12:22:24 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:24 PM : Node created: Message when Collected
+1/27/2023 | 12:22:25 PM : Scene Item policeguard_1 interaction checked in 34.2057ms
+1/27/2023 | 12:22:25 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:25 PM : Scene Item policeguard_1 interaction checked in 15.9956ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:25 PM : Node created: Secondary Position
+1/27/2023 | 12:22:25 PM : Scene Item policeguard_1 interaction checked in 32.4694ms
+1/27/2023 | 12:22:25 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:25 PM : Node created: Traces
+1/27/2023 | 12:22:25 PM : Scene Item policeguard_1 interaction checked in 51.7561ms
+1/27/2023 | 12:22:25 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:25 PM : Scene Item policeguard_1 interaction checked in 16.2077ms
+1/27/2023 | 12:22:25 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:25 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:25 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:25 PM : Scene Item policeguard_1 interaction checked in 63.4779ms
+1/27/2023 | 12:22:25 PM : sceneNode Items = 11
+1/27/2023 | 12:22:25 PM : Scene Item policeguard_1 properties checked in 656.0828ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 673.0909ms
+1/27/2023 | 12:22:25 PM : Adding task to list police_veh_01
+1/27/2023 | 12:22:25 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Scene ID
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 32.3074ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 51.1697ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Model Name
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 31.6819ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 51.4257ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Model Random
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 37.2433ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 60.7612ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Type of Object
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 35.356ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 60.4762ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Spawn Position
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 37.0654ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 61.5453ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 34.5746ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 58.8165ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Position Frozen
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 35.3164ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 61.3339ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Weapon Name
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 37.5808ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 55.9365ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:25 PM : Node created: Scenarios
+1/27/2023 | 12:22:25 PM : Scene Item police_veh_01 properties checked in 34.5935ms
+1/27/2023 | 12:22:25 PM : Scene Item added in 53.1895ms
+1/27/2023 | 12:22:25 PM : AddItemToTreeView: Scene Item - police_veh_01, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:26 PM : Node created: Is Interactable
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 properties checked in 36.6448ms
+1/27/2023 | 12:22:26 PM : Scene Item added in 55.3663ms
+1/27/2023 | 12:22:26 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:26 PM : Node created: Important
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 35.2491ms
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:26 PM : Node created: Compliant
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 35.2017ms
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:26 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 33.4168ms
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 0.0854ms
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:26 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 39.7343ms
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:26 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 35.6896ms
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 0.0577ms
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:26 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 36.0466ms
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:26 PM : Node created: Message when Collected
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 39.6447ms
+1/27/2023 | 12:22:26 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 19.8377ms
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:26 PM : Node created: Secondary Position
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 35.8355ms
+1/27/2023 | 12:22:26 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:26 PM : Node created: Traces
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 60.9748ms
+1/27/2023 | 12:22:26 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 23.625ms
+1/27/2023 | 12:22:26 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:26 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:26 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 interaction checked in 84.3429ms
+1/27/2023 | 12:22:26 PM : sceneNode Items = 11
+1/27/2023 | 12:22:26 PM : Scene Item police_veh_01 properties checked in 785.3042ms
+1/27/2023 | 12:22:26 PM : Scene Item added in 807.7305ms
+1/27/2023 | 12:22:26 PM : Adding task to list policeveh2
+1/27/2023 | 12:22:26 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:26 PM : AddItemToTreeView: Scene Item - policeveh2, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:26 PM : Node created: Scene ID
+1/27/2023 | 12:22:26 PM : Scene Item policeveh2 properties checked in 37.6515ms
+1/27/2023 | 12:22:26 PM : Scene Item added in 58.9123ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Model Name
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 50.572ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 78.9875ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Model Random
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 53.1437ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 77.5157ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Type of Object
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 40.8934ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 59.2415ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Spawn Position
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 38.9157ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 61.5425ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 64.4937ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 98.4246ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Position Frozen
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 50.1395ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 75.7052ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Weapon Name
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 61.9446ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 88.8725ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Scenarios
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 45.1686ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 78.2685ms
+1/27/2023 | 12:22:27 PM : AddItemToTreeView: Scene Item - policeveh2, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:27 PM : Node created: Is Interactable
+1/27/2023 | 12:22:27 PM : Scene Item policeveh2 properties checked in 56.0807ms
+1/27/2023 | 12:22:27 PM : Scene Item added in 83.5787ms
+1/27/2023 | 12:22:27 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:28 PM : Node created: Important
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 46.7319ms
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:28 PM : Node created: Compliant
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 51.3948ms
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:28 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 49.841ms
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 0.0484ms
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:28 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 37.3295ms
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:28 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 42.8533ms
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 0.0452ms
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:28 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 39.3036ms
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:28 PM : Node created: Message when Collected
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 48.1855ms
+1/27/2023 | 12:22:28 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 25.2366ms
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:28 PM : Node created: Secondary Position
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 62.4157ms
+1/27/2023 | 12:22:28 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:28 PM : Node created: Traces
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 72.7186ms
+1/27/2023 | 12:22:28 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 32.8567ms
+1/27/2023 | 12:22:28 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:28 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:28 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:28 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:28 PM : Scene Item policeveh2 interaction checked in 127.499ms
+1/27/2023 | 12:22:28 PM : sceneNode Items = 11
+1/27/2023 | 12:22:29 PM : Scene Item policeveh2 properties checked in 1041.0088ms
+1/27/2023 | 12:22:29 PM : Scene Item added in 1068.0361ms
+1/27/2023 | 12:22:29 PM : Adding task to list barricade1
+1/27/2023 | 12:22:29 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:29 PM : AddItemToTreeView: Scene Item - barricade1, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:29 PM : Node created: Scene ID
+1/27/2023 | 12:22:29 PM : Scene Item barricade1 properties checked in 54.1414ms
+1/27/2023 | 12:22:29 PM : Scene Item added in 82.1949ms
+1/27/2023 | 12:22:29 PM : AddItemToTreeView: Scene Item - barricade1, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:29 PM : Node created: Model Name
+1/27/2023 | 12:22:29 PM : Scene Item barricade1 properties checked in 57.6227ms
+1/27/2023 | 12:22:29 PM : Scene Item added in 83.75ms
+1/27/2023 | 12:22:29 PM : AddItemToTreeView: Scene Item - barricade1, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:29 PM : Node created: Model Random
+1/27/2023 | 12:22:29 PM : Scene Item barricade1 properties checked in 49.2876ms
+1/27/2023 | 12:22:29 PM : Scene Item added in 80.8371ms
+1/27/2023 | 12:22:29 PM : AddItemToTreeView: Scene Item - barricade1, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:29 PM : Node created: Type of Object
+1/27/2023 | 12:22:29 PM : Scene Item barricade1 properties checked in 58.795ms
+1/27/2023 | 12:22:29 PM : Scene Item added in 87.3716ms
+1/27/2023 | 12:22:29 PM : AddItemToTreeView: Scene Item - barricade1, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:29 PM : Node created: Spawn Position
+1/27/2023 | 12:22:29 PM : Scene Item barricade1 properties checked in 51.9758ms
+1/27/2023 | 12:22:29 PM : Scene Item added in 93.7814ms
+1/27/2023 | 12:22:29 PM : AddItemToTreeView: Scene Item - barricade1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:29 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:29 PM : Scene Item barricade1 properties checked in 59.1521ms
+1/27/2023 | 12:22:29 PM : Scene Item added in 92.9294ms
+1/27/2023 | 12:22:29 PM : AddItemToTreeView: Scene Item - barricade1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:29 PM : Node created: Position Frozen
+1/27/2023 | 12:22:29 PM : Scene Item barricade1 properties checked in 52.977ms
+1/27/2023 | 12:22:29 PM : Scene Item added in 83.1225ms
+1/27/2023 | 12:22:29 PM : AddItemToTreeView: Scene Item - barricade1, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:30 PM : Node created: Weapon Name
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 properties checked in 77.2435ms
+1/27/2023 | 12:22:30 PM : Scene Item added in 98.8696ms
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Scene Item - barricade1, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:30 PM : Node created: Scenarios
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 properties checked in 63.529ms
+1/27/2023 | 12:22:30 PM : Scene Item added in 99.2809ms
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Scene Item - barricade1, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:30 PM : Node created: Is Interactable
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 properties checked in 55.8184ms
+1/27/2023 | 12:22:30 PM : Scene Item added in 84.7031ms
+1/27/2023 | 12:22:30 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:30 PM : Node created: Important
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 interaction checked in 47.9965ms
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:30 PM : Node created: Compliant
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 interaction checked in 67.7955ms
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:30 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 interaction checked in 66.4788ms
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 interaction checked in 0.0561ms
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:30 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 interaction checked in 76.5617ms
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:30 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 interaction checked in 65.2313ms
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 interaction checked in 0.0439ms
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:30 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:30 PM : Scene Item barricade1 interaction checked in 43.0925ms
+1/27/2023 | 12:22:30 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:31 PM : Node created: Message when Collected
+1/27/2023 | 12:22:31 PM : Scene Item barricade1 interaction checked in 44.6072ms
+1/27/2023 | 12:22:31 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:31 PM : Scene Item barricade1 interaction checked in 20.3392ms
+1/27/2023 | 12:22:31 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:31 PM : Node created: Secondary Position
+1/27/2023 | 12:22:31 PM : Scene Item barricade1 interaction checked in 48.7534ms
+1/27/2023 | 12:22:31 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:31 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:31 PM : Node created: Traces
+1/27/2023 | 12:22:31 PM : Scene Item barricade1 interaction checked in 64.5035ms
+1/27/2023 | 12:22:31 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:31 PM : Scene Item barricade1 interaction checked in 21.7002ms
+1/27/2023 | 12:22:31 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:31 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:31 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:31 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:31 PM : Scene Item barricade1 interaction checked in 92.4827ms
+1/27/2023 | 12:22:31 PM : sceneNode Items = 11
+1/27/2023 | 12:22:31 PM : Scene Item barricade1 properties checked in 1087.513ms
+1/27/2023 | 12:22:31 PM : Scene Item added in 1126.3806ms
+1/27/2023 | 12:22:31 PM : Adding task to list barricade2
+1/27/2023 | 12:22:31 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:31 PM : AddItemToTreeView: Scene Item - barricade2, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:31 PM : Node created: Scene ID
+1/27/2023 | 12:22:31 PM : Scene Item barricade2 properties checked in 65.7346ms
+1/27/2023 | 12:22:31 PM : Scene Item added in 100.214ms
+1/27/2023 | 12:22:31 PM : AddItemToTreeView: Scene Item - barricade2, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:31 PM : Node created: Model Name
+1/27/2023 | 12:22:31 PM : Scene Item barricade2 properties checked in 78.1895ms
+1/27/2023 | 12:22:31 PM : Scene Item added in 121.9613ms
+1/27/2023 | 12:22:31 PM : AddItemToTreeView: Scene Item - barricade2, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:31 PM : Node created: Model Random
+1/27/2023 | 12:22:31 PM : Scene Item barricade2 properties checked in 68.3696ms
+1/27/2023 | 12:22:31 PM : Scene Item added in 110.7209ms
+1/27/2023 | 12:22:31 PM : AddItemToTreeView: Scene Item - barricade2, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:32 PM : Node created: Type of Object
+1/27/2023 | 12:22:32 PM : Scene Item barricade2 properties checked in 71.1981ms
+1/27/2023 | 12:22:32 PM : Scene Item added in 103.645ms
+1/27/2023 | 12:22:32 PM : AddItemToTreeView: Scene Item - barricade2, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:32 PM : Node created: Spawn Position
+1/27/2023 | 12:22:32 PM : Scene Item barricade2 properties checked in 92.6272ms
+1/27/2023 | 12:22:32 PM : Scene Item added in 114.4647ms
+1/27/2023 | 12:22:32 PM : AddItemToTreeView: Scene Item - barricade2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:32 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:32 PM : Scene Item barricade2 properties checked in 58.8423ms
+1/27/2023 | 12:22:32 PM : Scene Item added in 91.2281ms
+1/27/2023 | 12:22:32 PM : AddItemToTreeView: Scene Item - barricade2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:32 PM : Node created: Position Frozen
+1/27/2023 | 12:22:32 PM : Scene Item barricade2 properties checked in 72.38ms
+1/27/2023 | 12:22:32 PM : Scene Item added in 112.6584ms
+1/27/2023 | 12:22:32 PM : AddItemToTreeView: Scene Item - barricade2, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:32 PM : Node created: Weapon Name
+1/27/2023 | 12:22:32 PM : Scene Item barricade2 properties checked in 90.5089ms
+1/27/2023 | 12:22:32 PM : Scene Item added in 115.0164ms
+1/27/2023 | 12:22:32 PM : AddItemToTreeView: Scene Item - barricade2, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:32 PM : Node created: Scenarios
+1/27/2023 | 12:22:32 PM : Scene Item barricade2 properties checked in 67.2243ms
+1/27/2023 | 12:22:32 PM : Scene Item added in 100.7351ms
+1/27/2023 | 12:22:32 PM : AddItemToTreeView: Scene Item - barricade2, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:32 PM : Node created: Is Interactable
+1/27/2023 | 12:22:32 PM : Scene Item barricade2 properties checked in 53.3184ms
+1/27/2023 | 12:22:32 PM : Scene Item added in 80.6191ms
+1/27/2023 | 12:22:32 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:32 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:32 PM : Node created: Important
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 56.1026ms
+1/27/2023 | 12:22:33 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:33 PM : Node created: Compliant
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 96.575ms
+1/27/2023 | 12:22:33 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:33 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 52.9999ms
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 0.0464ms
+1/27/2023 | 12:22:33 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:33 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 83.3803ms
+1/27/2023 | 12:22:33 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:33 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 61.2999ms
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 0.0575ms
+1/27/2023 | 12:22:33 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:33 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 87.8292ms
+1/27/2023 | 12:22:33 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:33 PM : Node created: Message when Collected
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 63.7243ms
+1/27/2023 | 12:22:33 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 40.2092ms
+1/27/2023 | 12:22:33 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:33 PM : Node created: Secondary Position
+1/27/2023 | 12:22:33 PM : Scene Item barricade2 interaction checked in 68.6481ms
+1/27/2023 | 12:22:33 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:34 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:34 PM : Node created: Traces
+1/27/2023 | 12:22:34 PM : Scene Item barricade2 interaction checked in 130.7079ms
+1/27/2023 | 12:22:34 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:34 PM : Scene Item barricade2 interaction checked in 29.6191ms
+1/27/2023 | 12:22:34 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:34 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:34 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:34 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:34 PM : Scene Item barricade2 interaction checked in 126.454ms
+1/27/2023 | 12:22:34 PM : sceneNode Items = 11
+1/27/2023 | 12:22:34 PM : Scene Item barricade2 properties checked in 1486.9689ms
+1/27/2023 | 12:22:34 PM : Scene Item added in 1512.7504ms
+1/27/2023 | 12:22:34 PM : Adding task to list police_crowd_1
+1/27/2023 | 12:22:34 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:34 PM : AddItemToTreeView: Scene Item - police_crowd_1, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:34 PM : Node created: Scene ID
+1/27/2023 | 12:22:34 PM : Scene Item police_crowd_1 properties checked in 81.5552ms
+1/27/2023 | 12:22:34 PM : Scene Item added in 119.8665ms
+1/27/2023 | 12:22:34 PM : AddItemToTreeView: Scene Item - police_crowd_1, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:34 PM : Node created: Model Name
+1/27/2023 | 12:22:34 PM : Scene Item police_crowd_1 properties checked in 79.56ms
+1/27/2023 | 12:22:34 PM : Scene Item added in 124.2196ms
+1/27/2023 | 12:22:34 PM : AddItemToTreeView: Scene Item - police_crowd_1, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:34 PM : Node created: Model Random
+1/27/2023 | 12:22:34 PM : Scene Item police_crowd_1 properties checked in 87.1033ms
+1/27/2023 | 12:22:34 PM : Scene Item added in 132.3222ms
+1/27/2023 | 12:22:35 PM : AddItemToTreeView: Scene Item - police_crowd_1, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:35 PM : Node created: Type of Object
+1/27/2023 | 12:22:35 PM : Scene Item police_crowd_1 properties checked in 62.9483ms
+1/27/2023 | 12:22:35 PM : Scene Item added in 102.1916ms
+1/27/2023 | 12:22:35 PM : AddItemToTreeView: Scene Item - police_crowd_1, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:35 PM : Node created: Spawn Position
+1/27/2023 | 12:22:35 PM : Scene Item police_crowd_1 properties checked in 91.8004ms
+1/27/2023 | 12:22:35 PM : Scene Item added in 116.136ms
+1/27/2023 | 12:22:35 PM : AddItemToTreeView: Scene Item - police_crowd_1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:35 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:35 PM : Scene Item police_crowd_1 properties checked in 67.3973ms
+1/27/2023 | 12:22:35 PM : Scene Item added in 110.2914ms
+1/27/2023 | 12:22:35 PM : AddItemToTreeView: Scene Item - police_crowd_1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:35 PM : Node created: Position Frozen
+1/27/2023 | 12:22:35 PM : Scene Item police_crowd_1 properties checked in 67.487ms
+1/27/2023 | 12:22:35 PM : Scene Item added in 105.9158ms
+1/27/2023 | 12:22:35 PM : AddItemToTreeView: Scene Item - police_crowd_1, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:35 PM : Node created: Weapon Name
+1/27/2023 | 12:22:35 PM : Scene Item police_crowd_1 properties checked in 66.4187ms
+1/27/2023 | 12:22:35 PM : Scene Item added in 105.5213ms
+1/27/2023 | 12:22:35 PM : AddItemToTreeView: Scene Item - police_crowd_1, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:35 PM : Node created: Scenarios
+1/27/2023 | 12:22:35 PM : Scene Item police_crowd_1 properties checked in 93.4075ms
+1/27/2023 | 12:22:35 PM : Scene Item added in 134.1861ms
+1/27/2023 | 12:22:35 PM : AddItemToTreeView: Scene Item - police_crowd_1, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:35 PM : Node created: Is Interactable
+1/27/2023 | 12:22:35 PM : Scene Item police_crowd_1 properties checked in 78.9836ms
+1/27/2023 | 12:22:36 PM : Scene Item added in 123.3399ms
+1/27/2023 | 12:22:36 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:36 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:36 PM : Node created: Important
+1/27/2023 | 12:22:36 PM : Scene Item police_crowd_1 interaction checked in 101.6366ms
+1/27/2023 | 12:22:36 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:36 PM : Node created: Compliant
+1/27/2023 | 12:22:36 PM : Scene Item police_crowd_1 interaction checked in 84.6152ms
+1/27/2023 | 12:22:36 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:36 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:36 PM : Scene Item police_crowd_1 interaction checked in 73.4021ms
+1/27/2023 | 12:22:36 PM : Scene Item police_crowd_1 interaction checked in 0.0569ms
+1/27/2023 | 12:22:36 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:36 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:36 PM : Scene Item police_crowd_1 interaction checked in 71.3813ms
+1/27/2023 | 12:22:36 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:36 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:36 PM : Scene Item police_crowd_1 interaction checked in 93.0628ms
+1/27/2023 | 12:22:36 PM : Scene Item police_crowd_1 interaction checked in 0.0444ms
+1/27/2023 | 12:22:36 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:36 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:36 PM : Scene Item police_crowd_1 interaction checked in 98.5783ms
+1/27/2023 | 12:22:36 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:36 PM : Node created: Message when Collected
+1/27/2023 | 12:22:37 PM : Scene Item police_crowd_1 interaction checked in 67.9661ms
+1/27/2023 | 12:22:37 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:37 PM : Scene Item police_crowd_1 interaction checked in 31.5109ms
+1/27/2023 | 12:22:37 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:37 PM : Node created: Secondary Position
+1/27/2023 | 12:22:37 PM : Scene Item police_crowd_1 interaction checked in 70.8741ms
+1/27/2023 | 12:22:37 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:37 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:37 PM : Node created: Traces
+1/27/2023 | 12:22:37 PM : Scene Item police_crowd_1 interaction checked in 112.2795ms
+1/27/2023 | 12:22:37 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:37 PM : Scene Item police_crowd_1 interaction checked in 28.0609ms
+1/27/2023 | 12:22:37 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:37 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:37 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:37 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:37 PM : Scene Item police_crowd_1 interaction checked in 165.5263ms
+1/27/2023 | 12:22:37 PM : sceneNode Items = 11
+1/27/2023 | 12:22:37 PM : Scene Item police_crowd_1 properties checked in 1610.1256ms
+1/27/2023 | 12:22:37 PM : Scene Item added in 1645.1941ms
+1/27/2023 | 12:22:37 PM : Adding task to list guard2
+1/27/2023 | 12:22:37 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:37 PM : AddItemToTreeView: Scene Item - guard2, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:37 PM : Node created: Scene ID
+1/27/2023 | 12:22:37 PM : Scene Item guard2 properties checked in 102.867ms
+1/27/2023 | 12:22:37 PM : Scene Item added in 166.8226ms
+1/27/2023 | 12:22:38 PM : AddItemToTreeView: Scene Item - guard2, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:38 PM : Node created: Model Name
+1/27/2023 | 12:22:38 PM : Scene Item guard2 properties checked in 88.2042ms
+1/27/2023 | 12:22:38 PM : Scene Item added in 155.6499ms
+1/27/2023 | 12:22:38 PM : AddItemToTreeView: Scene Item - guard2, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:38 PM : Node created: Model Random
+1/27/2023 | 12:22:38 PM : Scene Item guard2 properties checked in 88.0949ms
+1/27/2023 | 12:22:38 PM : Scene Item added in 130.6914ms
+1/27/2023 | 12:22:38 PM : AddItemToTreeView: Scene Item - guard2, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:38 PM : Node created: Type of Object
+1/27/2023 | 12:22:38 PM : Scene Item guard2 properties checked in 88.1553ms
+1/27/2023 | 12:22:38 PM : Scene Item added in 160.1829ms
+1/27/2023 | 12:22:38 PM : AddItemToTreeView: Scene Item - guard2, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:38 PM : Node created: Spawn Position
+1/27/2023 | 12:22:38 PM : Scene Item guard2 properties checked in 89.1103ms
+1/27/2023 | 12:22:38 PM : Scene Item added in 139.191ms
+1/27/2023 | 12:22:38 PM : AddItemToTreeView: Scene Item - guard2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:38 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:38 PM : Scene Item guard2 properties checked in 90.6974ms
+1/27/2023 | 12:22:38 PM : Scene Item added in 151.1232ms
+1/27/2023 | 12:22:38 PM : AddItemToTreeView: Scene Item - guard2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:39 PM : Node created: Position Frozen
+1/27/2023 | 12:22:39 PM : Scene Item guard2 properties checked in 83.7487ms
+1/27/2023 | 12:22:39 PM : Scene Item added in 113.8694ms
+1/27/2023 | 12:22:39 PM : AddItemToTreeView: Scene Item - guard2, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:39 PM : Node created: Weapon Name
+1/27/2023 | 12:22:39 PM : Scene Item guard2 properties checked in 140.6561ms
+1/27/2023 | 12:22:39 PM : Scene Item added in 188.2613ms
+1/27/2023 | 12:22:39 PM : AddItemToTreeView: Scene Item - guard2, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:39 PM : Node created: Scenarios
+1/27/2023 | 12:22:39 PM : Scene Item guard2 properties checked in 98.4768ms
+1/27/2023 | 12:22:39 PM : Scene Item added in 135.1644ms
+1/27/2023 | 12:22:39 PM : AddItemToTreeView: Scene Item - guard2, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:39 PM : Node created: Is Interactable
+1/27/2023 | 12:22:39 PM : Scene Item guard2 properties checked in 78.8208ms
+1/27/2023 | 12:22:39 PM : Scene Item added in 115.5799ms
+1/27/2023 | 12:22:39 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:39 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:39 PM : Node created: Important
+1/27/2023 | 12:22:39 PM : Scene Item guard2 interaction checked in 84.9404ms
+1/27/2023 | 12:22:39 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:39 PM : Node created: Compliant
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 114.5423ms
+1/27/2023 | 12:22:40 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:40 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 68.179ms
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 0.0513ms
+1/27/2023 | 12:22:40 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:40 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 98.3933ms
+1/27/2023 | 12:22:40 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:40 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 79.7788ms
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 0.0406ms
+1/27/2023 | 12:22:40 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:40 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 99.978ms
+1/27/2023 | 12:22:40 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:40 PM : Node created: Message when Collected
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 106.159ms
+1/27/2023 | 12:22:40 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:40 PM : Scene Item guard2 interaction checked in 50.0856ms
+1/27/2023 | 12:22:40 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:41 PM : Node created: Secondary Position
+1/27/2023 | 12:22:41 PM : Scene Item guard2 interaction checked in 110.7129ms
+1/27/2023 | 12:22:41 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:41 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:41 PM : Node created: Traces
+1/27/2023 | 12:22:41 PM : Scene Item guard2 interaction checked in 164.1853ms
+1/27/2023 | 12:22:41 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:41 PM : Scene Item guard2 interaction checked in 45.9632ms
+1/27/2023 | 12:22:41 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:41 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:41 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:41 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:41 PM : Scene Item guard2 interaction checked in 198.7848ms
+1/27/2023 | 12:22:41 PM : sceneNode Items = 11
+1/27/2023 | 12:22:41 PM : Scene Item guard2 properties checked in 1954.8527ms
+1/27/2023 | 12:22:41 PM : Scene Item added in 1987.679ms
+1/27/2023 | 12:22:41 PM : Adding task to list guard3
+1/27/2023 | 12:22:41 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:41 PM : AddItemToTreeView: Scene Item - guard3, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:41 PM : Node created: Scene ID
+1/27/2023 | 12:22:41 PM : Scene Item guard3 properties checked in 93.924ms
+1/27/2023 | 12:22:42 PM : Scene Item added in 147.0446ms
+1/27/2023 | 12:22:42 PM : AddItemToTreeView: Scene Item - guard3, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:42 PM : Node created: Model Name
+1/27/2023 | 12:22:42 PM : Scene Item guard3 properties checked in 100.1039ms
+1/27/2023 | 12:22:42 PM : Scene Item added in 148.2782ms
+1/27/2023 | 12:22:42 PM : AddItemToTreeView: Scene Item - guard3, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:42 PM : Node created: Model Random
+1/27/2023 | 12:22:42 PM : Scene Item guard3 properties checked in 124.2398ms
+1/27/2023 | 12:22:42 PM : Scene Item added in 178.5489ms
+1/27/2023 | 12:22:42 PM : AddItemToTreeView: Scene Item - guard3, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:42 PM : Node created: Type of Object
+1/27/2023 | 12:22:42 PM : Scene Item guard3 properties checked in 99.0562ms
+1/27/2023 | 12:22:42 PM : Scene Item added in 153.0537ms
+1/27/2023 | 12:22:42 PM : AddItemToTreeView: Scene Item - guard3, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:42 PM : Node created: Spawn Position
+1/27/2023 | 12:22:42 PM : Scene Item guard3 properties checked in 123.5757ms
+1/27/2023 | 12:22:42 PM : Scene Item added in 169.8917ms
+1/27/2023 | 12:22:42 PM : AddItemToTreeView: Scene Item - guard3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:43 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:43 PM : Scene Item guard3 properties checked in 125.1854ms
+1/27/2023 | 12:22:43 PM : Scene Item added in 183.4942ms
+1/27/2023 | 12:22:43 PM : AddItemToTreeView: Scene Item - guard3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:43 PM : Node created: Position Frozen
+1/27/2023 | 12:22:43 PM : Scene Item guard3 properties checked in 81.8472ms
+1/27/2023 | 12:22:43 PM : Scene Item added in 130.1764ms
+1/27/2023 | 12:22:43 PM : AddItemToTreeView: Scene Item - guard3, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:43 PM : Node created: Weapon Name
+1/27/2023 | 12:22:43 PM : Scene Item guard3 properties checked in 108.5298ms
+1/27/2023 | 12:22:43 PM : Scene Item added in 162.8778ms
+1/27/2023 | 12:22:43 PM : AddItemToTreeView: Scene Item - guard3, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:43 PM : Node created: Scenarios
+1/27/2023 | 12:22:43 PM : Scene Item guard3 properties checked in 122.6825ms
+1/27/2023 | 12:22:43 PM : Scene Item added in 180.9201ms
+1/27/2023 | 12:22:43 PM : AddItemToTreeView: Scene Item - guard3, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:43 PM : Node created: Is Interactable
+1/27/2023 | 12:22:43 PM : Scene Item guard3 properties checked in 127.2621ms
+1/27/2023 | 12:22:43 PM : Scene Item added in 161.0332ms
+1/27/2023 | 12:22:44 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:44 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:44 PM : Node created: Important
+1/27/2023 | 12:22:44 PM : Scene Item guard3 interaction checked in 70.5813ms
+1/27/2023 | 12:22:44 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:44 PM : Node created: Compliant
+1/27/2023 | 12:22:44 PM : Scene Item guard3 interaction checked in 94.7002ms
+1/27/2023 | 12:22:44 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:44 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:44 PM : Scene Item guard3 interaction checked in 92.1602ms
+1/27/2023 | 12:22:44 PM : Scene Item guard3 interaction checked in 0.0415ms
+1/27/2023 | 12:22:44 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:44 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:44 PM : Scene Item guard3 interaction checked in 119.1416ms
+1/27/2023 | 12:22:44 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:44 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:44 PM : Scene Item guard3 interaction checked in 109.3555ms
+1/27/2023 | 12:22:44 PM : Scene Item guard3 interaction checked in 0.0604ms
+1/27/2023 | 12:22:44 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:45 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:45 PM : Scene Item guard3 interaction checked in 122.0419ms
+1/27/2023 | 12:22:45 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:45 PM : Node created: Message when Collected
+1/27/2023 | 12:22:45 PM : Scene Item guard3 interaction checked in 124.0673ms
+1/27/2023 | 12:22:45 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:45 PM : Scene Item guard3 interaction checked in 56.4459ms
+1/27/2023 | 12:22:45 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:45 PM : Node created: Secondary Position
+1/27/2023 | 12:22:45 PM : Scene Item guard3 interaction checked in 109.002ms
+1/27/2023 | 12:22:45 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:45 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:45 PM : Node created: Traces
+1/27/2023 | 12:22:45 PM : Scene Item guard3 interaction checked in 193.1512ms
+1/27/2023 | 12:22:45 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:45 PM : Scene Item guard3 interaction checked in 65.1274ms
+1/27/2023 | 12:22:45 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:46 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:46 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:46 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:46 PM : Scene Item guard3 interaction checked in 215.5965ms
+1/27/2023 | 12:22:46 PM : sceneNode Items = 11
+1/27/2023 | 12:22:46 PM : Scene Item guard3 properties checked in 2245.4814ms
+1/27/2023 | 12:22:46 PM : Scene Item added in 2302.3045ms
+1/27/2023 | 12:22:46 PM : Adding task to list cop_clipboard
+1/27/2023 | 12:22:46 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:46 PM : AddItemToTreeView: Scene Item - cop_clipboard, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:46 PM : Node created: Scene ID
+1/27/2023 | 12:22:46 PM : Scene Item cop_clipboard properties checked in 118.654ms
+1/27/2023 | 12:22:46 PM : Scene Item added in 178.1161ms
+1/27/2023 | 12:22:46 PM : AddItemToTreeView: Scene Item - cop_clipboard, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:46 PM : Node created: Model Name
+1/27/2023 | 12:22:46 PM : Scene Item cop_clipboard properties checked in 125.9932ms
+1/27/2023 | 12:22:46 PM : Scene Item added in 185.412ms
+1/27/2023 | 12:22:47 PM : AddItemToTreeView: Scene Item - cop_clipboard, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:47 PM : Node created: Model Random
+1/27/2023 | 12:22:47 PM : Scene Item cop_clipboard properties checked in 120.1365ms
+1/27/2023 | 12:22:47 PM : Scene Item added in 196.3342ms
+1/27/2023 | 12:22:47 PM : AddItemToTreeView: Scene Item - cop_clipboard, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:47 PM : Node created: Type of Object
+1/27/2023 | 12:22:47 PM : Scene Item cop_clipboard properties checked in 124.0011ms
+1/27/2023 | 12:22:47 PM : Scene Item added in 184.4243ms
+1/27/2023 | 12:22:47 PM : AddItemToTreeView: Scene Item - cop_clipboard, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:47 PM : Node created: Spawn Position
+1/27/2023 | 12:22:47 PM : Scene Item cop_clipboard properties checked in 112.2496ms
+1/27/2023 | 12:22:47 PM : Scene Item added in 171.8623ms
+1/27/2023 | 12:22:47 PM : AddItemToTreeView: Scene Item - cop_clipboard, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:47 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:47 PM : Scene Item cop_clipboard properties checked in 116.1223ms
+1/27/2023 | 12:22:47 PM : Scene Item added in 176.7608ms
+1/27/2023 | 12:22:47 PM : AddItemToTreeView: Scene Item - cop_clipboard, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:48 PM : Node created: Position Frozen
+1/27/2023 | 12:22:48 PM : Scene Item cop_clipboard properties checked in 124.5887ms
+1/27/2023 | 12:22:48 PM : Scene Item added in 185.4393ms
+1/27/2023 | 12:22:48 PM : AddItemToTreeView: Scene Item - cop_clipboard, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:48 PM : Node created: Weapon Name
+1/27/2023 | 12:22:48 PM : Scene Item cop_clipboard properties checked in 123.7186ms
+1/27/2023 | 12:22:48 PM : Scene Item added in 201.1707ms
+1/27/2023 | 12:22:48 PM : AddItemToTreeView: Scene Item - cop_clipboard, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:48 PM : Node created: Scenarios
+1/27/2023 | 12:22:48 PM : Scene Item cop_clipboard properties checked in 89.8395ms
+1/27/2023 | 12:22:48 PM : Scene Item added in 151.9537ms
+1/27/2023 | 12:22:48 PM : AddItemToTreeView: Scene Item - cop_clipboard, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:48 PM : Node created: Is Interactable
+1/27/2023 | 12:22:48 PM : Scene Item cop_clipboard properties checked in 116.8672ms
+1/27/2023 | 12:22:48 PM : Scene Item added in 176.6631ms
+1/27/2023 | 12:22:48 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:49 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:49 PM : Node created: Important
+1/27/2023 | 12:22:49 PM : Scene Item cop_clipboard interaction checked in 136.0323ms
+1/27/2023 | 12:22:49 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:49 PM : Node created: Compliant
+1/27/2023 | 12:22:49 PM : Scene Item cop_clipboard interaction checked in 120.0633ms
+1/27/2023 | 12:22:49 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:49 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:49 PM : Scene Item cop_clipboard interaction checked in 138.0004ms
+1/27/2023 | 12:22:49 PM : Scene Item cop_clipboard interaction checked in 0.0495ms
+1/27/2023 | 12:22:49 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:49 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:49 PM : Scene Item cop_clipboard interaction checked in 143.965ms
+1/27/2023 | 12:22:49 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:49 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:49 PM : Scene Item cop_clipboard interaction checked in 81.4499ms
+1/27/2023 | 12:22:49 PM : Scene Item cop_clipboard interaction checked in 0.0477ms
+1/27/2023 | 12:22:50 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:50 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:50 PM : Scene Item cop_clipboard interaction checked in 120.1553ms
+1/27/2023 | 12:22:50 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:50 PM : Node created: Message when Collected
+1/27/2023 | 12:22:50 PM : Scene Item cop_clipboard interaction checked in 119.9737ms
+1/27/2023 | 12:22:50 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:50 PM : Scene Item cop_clipboard interaction checked in 77.7376ms
+1/27/2023 | 12:22:50 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:50 PM : Node created: Secondary Position
+1/27/2023 | 12:22:50 PM : Scene Item cop_clipboard interaction checked in 147.498ms
+1/27/2023 | 12:22:50 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:50 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:50 PM : Node created: Traces
+1/27/2023 | 12:22:50 PM : Scene Item cop_clipboard interaction checked in 163.3926ms
+1/27/2023 | 12:22:50 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:51 PM : Scene Item cop_clipboard interaction checked in 73.8923ms
+1/27/2023 | 12:22:51 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:51 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:51 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:51 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:51 PM : Scene Item cop_clipboard interaction checked in 253.8845ms
+1/27/2023 | 12:22:51 PM : sceneNode Items = 11
+1/27/2023 | 12:22:51 PM : Scene Item cop_clipboard properties checked in 2570.7768ms
+1/27/2023 | 12:22:51 PM : Scene Item added in 2614.6972ms
+1/27/2023 | 12:22:51 PM : Adding task to list cop_investigate
+1/27/2023 | 12:22:51 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:51 PM : AddItemToTreeView: Scene Item - cop_investigate, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:51 PM : Node created: Scene ID
+1/27/2023 | 12:22:51 PM : Scene Item cop_investigate properties checked in 118.1736ms
+1/27/2023 | 12:22:51 PM : Scene Item added in 201.9219ms
+1/27/2023 | 12:22:52 PM : AddItemToTreeView: Scene Item - cop_investigate, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:52 PM : Node created: Model Name
+1/27/2023 | 12:22:52 PM : Scene Item cop_investigate properties checked in 106.1707ms
+1/27/2023 | 12:22:52 PM : Scene Item added in 171.6669ms
+1/27/2023 | 12:22:52 PM : AddItemToTreeView: Scene Item - cop_investigate, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:52 PM : Node created: Model Random
+1/27/2023 | 12:22:52 PM : Scene Item cop_investigate properties checked in 119.5271ms
+1/27/2023 | 12:22:52 PM : Scene Item added in 200.3026ms
+1/27/2023 | 12:22:52 PM : AddItemToTreeView: Scene Item - cop_investigate, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:52 PM : Node created: Type of Object
+1/27/2023 | 12:22:52 PM : Scene Item cop_investigate properties checked in 110.1569ms
+1/27/2023 | 12:22:52 PM : Scene Item added in 176.5816ms
+1/27/2023 | 12:22:52 PM : AddItemToTreeView: Scene Item - cop_investigate, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:52 PM : Node created: Spawn Position
+1/27/2023 | 12:22:52 PM : Scene Item cop_investigate properties checked in 179.4052ms
+1/27/2023 | 12:22:52 PM : Scene Item added in 253.8589ms
+1/27/2023 | 12:22:53 PM : AddItemToTreeView: Scene Item - cop_investigate, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:53 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:53 PM : Scene Item cop_investigate properties checked in 150.0802ms
+1/27/2023 | 12:22:53 PM : Scene Item added in 217.0301ms
+1/27/2023 | 12:22:53 PM : AddItemToTreeView: Scene Item - cop_investigate, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:53 PM : Node created: Position Frozen
+1/27/2023 | 12:22:53 PM : Scene Item cop_investigate properties checked in 127.1427ms
+1/27/2023 | 12:22:53 PM : Scene Item added in 195.4597ms
+1/27/2023 | 12:22:53 PM : AddItemToTreeView: Scene Item - cop_investigate, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:53 PM : Node created: Weapon Name
+1/27/2023 | 12:22:53 PM : Scene Item cop_investigate properties checked in 124.7872ms
+1/27/2023 | 12:22:53 PM : Scene Item added in 209.7336ms
+1/27/2023 | 12:22:53 PM : AddItemToTreeView: Scene Item - cop_investigate, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:53 PM : Node created: Scenarios
+1/27/2023 | 12:22:53 PM : Scene Item cop_investigate properties checked in 134.0091ms
+1/27/2023 | 12:22:54 PM : Scene Item added in 203.42ms
+1/27/2023 | 12:22:54 PM : AddItemToTreeView: Scene Item - cop_investigate, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:54 PM : Node created: Is Interactable
+1/27/2023 | 12:22:54 PM : Scene Item cop_investigate properties checked in 169.3587ms
+1/27/2023 | 12:22:54 PM : Scene Item added in 230.7702ms
+1/27/2023 | 12:22:54 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:54 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:54 PM : Node created: Important
+1/27/2023 | 12:22:54 PM : Scene Item cop_investigate interaction checked in 142.4872ms
+1/27/2023 | 12:22:54 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:54 PM : Node created: Compliant
+1/27/2023 | 12:22:54 PM : Scene Item cop_investigate interaction checked in 161.1382ms
+1/27/2023 | 12:22:54 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:54 PM : Node created: Can Be Inspected
+1/27/2023 | 12:22:55 PM : Scene Item cop_investigate interaction checked in 140.5653ms
+1/27/2023 | 12:22:55 PM : Scene Item cop_investigate interaction checked in 0.0394ms
+1/27/2023 | 12:22:55 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:55 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:22:55 PM : Scene Item cop_investigate interaction checked in 159.1086ms
+1/27/2023 | 12:22:55 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:55 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:22:55 PM : Scene Item cop_investigate interaction checked in 133.4945ms
+1/27/2023 | 12:22:55 PM : Scene Item cop_investigate interaction checked in 0.0393ms
+1/27/2023 | 12:22:55 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:55 PM : Node created: Text while Inspecting
+1/27/2023 | 12:22:55 PM : Scene Item cop_investigate interaction checked in 142.458ms
+1/27/2023 | 12:22:55 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:55 PM : Node created: Message when Collected
+1/27/2023 | 12:22:56 PM : Scene Item cop_investigate interaction checked in 157.8866ms
+1/27/2023 | 12:22:56 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:56 PM : Scene Item cop_investigate interaction checked in 57.1751ms
+1/27/2023 | 12:22:56 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:22:56 PM : Node created: Secondary Position
+1/27/2023 | 12:22:56 PM : Scene Item cop_investigate interaction checked in 144.1804ms
+1/27/2023 | 12:22:56 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:56 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:22:56 PM : Node created: Traces
+1/27/2023 | 12:22:56 PM : Scene Item cop_investigate interaction checked in 244.1799ms
+1/27/2023 | 12:22:56 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:56 PM : Scene Item cop_investigate interaction checked in 68.6057ms
+1/27/2023 | 12:22:56 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:57 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:22:57 PM : Node created: Interrogation ID
+1/27/2023 | 12:22:57 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:57 PM : Scene Item cop_investigate interaction checked in 333.5975ms
+1/27/2023 | 12:22:57 PM : sceneNode Items = 11
+1/27/2023 | 12:22:57 PM : Scene Item cop_investigate properties checked in 2984.656ms
+1/27/2023 | 12:22:57 PM : Scene Item added in 3032.2552ms
+1/27/2023 | 12:22:57 PM : Adding task to list bystander1
+1/27/2023 | 12:22:57 PM : CreateRootNode returned null: False
+1/27/2023 | 12:22:57 PM : AddItemToTreeView: Scene Item - bystander1, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:57 PM : Node created: Scene ID
+1/27/2023 | 12:22:57 PM : Scene Item bystander1 properties checked in 134.0031ms
+1/27/2023 | 12:22:57 PM : Scene Item added in 212.3128ms
+1/27/2023 | 12:22:57 PM : AddItemToTreeView: Scene Item - bystander1, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:57 PM : Node created: Model Name
+1/27/2023 | 12:22:58 PM : Scene Item bystander1 properties checked in 144.0468ms
+1/27/2023 | 12:22:58 PM : Scene Item added in 224.8338ms
+1/27/2023 | 12:22:58 PM : AddItemToTreeView: Scene Item - bystander1, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:58 PM : Node created: Model Random
+1/27/2023 | 12:22:58 PM : Scene Item bystander1 properties checked in 150.2612ms
+1/27/2023 | 12:22:58 PM : Scene Item added in 263.653ms
+1/27/2023 | 12:22:58 PM : AddItemToTreeView: Scene Item - bystander1, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:58 PM : Node created: Type of Object
+1/27/2023 | 12:22:58 PM : Scene Item bystander1 properties checked in 139.8084ms
+1/27/2023 | 12:22:58 PM : Scene Item added in 217.0495ms
+1/27/2023 | 12:22:58 PM : AddItemToTreeView: Scene Item - bystander1, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:58 PM : Node created: Spawn Position
+1/27/2023 | 12:22:58 PM : Scene Item bystander1 properties checked in 127.9524ms
+1/27/2023 | 12:22:59 PM : Scene Item added in 203.99ms
+1/27/2023 | 12:22:59 PM : AddItemToTreeView: Scene Item - bystander1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:59 PM : Node created: Vehicle Lights
+1/27/2023 | 12:22:59 PM : Scene Item bystander1 properties checked in 149.0033ms
+1/27/2023 | 12:22:59 PM : Scene Item added in 224.7078ms
+1/27/2023 | 12:22:59 PM : AddItemToTreeView: Scene Item - bystander1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:59 PM : Node created: Position Frozen
+1/27/2023 | 12:22:59 PM : Scene Item bystander1 properties checked in 125.1519ms
+1/27/2023 | 12:22:59 PM : Scene Item added in 201.7592ms
+1/27/2023 | 12:22:59 PM : AddItemToTreeView: Scene Item - bystander1, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:22:59 PM : Node created: Weapon Name
+1/27/2023 | 12:22:59 PM : Scene Item bystander1 properties checked in 164.4756ms
+1/27/2023 | 12:22:59 PM : Scene Item added in 248.2226ms
+1/27/2023 | 12:23:00 PM : AddItemToTreeView: Scene Item - bystander1, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:00 PM : Node created: Scenarios
+1/27/2023 | 12:23:00 PM : Scene Item bystander1 properties checked in 168.507ms
+1/27/2023 | 12:23:00 PM : Scene Item added in 251.1276ms
+1/27/2023 | 12:23:00 PM : AddItemToTreeView: Scene Item - bystander1, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:00 PM : Node created: Is Interactable
+1/27/2023 | 12:23:00 PM : Scene Item bystander1 properties checked in 206.411ms
+1/27/2023 | 12:23:00 PM : Scene Item added in 271.2841ms
+1/27/2023 | 12:23:00 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:00 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:00 PM : Node created: Important
+1/27/2023 | 12:23:00 PM : Scene Item bystander1 interaction checked in 147.2811ms
+1/27/2023 | 12:23:00 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:01 PM : Node created: Compliant
+1/27/2023 | 12:23:01 PM : Scene Item bystander1 interaction checked in 145.9655ms
+1/27/2023 | 12:23:01 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:01 PM : Node created: Can Be Inspected
+1/27/2023 | 12:23:01 PM : Scene Item bystander1 interaction checked in 148.9897ms
+1/27/2023 | 12:23:01 PM : Scene Item bystander1 interaction checked in 0.0439ms
+1/27/2023 | 12:23:01 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:01 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:23:01 PM : Scene Item bystander1 interaction checked in 168.1802ms
+1/27/2023 | 12:23:01 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:01 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:23:01 PM : Scene Item bystander1 interaction checked in 181.1873ms
+1/27/2023 | 12:23:02 PM : Scene Item bystander1 interaction checked in 0.0479ms
+1/27/2023 | 12:23:02 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:02 PM : Node created: Text while Inspecting
+1/27/2023 | 12:23:02 PM : Scene Item bystander1 interaction checked in 102.2683ms
+1/27/2023 | 12:23:02 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:02 PM : Node created: Message when Collected
+1/27/2023 | 12:23:02 PM : Scene Item bystander1 interaction checked in 178.2607ms
+1/27/2023 | 12:23:02 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:02 PM : Scene Item bystander1 interaction checked in 79.049ms
+1/27/2023 | 12:23:02 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:02 PM : Node created: Secondary Position
+1/27/2023 | 12:23:02 PM : Scene Item bystander1 interaction checked in 176.7191ms
+1/27/2023 | 12:23:02 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:03 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:23:03 PM : Node created: Traces
+1/27/2023 | 12:23:03 PM : Scene Item bystander1 interaction checked in 217.4249ms
+1/27/2023 | 12:23:03 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:03 PM : Scene Item bystander1 interaction checked in 95.1697ms
+1/27/2023 | 12:23:03 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:03 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:23:03 PM : Node created: Interrogation ID
+1/27/2023 | 12:23:03 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:03 PM : Scene Item bystander1 interaction checked in 385.2556ms
+1/27/2023 | 12:23:03 PM : sceneNode Items = 11
+1/27/2023 | 12:23:03 PM : Scene Item bystander1 properties checked in 3305.1037ms
+1/27/2023 | 12:23:04 PM : Scene Item added in 3408.4264ms
+1/27/2023 | 12:23:04 PM : Adding task to list bystander2
+1/27/2023 | 12:23:04 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:04 PM : AddItemToTreeView: Scene Item - bystander2, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:04 PM : Node created: Scene ID
+1/27/2023 | 12:23:04 PM : Scene Item bystander2 properties checked in 136.3879ms
+1/27/2023 | 12:23:04 PM : Scene Item added in 225.094ms
+1/27/2023 | 12:23:04 PM : AddItemToTreeView: Scene Item - bystander2, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:04 PM : Node created: Model Name
+1/27/2023 | 12:23:04 PM : Scene Item bystander2 properties checked in 162.1418ms
+1/27/2023 | 12:23:04 PM : Scene Item added in 265.8844ms
+1/27/2023 | 12:23:05 PM : AddItemToTreeView: Scene Item - bystander2, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:05 PM : Node created: Model Random
+1/27/2023 | 12:23:05 PM : Scene Item bystander2 properties checked in 136.0462ms
+1/27/2023 | 12:23:05 PM : Scene Item added in 210.1575ms
+1/27/2023 | 12:23:05 PM : AddItemToTreeView: Scene Item - bystander2, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:05 PM : Node created: Type of Object
+1/27/2023 | 12:23:05 PM : Scene Item bystander2 properties checked in 203.6628ms
+1/27/2023 | 12:23:05 PM : Scene Item added in 276.3694ms
+1/27/2023 | 12:23:05 PM : AddItemToTreeView: Scene Item - bystander2, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:05 PM : Node created: Spawn Position
+1/27/2023 | 12:23:05 PM : Scene Item bystander2 properties checked in 180.0025ms
+1/27/2023 | 12:23:05 PM : Scene Item added in 243.5565ms
+1/27/2023 | 12:23:06 PM : AddItemToTreeView: Scene Item - bystander2, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:06 PM : Node created: Vehicle Lights
+1/27/2023 | 12:23:06 PM : Scene Item bystander2 properties checked in 163.2704ms
+1/27/2023 | 12:23:06 PM : Scene Item added in 250.0294ms
+1/27/2023 | 12:23:06 PM : AddItemToTreeView: Scene Item - bystander2, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:06 PM : Node created: Position Frozen
+1/27/2023 | 12:23:06 PM : Scene Item bystander2 properties checked in 112.3183ms
+1/27/2023 | 12:23:06 PM : Scene Item added in 191.5591ms
+1/27/2023 | 12:23:06 PM : AddItemToTreeView: Scene Item - bystander2, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:06 PM : Node created: Weapon Name
+1/27/2023 | 12:23:06 PM : Scene Item bystander2 properties checked in 171.8811ms
+1/27/2023 | 12:23:06 PM : Scene Item added in 269.1874ms
+1/27/2023 | 12:23:06 PM : AddItemToTreeView: Scene Item - bystander2, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:07 PM : Node created: Scenarios
+1/27/2023 | 12:23:07 PM : Scene Item bystander2 properties checked in 165.1173ms
+1/27/2023 | 12:23:07 PM : Scene Item added in 262.4853ms
+1/27/2023 | 12:23:07 PM : AddItemToTreeView: Scene Item - bystander2, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:07 PM : Node created: Is Interactable
+1/27/2023 | 12:23:07 PM : Scene Item bystander2 properties checked in 178.6233ms
+1/27/2023 | 12:23:07 PM : Scene Item added in 265.2898ms
+1/27/2023 | 12:23:07 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:07 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:07 PM : Node created: Important
+1/27/2023 | 12:23:07 PM : Scene Item bystander2 interaction checked in 196.4447ms
+1/27/2023 | 12:23:08 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:08 PM : Node created: Compliant
+1/27/2023 | 12:23:08 PM : Scene Item bystander2 interaction checked in 173.9328ms
+1/27/2023 | 12:23:08 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:08 PM : Node created: Can Be Inspected
+1/27/2023 | 12:23:08 PM : Scene Item bystander2 interaction checked in 182.1149ms
+1/27/2023 | 12:23:08 PM : Scene Item bystander2 interaction checked in 0.0439ms
+1/27/2023 | 12:23:08 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:08 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:23:08 PM : Scene Item bystander2 interaction checked in 156.3618ms
+1/27/2023 | 12:23:08 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:08 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:23:09 PM : Scene Item bystander2 interaction checked in 178.728ms
+1/27/2023 | 12:23:09 PM : Scene Item bystander2 interaction checked in 0.0467ms
+1/27/2023 | 12:23:09 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:09 PM : Node created: Text while Inspecting
+1/27/2023 | 12:23:09 PM : Scene Item bystander2 interaction checked in 201.0887ms
+1/27/2023 | 12:23:09 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:09 PM : Node created: Message when Collected
+1/27/2023 | 12:23:09 PM : Scene Item bystander2 interaction checked in 189.0573ms
+1/27/2023 | 12:23:09 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:09 PM : Scene Item bystander2 interaction checked in 84.3314ms
+1/27/2023 | 12:23:10 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:10 PM : Node created: Secondary Position
+1/27/2023 | 12:23:10 PM : Scene Item bystander2 interaction checked in 190.166ms
+1/27/2023 | 12:23:10 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:10 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:23:10 PM : Node created: Traces
+1/27/2023 | 12:23:10 PM : Scene Item bystander2 interaction checked in 297.4842ms
+1/27/2023 | 12:23:10 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:10 PM : Scene Item bystander2 interaction checked in 96.6718ms
+1/27/2023 | 12:23:10 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:11 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:23:11 PM : Node created: Interrogation ID
+1/27/2023 | 12:23:11 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:11 PM : Scene Item bystander2 interaction checked in 377.5569ms
+1/27/2023 | 12:23:11 PM : sceneNode Items = 11
+1/27/2023 | 12:23:11 PM : Scene Item bystander2 properties checked in 3815.6445ms
+1/27/2023 | 12:23:11 PM : Scene Item added in 3901.0519ms
+1/27/2023 | 12:23:11 PM : Adding task to list bystander3
+1/27/2023 | 12:23:11 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:11 PM : AddItemToTreeView: Scene Item - bystander3, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:11 PM : Node created: Scene ID
+1/27/2023 | 12:23:12 PM : Scene Item bystander3 properties checked in 187.0605ms
+1/27/2023 | 12:23:12 PM : Scene Item added in 293.0815ms
+1/27/2023 | 12:23:12 PM : AddItemToTreeView: Scene Item - bystander3, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:12 PM : Node created: Model Name
+1/27/2023 | 12:23:12 PM : Scene Item bystander3 properties checked in 163.4473ms
+1/27/2023 | 12:23:12 PM : Scene Item added in 233.2797ms
+1/27/2023 | 12:23:12 PM : AddItemToTreeView: Scene Item - bystander3, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:12 PM : Node created: Model Random
+1/27/2023 | 12:23:12 PM : Scene Item bystander3 properties checked in 184.4814ms
+1/27/2023 | 12:23:12 PM : Scene Item added in 254.9667ms
+1/27/2023 | 12:23:12 PM : AddItemToTreeView: Scene Item - bystander3, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:13 PM : Node created: Type of Object
+1/27/2023 | 12:23:13 PM : Scene Item bystander3 properties checked in 205.4424ms
+1/27/2023 | 12:23:13 PM : Scene Item added in 288.9152ms
+1/27/2023 | 12:23:13 PM : AddItemToTreeView: Scene Item - bystander3, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:13 PM : Node created: Spawn Position
+1/27/2023 | 12:23:13 PM : Scene Item bystander3 properties checked in 139.9617ms
+1/27/2023 | 12:23:13 PM : Scene Item added in 217.4742ms
+1/27/2023 | 12:23:13 PM : AddItemToTreeView: Scene Item - bystander3, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:13 PM : Node created: Vehicle Lights
+1/27/2023 | 12:23:13 PM : Scene Item bystander3 properties checked in 185.8367ms
+1/27/2023 | 12:23:13 PM : Scene Item added in 258.964ms
+1/27/2023 | 12:23:14 PM : AddItemToTreeView: Scene Item - bystander3, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:14 PM : Node created: Position Frozen
+1/27/2023 | 12:23:14 PM : Scene Item bystander3 properties checked in 149.681ms
+1/27/2023 | 12:23:14 PM : Scene Item added in 254.7525ms
+1/27/2023 | 12:23:14 PM : AddItemToTreeView: Scene Item - bystander3, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:14 PM : Node created: Weapon Name
+1/27/2023 | 12:23:14 PM : Scene Item bystander3 properties checked in 206.8007ms
+1/27/2023 | 12:23:14 PM : Scene Item added in 284.0953ms
+1/27/2023 | 12:23:14 PM : AddItemToTreeView: Scene Item - bystander3, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:14 PM : Node created: Scenarios
+1/27/2023 | 12:23:14 PM : Scene Item bystander3 properties checked in 187.5544ms
+1/27/2023 | 12:23:15 PM : Scene Item added in 269.5357ms
+1/27/2023 | 12:23:15 PM : AddItemToTreeView: Scene Item - bystander3, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:15 PM : Node created: Is Interactable
+1/27/2023 | 12:23:15 PM : Scene Item bystander3 properties checked in 173.8563ms
+1/27/2023 | 12:23:15 PM : Scene Item added in 272.6408ms
+1/27/2023 | 12:23:15 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:15 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:15 PM : Node created: Important
+1/27/2023 | 12:23:15 PM : Scene Item bystander3 interaction checked in 188.2053ms
+1/27/2023 | 12:23:15 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:15 PM : Node created: Compliant
+1/27/2023 | 12:23:16 PM : Scene Item bystander3 interaction checked in 213.9206ms
+1/27/2023 | 12:23:16 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:16 PM : Node created: Can Be Inspected
+1/27/2023 | 12:23:16 PM : Scene Item bystander3 interaction checked in 194.5996ms
+1/27/2023 | 12:23:16 PM : Scene Item bystander3 interaction checked in 0.0418ms
+1/27/2023 | 12:23:16 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:16 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:23:16 PM : Scene Item bystander3 interaction checked in 197.9502ms
+1/27/2023 | 12:23:16 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:16 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:23:17 PM : Scene Item bystander3 interaction checked in 202.2294ms
+1/27/2023 | 12:23:17 PM : Scene Item bystander3 interaction checked in 0.0495ms
+1/27/2023 | 12:23:17 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:17 PM : Node created: Text while Inspecting
+1/27/2023 | 12:23:17 PM : Scene Item bystander3 interaction checked in 200.454ms
+1/27/2023 | 12:23:17 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:17 PM : Node created: Message when Collected
+1/27/2023 | 12:23:17 PM : Scene Item bystander3 interaction checked in 207.5347ms
+1/27/2023 | 12:23:17 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:17 PM : Scene Item bystander3 interaction checked in 90.7121ms
+1/27/2023 | 12:23:18 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:18 PM : Node created: Secondary Position
+1/27/2023 | 12:23:18 PM : Scene Item bystander3 interaction checked in 188.4459ms
+1/27/2023 | 12:23:18 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:18 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:23:18 PM : Node created: Traces
+1/27/2023 | 12:23:18 PM : Scene Item bystander3 interaction checked in 290.2088ms
+1/27/2023 | 12:23:18 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:18 PM : Scene Item bystander3 interaction checked in 128.342ms
+1/27/2023 | 12:23:18 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:19 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:23:19 PM : Node created: Interrogation ID
+1/27/2023 | 12:23:19 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:19 PM : Scene Item bystander3 interaction checked in 393.8813ms
+1/27/2023 | 12:23:19 PM : sceneNode Items = 11
+1/27/2023 | 12:23:19 PM : Scene Item bystander3 properties checked in 4101.2235ms
+1/27/2023 | 12:23:19 PM : Scene Item added in 4215.8533ms
+1/27/2023 | 12:23:19 PM : Adding task to list pap1
+1/27/2023 | 12:23:19 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:20 PM : AddItemToTreeView: Scene Item - pap1, ID, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:20 PM : Node created: Scene ID
+1/27/2023 | 12:23:20 PM : Scene Item pap1 properties checked in 207.2752ms
+1/27/2023 | 12:23:20 PM : Scene Item added in 312.5656ms
+1/27/2023 | 12:23:20 PM : AddItemToTreeView: Scene Item - pap1, Model, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:20 PM : Node created: Model Name
+1/27/2023 | 12:23:20 PM : Scene Item pap1 properties checked in 220.5048ms
+1/27/2023 | 12:23:20 PM : Scene Item added in 277.9068ms
+1/27/2023 | 12:23:20 PM : AddItemToTreeView: Scene Item - pap1, ModelRandom, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:20 PM : Node created: Model Random
+1/27/2023 | 12:23:21 PM : Scene Item pap1 properties checked in 214.9052ms
+1/27/2023 | 12:23:21 PM : Scene Item added in 319.5589ms
+1/27/2023 | 12:23:21 PM : AddItemToTreeView: Scene Item - pap1, Type, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:21 PM : Node created: Type of Object
+1/27/2023 | 12:23:21 PM : Scene Item pap1 properties checked in 211.1203ms
+1/27/2023 | 12:23:21 PM : Scene Item added in 318.7162ms
+1/27/2023 | 12:23:21 PM : AddItemToTreeView: Scene Item - pap1, SpawnPosition, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:21 PM : Node created: Spawn Position
+1/27/2023 | 12:23:21 PM : Scene Item pap1 properties checked in 235.9109ms
+1/27/2023 | 12:23:21 PM : Scene Item added in 339.6344ms
+1/27/2023 | 12:23:22 PM : AddItemToTreeView: Scene Item - pap1, VehicleLightsOn, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:22 PM : Node created: Vehicle Lights
+1/27/2023 | 12:23:22 PM : Scene Item pap1 properties checked in 241.137ms
+1/27/2023 | 12:23:22 PM : Scene Item added in 325.7673ms
+1/27/2023 | 12:23:22 PM : AddItemToTreeView: Scene Item - pap1, ObjectPositionFrozen, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:22 PM : Node created: Position Frozen
+1/27/2023 | 12:23:22 PM : Scene Item pap1 properties checked in 217.2035ms
+1/27/2023 | 12:23:22 PM : Scene Item added in 327.6393ms
+1/27/2023 | 12:23:22 PM : AddItemToTreeView: Scene Item - pap1, WeaponName, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:23 PM : Node created: Weapon Name
+1/27/2023 | 12:23:23 PM : Scene Item pap1 properties checked in 211.6498ms
+1/27/2023 | 12:23:23 PM : Scene Item added in 365.8062ms
+1/27/2023 | 12:23:23 PM : AddItemToTreeView: Scene Item - pap1, Scenarios, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:23 PM : Node created: Scenarios
+1/27/2023 | 12:23:23 PM : Scene Item pap1 properties checked in 171.4976ms
+1/27/2023 | 12:23:23 PM : Scene Item added in 286.5849ms
+1/27/2023 | 12:23:23 PM : AddItemToTreeView: Scene Item - pap1, IsInteractable, CaseManager.NewData.SceneItem
+1/27/2023 | 12:23:23 PM : Node created: Is Interactable
+1/27/2023 | 12:23:24 PM : Scene Item pap1 properties checked in 217.4025ms
+1/27/2023 | 12:23:24 PM : Scene Item added in 321.6585ms
+1/27/2023 | 12:23:24 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:24 PM : AddItemToTreeView: Interaction, IsImportant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:24 PM : Node created: Important
+1/27/2023 | 12:23:24 PM : Scene Item pap1 interaction checked in 181.9146ms
+1/27/2023 | 12:23:24 PM : AddItemToTreeView: Interaction, IsCompliant, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:24 PM : Node created: Compliant
+1/27/2023 | 12:23:24 PM : Scene Item pap1 interaction checked in 219.5789ms
+1/27/2023 | 12:23:24 PM : AddItemToTreeView: Interaction, CanBeInspected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:25 PM : Node created: Can Be Inspected
+1/27/2023 | 12:23:25 PM : Scene Item pap1 interaction checked in 239.2728ms
+1/27/2023 | 12:23:25 PM : Scene Item pap1 interaction checked in 0.0459ms
+1/27/2023 | 12:23:25 PM : AddItemToTreeView: Interaction, PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:25 PM : Node created: Play Sound on Collection
+1/27/2023 | 12:23:25 PM : Scene Item pap1 interaction checked in 246.0858ms
+1/27/2023 | 12:23:25 PM : AddItemToTreeView: Interaction, PlaySoundNearby, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:25 PM : Node created: Play Sound Nearby
+1/27/2023 | 12:23:25 PM : Scene Item pap1 interaction checked in 219.0071ms
+1/27/2023 | 12:23:26 PM : Scene Item pap1 interaction checked in 0.0442ms
+1/27/2023 | 12:23:26 PM : AddItemToTreeView: Interaction, AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:26 PM : Node created: Text while Inspecting
+1/27/2023 | 12:23:26 PM : Scene Item pap1 interaction checked in 216.0597ms
+1/27/2023 | 12:23:26 PM : AddItemToTreeView: Interaction, MessageWhenCollected, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:26 PM : Node created: Message when Collected
+1/27/2023 | 12:23:26 PM : Scene Item pap1 interaction checked in 181.9195ms
+1/27/2023 | 12:23:26 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:26 PM : Scene Item pap1 interaction checked in 102.3984ms
+1/27/2023 | 12:23:26 PM : AddItemToTreeView: Interaction, SecondaryPosition, CaseManager.NewData.InteractionOptions
+1/27/2023 | 12:23:27 PM : Node created: Secondary Position
+1/27/2023 | 12:23:27 PM : Scene Item pap1 interaction checked in 230.6448ms
+1/27/2023 | 12:23:27 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:27 PM : AddItemToTreeView: Evidence, Traces, CaseManager.NewData.EvidenceData
+1/27/2023 | 12:23:27 PM : Node created: Traces
+1/27/2023 | 12:23:27 PM : Scene Item pap1 interaction checked in 315.3ms
+1/27/2023 | 12:23:27 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:27 PM : Scene Item pap1 interaction checked in 97.1278ms
+1/27/2023 | 12:23:27 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:28 PM : AddItemToTreeView: Interrogation, ID, CaseManager.NewData.Interrogation
+1/27/2023 | 12:23:28 PM : Node created: Interrogation ID
+1/27/2023 | 12:23:28 PM : CreateRootNode returned null: False
+1/27/2023 | 12:23:28 PM : Scene Item pap1 interaction checked in 485.388ms
+1/27/2023 | 12:23:28 PM : sceneNode Items = 11
+1/27/2023 | 12:23:28 PM : Scene Item pap1 properties checked in 4382.8779ms
+1/27/2023 | 12:23:28 PM : Scene Item added in 4495.185ms
+1/27/2023 | 12:23:28 PM : Adding task to list pap2

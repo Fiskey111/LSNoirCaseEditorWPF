@@ -1,0 +1,69 @@
+1/28/2023 | 9:06:41 PM : CheckSave false
+1/28/2023 | 9:06:42 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+1/28/2023 | 9:06:43 PM : Clearing nodes
+1/28/2023 | 9:06:43 PM : GetTreeViewData
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : Checking property: ID
+1/28/2023 | 9:06:43 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+1/28/2023 | 9:06:43 PM : Node created: Case ID
+1/28/2023 | 9:06:43 PM : rootStageNode Items = 0
+1/28/2023 | 9:06:43 PM : Checking property: Name
+1/28/2023 | 9:06:43 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+1/28/2023 | 9:06:43 PM : Node created: Case Name
+1/28/2023 | 9:06:43 PM : rootStageNode Items = 0
+1/28/2023 | 9:06:43 PM : Checking property: Description
+1/28/2023 | 9:06:43 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+1/28/2023 | 9:06:43 PM : Node created: Case Description
+1/28/2023 | 9:06:43 PM : rootStageNode Items = 0
+1/28/2023 | 9:06:43 PM : Checking property: Progress
+1/28/2023 | 9:06:43 PM : rootStageNode Items = 0
+1/28/2023 | 9:06:43 PM : Checking property: Documents
+1/28/2023 | 9:06:43 PM : rootStageNode Items = 0
+1/28/2023 | 9:06:43 PM : Checking property: DetailedInformation
+1/28/2023 | 9:06:43 PM : rootStageNode Items = 0
+1/28/2023 | 9:06:43 PM : Checking property: Notes
+1/28/2023 | 9:06:43 PM : rootStageNode Items = 0
+1/28/2023 | 9:06:43 PM : Checking property: Stages
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : Checking property: ID
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : AddItemToTreeView: Stage - CSI, ID, CaseManager.NewData.Stage
+1/28/2023 | 9:06:43 PM : Node created: Stage ID
+1/28/2023 | 9:06:43 PM : stageNode Items = 1
+1/28/2023 | 9:06:43 PM : Checking property: Completed
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : AddItemToTreeView: Stage - CSI, Completed, CaseManager.NewData.Stage
+1/28/2023 | 9:06:43 PM : Node created: 
+1/28/2023 | 9:06:43 PM : stageNode Items = 2
+1/28/2023 | 9:06:43 PM : Checking property: StageType
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : AddItemToTreeView: Stage - CSI, StageType, CaseManager.NewData.Stage
+1/28/2023 | 9:06:43 PM : Node created: Stage Type
+1/28/2023 | 9:06:43 PM : stageNode Items = 3
+1/28/2023 | 9:06:43 PM : Checking property: SceneItems
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : AddSceneItems: CSI
+1/28/2023 | 9:06:43 PM : CreateRootNode returned null: False
+1/28/2023 | 9:06:43 PM : Total of 38 tasks created
+1/28/2023 | 9:06:43 PM : Creating multicore item: evidence_1
+1/28/2023 | 9:06:43 PM : Creating multicore item: first_officer
+1/28/2023 | 9:06:43 PM : Creating multicore item: evidence_3
+1/28/2023 | 9:06:43 PM : Creating multicore item: trash_02
+1/28/2023 | 9:06:43 PM : Creating multicore item: evidence_2
+1/28/2023 | 9:06:43 PM : Creating multicore item: trash_03
+1/28/2023 | 9:06:43 PM : Creating multicore item: policeguard_1
+1/28/2023 | 9:06:43 PM : Creating multicore item: police_veh_01
+1/28/2023 | 9:06:43 PM : Creating multicore item: policeveh2
+1/28/2023 | 9:06:43 PM : Creating multicore item: barricade1
+1/28/2023 | 9:06:44 PM : Creating multicore item: barricade2
+1/28/2023 | 9:06:45 PM : Creating multicore item: police_crowd_1
+1/28/2023 | 9:06:46 PM : Creating multicore item: guard2
+1/28/2023 | 9:06:47 PM : Creating multicore item: guard3
+1/28/2023 | 9:06:48 PM : Creating multicore item: cop_clipboard
+1/28/2023 | 9:06:49 PM : Creating multicore item: cop_investigate
+1/28/2023 | 9:06:50 PM : Creating multicore item: bystander1
+1/28/2023 | 9:06:51 PM : Creating multicore item: bystander2
+1/

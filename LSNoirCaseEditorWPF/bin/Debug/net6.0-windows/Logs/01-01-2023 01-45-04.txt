@@ -1,0 +1,103 @@
+1/1/2023 | 1:45:09 PM : OpenCase()
+1/1/2023 | 1:45:09 PM : CheckSave false
+1/1/2023 | 1:45:11 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+1/1/2023 | 1:45:11 PM : Clearing nodes
+1/1/2023 | 1:45:11 PM : GetTreeViewData
+1/1/2023 | 1:45:11 PM : Checking property: ID
+1/1/2023 | 1:45:11 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+1/1/2023 | 1:45:11 PM : Node created: Case ID
+1/1/2023 | 1:45:11 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:11 PM : Checking property: Name
+1/1/2023 | 1:45:11 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+1/1/2023 | 1:45:11 PM : Node created: Case Name
+1/1/2023 | 1:45:11 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:11 PM : Checking property: Description
+1/1/2023 | 1:45:11 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+1/1/2023 | 1:45:11 PM : Node created: Case Description
+1/1/2023 | 1:45:11 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:11 PM : Checking property: Progress
+1/1/2023 | 1:45:11 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:11 PM : Checking property: Documents
+1/1/2023 | 1:45:11 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:11 PM : Checking property: DetailedInformation
+1/1/2023 | 1:45:11 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:11 PM : Checking property: Notes
+1/1/2023 | 1:45:11 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:11 PM : Checking property: Stages
+1/1/2023 | 1:45:11 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:11 PM : UpdateCaseData with new node Case Data
+1/1/2023 | 1:45:11 PM : Total time to load case: 34.1357ms
+1/1/2023 | 1:45:12 PM : Selected item: Additional Information
+1/1/2023 | 1:45:13 PM : Selected item: Documents
+1/1/2023 | 1:45:13 PM : Selected item: Stages
+1/1/2023 | 1:45:14 PM : Selected item: Documents
+1/1/2023 | 1:45:14 PM : Selected item: Additional Information
+1/1/2023 | 1:45:16 PM : AppBarButton_Click.System.Windows.Controls.MenuItem Header:Insert Item Items.Count:0
+1/1/2023 | 1:45:16 PM : AddItem: Additional Information
+1/1/2023 | 1:45:16 PM : Clearing nodes
+1/1/2023 | 1:45:16 PM : GetTreeViewData
+1/1/2023 | 1:45:16 PM : Checking property: ID
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+1/1/2023 | 1:45:16 PM : Node created: Case ID
+1/1/2023 | 1:45:16 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:16 PM : Checking property: Name
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+1/1/2023 | 1:45:16 PM : Node created: Case Name
+1/1/2023 | 1:45:16 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:16 PM : Checking property: Description
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+1/1/2023 | 1:45:16 PM : Node created: Case Description
+1/1/2023 | 1:45:16 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:16 PM : Checking property: Progress
+1/1/2023 | 1:45:16 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:16 PM : Checking property: Documents
+1/1/2023 | 1:45:16 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:16 PM : Checking property: DetailedInformation
+1/1/2023 | 1:45:16 PM : Checking property: ID
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Information - , ID, CaseManager.NewData.DetailedInformation
+1/1/2023 | 1:45:16 PM : Node created: Reference ID
+1/1/2023 | 1:45:16 PM : Checking property: FirstName
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Information - , FirstName, CaseManager.NewData.DetailedInformation
+1/1/2023 | 1:45:16 PM : Node created: First Name
+1/1/2023 | 1:45:16 PM : Checking property: LastName
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Information - , LastName, CaseManager.NewData.DetailedInformation
+1/1/2023 | 1:45:16 PM : Node created: Last Name
+1/1/2023 | 1:45:16 PM : Checking property: Description
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Information - , Description, CaseManager.NewData.DetailedInformation
+1/1/2023 | 1:45:16 PM : Node created: Description
+1/1/2023 | 1:45:16 PM : Checking property: Model
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Information - , Model, CaseManager.NewData.DetailedInformation
+1/1/2023 | 1:45:16 PM : Node created: Model
+1/1/2023 | 1:45:16 PM : Checking property: Birthday
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Information - , Birthday, CaseManager.NewData.DetailedInformation
+1/1/2023 | 1:45:16 PM : Node created: Birthday
+1/1/2023 | 1:45:16 PM : Checking property: Parameters
+1/1/2023 | 1:45:16 PM : Checking property: Address
+1/1/2023 | 1:45:16 PM : AddItemToTreeView: Information - , Address, CaseManager.NewData.DetailedInformation
+1/1/2023 | 1:45:16 PM : Node created: Parameters
+1/1/2023 | 1:45:16 PM : rootInfoNode Items = 1
+1/1/2023 | 1:45:16 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:16 PM : Checking property: Notes
+1/1/2023 | 1:45:16 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:16 PM : Checking property: Stages
+1/1/2023 | 1:45:16 PM : rootStageNode Items = 0
+1/1/2023 | 1:45:16 PM : UpdateCaseData with new node Case Data
+1/1/2023 | 1:45:16 PM : No item selected
+1/1/2023 | 1:45:16 PM : Total time to load case: 52.8507ms
+1/1/2023 | 1:45:17 PM : Selected item: Information - 
+1/1/2023 | 1:45:17 PM : Selected item: Reference ID
+1/1/2023 | 1:45:18 PM : Selected item: First Name
+1/1/2023 | 1:45:18 PM : Selected item: Last Name
+1/1/2023 | 1:45:18 PM : Selected item: Description
+1/1/2023 | 1:45:19 PM : Selected item: Model
+1/1/2023 | 1:45:19 PM : Selected item: Birthday
+1/1/2023 | 1:45:20 PM : Selected item: Parameters
+1/1/2023 | 1:45:20 PM : Selected item: Birthday
+1/1/2023 | 1:45:21 PM : Selected item: Model
+1/1/2023 | 1:45:21 PM : Selected item: Birthday
+1/1/2023 | 1:45:21 PM : Selected item: Parameters
+1/1/2023 | 1:45:22 PM : Selected item: Birthday
+1/1/2023 | 1:45:22 PM : Selected item: Model
+1/1/2023 | 1:45:22 PM : Selected item: Birthday
+1/1/2023 | 1:45:23 PM : Selected item: Parameters
+1/1/2023 | 1:45:24 PM : Selected item: Birthday

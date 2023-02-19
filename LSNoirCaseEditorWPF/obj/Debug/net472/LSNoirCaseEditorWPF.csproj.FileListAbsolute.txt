@@ -1,0 +1,17 @@
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\LSNoirCaseEditorWPF.csproj.AssemblyReference.cache
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\LSNoirCaseEditorWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Pages\CaseViewer.baml
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Pages\Flowchart.baml
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Pages\LogScreen.baml
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Pages\SettingsPage.baml
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Windows\MainScreen.baml
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Pages\CaseViewer.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Pages\Flowchart.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Pages\LogScreen.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Pages\SettingsPage.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Windows\MainScreen.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\Windows\NewFileCreator.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\App.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\LSNoirCaseEditorWPF_Content.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\LSNoirCaseEditorWPF_MarkupCompile.cache
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net472\LSNoirCaseEditorWPF_MarkupCompile.lref

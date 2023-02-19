@@ -1,0 +1,154 @@
+2/3/2023 | 8:55:57 PM : CheckSave false
+2/3/2023 | 8:55:59 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+2/3/2023 | 8:55:59 PM : Clearing nodes
+2/3/2023 | 8:55:59 PM : GetTreeViewData
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : Checking property: ID
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+2/3/2023 | 8:55:59 PM : Node created: Case ID
+2/3/2023 | 8:55:59 PM : rootStageNode Items = 0
+2/3/2023 | 8:55:59 PM : Checking property: Name
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+2/3/2023 | 8:55:59 PM : Node created: Case Name
+2/3/2023 | 8:55:59 PM : rootStageNode Items = 0
+2/3/2023 | 8:55:59 PM : Checking property: Description
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+2/3/2023 | 8:55:59 PM : Node created: Case Description
+2/3/2023 | 8:55:59 PM : rootStageNode Items = 0
+2/3/2023 | 8:55:59 PM : Checking property: Progress
+2/3/2023 | 8:55:59 PM : rootStageNode Items = 0
+2/3/2023 | 8:55:59 PM : Checking property: Documents
+2/3/2023 | 8:55:59 PM : rootStageNode Items = 0
+2/3/2023 | 8:55:59 PM : Checking property: DetailedInformation
+2/3/2023 | 8:55:59 PM : rootStageNode Items = 0
+2/3/2023 | 8:55:59 PM : Checking property: Notes
+2/3/2023 | 8:55:59 PM : rootStageNode Items = 0
+2/3/2023 | 8:55:59 PM : Checking property: Stages
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : Checking property: ID
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: Stage - CSI, ID, CaseManager.NewData.Stage
+2/3/2023 | 8:55:59 PM : Node created: Stage ID
+2/3/2023 | 8:55:59 PM : stageNode Items = 1
+2/3/2023 | 8:55:59 PM : Checking property: Completed
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: Stage - CSI, Completed, CaseManager.NewData.Stage
+2/3/2023 | 8:55:59 PM : Node created: 
+2/3/2023 | 8:55:59 PM : stageNode Items = 2
+2/3/2023 | 8:55:59 PM : Checking property: StageType
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: Stage - CSI, StageType, CaseManager.NewData.Stage
+2/3/2023 | 8:55:59 PM : Node created: Stage Type
+2/3/2023 | 8:55:59 PM : stageNode Items = 3
+2/3/2023 | 8:55:59 PM : Checking property: SceneItems
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddSceneItems: CSI
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : Creating task for: victim. # of tasks in list: 0
+2/3/2023 | 8:55:59 PM : Creating task for: evidence_1. # of tasks in list: 1
+2/3/2023 | 8:55:59 PM : Creating task for: first_officer. # of tasks in list: 2
+2/3/2023 | 8:55:59 PM : Creating task for: evidence_2. # of tasks in list: 3
+2/3/2023 | 8:55:59 PM : Creating task for: evidence_3. # of tasks in list: 4
+2/3/2023 | 8:55:59 PM : Creating task for: trash_01. # of tasks in list: 5
+2/3/2023 | 8:55:59 PM : Creating task for: trash_02. # of tasks in list: 6
+2/3/2023 | 8:55:59 PM : Creating task for: trash_03. # of tasks in list: 7
+2/3/2023 | 8:55:59 PM : Creating task for: policeguard_1. # of tasks in list: 8
+2/3/2023 | 8:55:59 PM : Creating task for: police_veh_01. # of tasks in list: 9
+2/3/2023 | 8:55:59 PM : Creating task for: policeveh2. # of tasks in list: 10
+2/3/2023 | 8:55:59 PM : Creating task for: barricade1. # of tasks in list: 11
+2/3/2023 | 8:55:59 PM : Creating task for: barricade2. # of tasks in list: 12
+2/3/2023 | 8:55:59 PM : Creating task for: police_crowd_1. # of tasks in list: 13
+2/3/2023 | 8:55:59 PM : Creating task for: guard2. # of tasks in list: 14
+2/3/2023 | 8:55:59 PM : Creating task for: guard3. # of tasks in list: 15
+2/3/2023 | 8:55:59 PM : Creating task for: cop_clipboard. # of tasks in list: 16
+2/3/2023 | 8:55:59 PM : Creating task for: cop_investigate. # of tasks in list: 17
+2/3/2023 | 8:55:59 PM : Creating task for: bystander1. # of tasks in list: 18
+2/3/2023 | 8:55:59 PM : Creating task for: bystander2. # of tasks in list: 19
+2/3/2023 | 8:55:59 PM : Creating task for: bystander3. # of tasks in list: 20
+2/3/2023 | 8:55:59 PM : Creating task for: pap1. # of tasks in list: 21
+2/3/2023 | 8:55:59 PM : Creating task for: pap2. # of tasks in list: 22
+2/3/2023 | 8:55:59 PM : Creating task for: guard4. # of tasks in list: 23
+2/3/2023 | 8:55:59 PM : Creating task for: pap3. # of tasks in list: 24
+2/3/2023 | 8:55:59 PM : Creating task for: pap4. # of tasks in list: 25
+2/3/2023 | 8:55:59 PM : Creating task for: pap5. # of tasks in list: 26
+2/3/2023 | 8:55:59 PM : Creating task for: bystander4. # of tasks in list: 27
+2/3/2023 | 8:55:59 PM : Creating task for: bystander5. # of tasks in list: 28
+2/3/2023 | 8:55:59 PM : Creating task for: bystander6. # of tasks in list: 29
+2/3/2023 | 8:55:59 PM : Creating task for: pap7. # of tasks in list: 30
+2/3/2023 | 8:55:59 PM : Creating task for: bystander8. # of tasks in list: 31
+2/3/2023 | 8:55:59 PM : Creating task for: policeveh3. # of tasks in list: 32
+2/3/2023 | 8:55:59 PM : Creating task for: barrier3. # of tasks in list: 33
+2/3/2023 | 8:55:59 PM : Creating task for: policveh4. # of tasks in list: 34
+2/3/2023 | 8:55:59 PM : Creating task for: policevehguard1. # of tasks in list: 35
+2/3/2023 | 8:55:59 PM : Creating task for: witness1. # of tasks in list: 36
+2/3/2023 | 8:55:59 PM : Creating task for: witnessguard1. # of tasks in list: 37
+2/3/2023 | 8:55:59 PM : Total of 38 tasks created
+2/3/2023 | 8:55:59 PM : Multicore method (tasks) took 0.0682586 seconds
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Scene ID
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Model Name
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Model Random
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Type of Object
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Spawn Position
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Vehicle Lights
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Position Frozen
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Weapon Name
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Scenarios
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+2/3/2023 | 8:55:59 PM : Node created: Is Interactable
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+2/3/2023 | 8:55:59 PM : Node created: Important
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+2/3/2023 | 8:55:59 PM : Node created: Compliant
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+2/3/2023 | 8:55:59 PM : Node created: Can Be Inspected
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+2/3/2023 | 8:55:59 PM : Node created: Play Sound on Collection
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+2/3/2023 | 8:55:59 PM : Node created: Play Sound Nearby
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+2/3/2023 | 8:55:59 PM : Node created: Text while Inspecting
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+2/3/2023 | 8:55:59 PM : Node created: Message when Collected
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : CreateRootNode returned null: False
+2/3/2023 | 8:55:59 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16

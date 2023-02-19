@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace LSNoirCaseEditorWPF.Windows
+{
+    /// <summary>
+    /// Interaction logic for NewFileCreator.xaml
+    /// </summary>
+    public partial class NewFileCreator : Window
+    {
+        public NewFileCreator()
+        {
+            InitializeComponent();
+        }
+
+        internal string FileName = string.Empty;
+
+        private void Create_Click(object sender, RoutedEventArgs e)
+        {
+            FileName = fileName.Text;
+            this.Close();
+        }
+
+        private void Cancel_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+    }
+}

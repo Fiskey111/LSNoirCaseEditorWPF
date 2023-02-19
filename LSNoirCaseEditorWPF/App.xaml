@@ -1,0 +1,26 @@
+﻿<Application x:Class="LSNoirCaseEditorWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LSNoirCaseEditorWPF"
+             StartupUri="Windows/MainScreen.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <Style x:Key="TreeViewItemStyleExpandAll" TargetType="TreeViewItem">
+                <Setter Property="IsExpanded" Value="True"/>
+            </Style>
+
+            <DataTemplate x:Key="ExplorerItemTemplateSelector">
+                <Grid Height="44">
+                    <StackPanel Orientation="Horizontal">
+                        <Image x:Name="TreeIcon" Width="16" Height="16" Source="Images/home.png" Margin="0,0,10,0" />
+                        <TextBlock
+                            Text="{Binding Name}"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Grid>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
