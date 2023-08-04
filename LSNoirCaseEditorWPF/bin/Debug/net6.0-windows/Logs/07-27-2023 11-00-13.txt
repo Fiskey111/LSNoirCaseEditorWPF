@@ -1,0 +1,22 @@
+7/27/2023 | 11:00:15 PM : CreateRootNode Scene Item - test
+7/27/2023 | 11:00:16 PM : property ID | Simple: True | Total Nodes: 1
+7/27/2023 | 11:00:16 PM : property Model | Simple: True | Total Nodes: 2
+7/27/2023 | 11:00:16 PM : property ModelRandom | Simple: True | Total Nodes: 3
+7/27/2023 | 11:00:16 PM : property Type | Simple: True | Total Nodes: 4
+7/27/2023 | 11:00:16 PM : property SpawnPosition | Simple: True | Total Nodes: 5
+7/27/2023 | 11:00:16 PM : property UseRotationNotHeading | Simple: True | Total Nodes: 6
+7/27/2023 | 11:00:16 PM : property VehicleLightsOn | Simple: True | Total Nodes: 7
+7/27/2023 | 11:00:16 PM : property ObjectPositionFrozen | Simple: True | Total Nodes: 8
+7/27/2023 | 11:00:16 PM : property WeaponName | Simple: True | Total Nodes: 9
+7/27/2023 | 11:00:16 PM : property Scenarios | Simple: True | Total Nodes: 10
+7/27/2023 | 11:00:16 PM : property IsInteractable | Simple: True | Total Nodes: 11
+7/27/2023 | 11:00:16 PM : ----GetTreeviewItem_Properties InteractionOptions
+7/27/2023 | 11:00:16 PM : CreateRootNode ----InteractionSettings
+7/27/2023 | 11:00:16 PM : ----property IsImportant | Simple: True | Total Nodes: 1
+7/27/2023 | 11:00:16 PM : ----property IsCompliant | Simple: True | Total Nodes: 2
+7/27/2023 | 11:00:16 PM : ----property InteractiveEntityType | Simple: True | Total Nodes: 3
+7/27/2023 | 11:00:16 PM : ----property CanBeInspected | Simple: True | Total Nodes: 4
+7/27/2023 | 11:00:17 PM : !! ERROR !! Object reference not set to an instance of an object.
+7/27/2023 | 11:00:17 PM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 74
+7/27/2023 | 11:00:17 PM : property InteractionSettings | Simple: False | Total Nodes: 11
+7/27/2023 | 11:00:17 PM : property InteractionSettings | Simple: False | Total Nodes: 11

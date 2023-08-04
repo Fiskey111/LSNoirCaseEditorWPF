@@ -1,0 +1,160 @@
+7/28/2023 | 1:21:33 AM : CheckSave false
+7/28/2023 | 1:21:56 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Case 2\Case 2.caseData
+7/28/2023 | 1:21:56 AM : Clearing nodes
+7/28/2023 | 1:21:56 AM : CreateRootNode Case
+7/28/2023 | 1:21:56 AM : GetTreeviewItem_Stage 
+7/28/2023 | 1:21:56 AM : CreateRootNode Stage  - 
+7/28/2023 | 1:21:56 AM : Checking custom property: ID
+7/28/2023 | 1:21:56 AM : Type: System.String
+7/28/2023 | 1:21:56 AM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 1:21:56 AM : Checking custom property: Completed
+7/28/2023 | 1:21:56 AM : Checking custom property: StageType
+7/28/2023 | 1:21:56 AM : Type: System.String
+7/28/2023 | 1:21:56 AM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 1:21:56 AM : Checking custom property: SceneItems
+7/28/2023 | 1:21:56 AM : Type: System.Collections.Generic.List`1[CaseManager.NewData.SceneItem]
+7/28/2023 | 1:21:56 AM : CreateRootNode Scene Items
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties SceneItem
+7/28/2023 | 1:21:56 AM : CreateRootNode Scene Items
+7/28/2023 | 1:21:56 AM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 0.9029ms
+7/28/2023 | 1:21:56 AM : ----property Model | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 1.6811ms
+7/28/2023 | 1:21:56 AM : ----property ModelRandom | Simple: True | Total Nodes: 3 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 3.2798ms
+7/28/2023 | 1:21:56 AM : ----property Type | Simple: True | Total Nodes: 4 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 4.4864ms
+7/28/2023 | 1:21:56 AM : ----property SpawnPosition | Simple: True | Total Nodes: 5 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 56.5558ms
+7/28/2023 | 1:21:56 AM : ----property UseRotationNotHeading | Simple: True | Total Nodes: 6 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 56.9198ms
+7/28/2023 | 1:21:56 AM : ----property VehicleLightsOn | Simple: True | Total Nodes: 7 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 57.2319ms
+7/28/2023 | 1:21:56 AM : ----property ObjectPositionFrozen | Simple: True | Total Nodes: 8 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 57.5739ms
+7/28/2023 | 1:21:56 AM : ----property WeaponName | Simple: True | Total Nodes: 9 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 58.0913ms
+7/28/2023 | 1:21:56 AM : ----property Scenarios | Simple: True | Total Nodes: 10 | Is List: True
+7/28/2023 | 1:21:56 AM : ----Time to load property: 72.0935ms
+7/28/2023 | 1:21:56 AM : ----property IsInteractable | Simple: True | Total Nodes: 11 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 72.7549ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----Interaction Settings
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties InteractionOptions
+7/28/2023 | 1:21:56 AM : CreateRootNode Interaction Settings
+7/28/2023 | 1:21:56 AM : ----property IsImportant | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 0.6378ms
+7/28/2023 | 1:21:56 AM : ----property IsCompliant | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 1.6355ms
+7/28/2023 | 1:21:56 AM : ----property InteractiveEntityType | Simple: True | Total Nodes: 3 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 2.35ms
+7/28/2023 | 1:21:56 AM : ----property CanBeInspected | Simple: True | Total Nodes: 4 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 2.9461ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----
+7/28/2023 | 1:21:56 AM : ----True || False || False
+7/28/2023 | 1:21:56 AM : ----property PlaySoundOnCollection | Simple: True | Total Nodes: 5 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 4.1131ms
+7/28/2023 | 1:21:56 AM : ----property PlaySoundNearby | Simple: True | Total Nodes: 6 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 4.7553ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----
+7/28/2023 | 1:21:56 AM : ----True || False || False
+7/28/2023 | 1:21:56 AM : ----property AdditionalTextWhileInspecting | Simple: True | Total Nodes: 7 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 16.6237ms
+7/28/2023 | 1:21:56 AM : ----property MessageWhenCollected | Simple: True | Total Nodes: 8 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 17.744ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----Report
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties TextContainer
+7/28/2023 | 1:21:56 AM : CreateRootNode Report
+7/28/2023 | 1:21:56 AM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 1.3337ms
+7/28/2023 | 1:21:56 AM : ----property Title | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 2.1448ms
+7/28/2023 | 1:21:56 AM : ----property Text | Simple: True | Total Nodes: 3 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 2.6713ms
+7/28/2023 | 1:21:56 AM : ----property Report | Simple: False | Total Nodes: 9 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 22.4805ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----Evidence
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties EvidenceData
+7/28/2023 | 1:21:56 AM : CreateRootNode Evidence
+7/28/2023 | 1:21:56 AM : CreateRootNode ----
+7/28/2023 | 1:21:56 AM : ----True || False || False
+7/28/2023 | 1:21:56 AM : CreateRootNode ----
+7/28/2023 | 1:21:56 AM : ----True || False || False
+7/28/2023 | 1:21:56 AM : ----property Traces | Simple: True | Total Nodes: 1 | Is List: True
+7/28/2023 | 1:21:56 AM : ----Time to load property: 2.8304ms
+7/28/2023 | 1:21:56 AM : ----property Evidence | Simple: False | Total Nodes: 10 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 26.1645ms
+7/28/2023 | 1:21:56 AM : ----property SecondaryPosition | Simple: True | Total Nodes: 11 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 27.0833ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----Entity Dialog
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties Dialog
+7/28/2023 | 1:21:56 AM : CreateRootNode Entity Dialog
+7/28/2023 | 1:21:56 AM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 1.8019ms
+7/28/2023 | 1:21:56 AM : ----property DialogLines | Simple: True | Total Nodes: 2 | Is List: True
+7/28/2023 | 1:21:56 AM : ----Time to load property: 2.5411ms
+7/28/2023 | 1:21:56 AM : ----property EntityDialog | Simple: False | Total Nodes: 12 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 30.7182ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----Interrogation
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties Interrogation
+7/28/2023 | 1:21:56 AM : CreateRootNode Interrogation
+7/28/2023 | 1:21:56 AM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 1.3359ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----Questions
+7/28/2023 | 1:21:56 AM : ----property Questions | Simple: False | Total Nodes: 2 | Is List: True
+7/28/2023 | 1:21:56 AM : ----Time to load property: 3.1672ms
+7/28/2023 | 1:21:56 AM : ----property Interrogation | Simple: False | Total Nodes: 13 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 35.9686ms
+7/28/2023 | 1:21:56 AM : ----property InteractionSettings | Simple: False | Total Nodes: 12 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 110.4994ms
+7/28/2023 | 1:21:56 AM : property SceneItems | Simple: False | Total Nodes: 3 | Is List: True
+7/28/2023 | 1:21:56 AM : Checking custom property: CallPosition
+7/28/2023 | 1:21:56 AM : Type: CaseManager.Resources.SpawnPointTemp
+7/28/2023 | 1:21:56 AM : property CallPosition | Simple: True | Total Nodes: 4 | Is List: False
+7/28/2023 | 1:21:56 AM : Checking custom property: ApproachSoundEnabled
+7/28/2023 | 1:21:56 AM : Type: System.Boolean
+7/28/2023 | 1:21:56 AM : property ApproachSoundEnabled | Simple: True | Total Nodes: 5 | Is List: False
+7/28/2023 | 1:21:56 AM : Checking custom property: TimeStart
+7/28/2023 | 1:21:56 AM : Type: System.TimeSpan
+7/28/2023 | 1:21:56 AM : property TimeStart | Simple: True | Total Nodes: 6 | Is List: False
+7/28/2023 | 1:21:56 AM : Checking custom property: TimedEventDelay
+7/28/2023 | 1:21:56 AM : Type: System.TimeSpan
+7/28/2023 | 1:21:56 AM : property TimedEventDelay | Simple: True | Total Nodes: 7 | Is List: False
+7/28/2023 | 1:21:56 AM : Checking custom property: CallNotification
+7/28/2023 | 1:21:56 AM : Type: CaseManager.NewData.NotificationData
+7/28/2023 | 1:21:56 AM : CreateRootNode Notification
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties NotificationData
+7/28/2023 | 1:21:56 AM : CreateRootNode Notification
+7/28/2023 | 1:21:56 AM : ----property Subtitle | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 2.8029ms
+7/28/2023 | 1:21:56 AM : ----property Text | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 5.0524ms
+7/28/2023 | 1:21:56 AM : property CallNotification | Simple: False | Total Nodes: 8 | Is List: False
+7/28/2023 | 1:21:56 AM : Checking custom property: CallBlip
+7/28/2023 | 1:21:56 AM : Type: CaseManager.NewData.BlipData
+7/28/2023 | 1:21:56 AM : CreateRootNode Call Blip
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties BlipData
+7/28/2023 | 1:21:56 AM : CreateRootNode Call Blip
+7/28/2023 | 1:21:56 AM : ----property BlipName | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 4.1245ms
+7/28/2023 | 1:21:56 AM : ----property BlipRadius | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 6.2147ms
+7/28/2023 | 1:21:56 AM : CreateRootNode ----Blip Color
+7/28/2023 | 1:21:56 AM : ----GetTreeviewItem_Properties BlipColor
+7/28/2023 | 1:21:56 AM : CreateRootNode Blip Color
+7/28/2023 | 1:21:56 AM : ----property BlipColor | Simple: False | Total Nodes: 3 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 11.12ms
+7/28/2023 | 1:21:56 AM : ----property BlipSprite | Simple: True | Total Nodes: 4 | Is List: False
+7/28/2023 | 1:21:56 AM : ----Time to load property: 14.2602ms
+7/28/2023 | 1:21:56 AM : property CallBlip | Simple: False | Total Nodes: 9 | Is List: False
+7/28/2023 | 1:21:56 AM : Checking custom property: PriorStages
+7/28/2023 | 1:21:56 AM : Type: System.Collections.Generic.List`1[System.String]
+7/28/2023 | 1:21:56 AM : property PriorStages | Simple: True | Total Nodes: 10 | Is List: True
+7/28/2023 | 1:21:56 AM : Checking custom property: NextStages
+7/28/2023 | 1:21:56 AM : Type: System.Collections.Generic.List`1[System.String]
+7/28/2023 | 1:21:56 AM : property NextStages | Simple: True | Total Nodes: 11 | Is List: True
+7/28/2023 | 1:21:56 AM : Time to load stage: 187.8783ms
+7/28/2023 | 1:21:56 AM : Time to load case: 194.1726ms
+7/28/2023 | 1:21:56 AM : UpdateCaseData with new node Case
+7/28/2023 | 1:22:01 AM : Selected item: Scene Items
+7/28/2023 | 1:22:02 AM : Selected item: Scene ID
+7/28/2023 | 1:22:02 AM : Selected item: Scene Items

@@ -1,0 +1,116 @@
+4/16/2023 | 12:05:18 AM : CheckSave false
+4/16/2023 | 12:05:20 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+4/16/2023 | 12:05:20 AM : Clearing nodes
+4/16/2023 | 12:05:20 AM : GetTreeViewData
+4/16/2023 | 12:05:20 AM : CreateRootNode Case Data
+4/16/2023 | 12:05:20 AM : CreateRootNode Documents
+4/16/2023 | 12:05:20 AM : CreateRootNode Additional Information
+4/16/2023 | 12:05:20 AM : CreateRootNode Stages
+4/16/2023 | 12:05:20 AM : Checking property: ID
+4/16/2023 | 12:05:20 AM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+4/16/2023 | 12:05:20 AM : Node created: Case ID
+4/16/2023 | 12:05:20 AM : rootStageNode Items = 0
+4/16/2023 | 12:05:20 AM : Checking property: Name
+4/16/2023 | 12:05:20 AM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+4/16/2023 | 12:05:20 AM : Node created: Case Name
+4/16/2023 | 12:05:20 AM : rootStageNode Items = 0
+4/16/2023 | 12:05:20 AM : Checking property: Description
+4/16/2023 | 12:05:20 AM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+4/16/2023 | 12:05:20 AM : Node created: Case Description
+4/16/2023 | 12:05:20 AM : rootStageNode Items = 0
+4/16/2023 | 12:05:20 AM : Checking property: Progress
+4/16/2023 | 12:05:20 AM : rootStageNode Items = 0
+4/16/2023 | 12:05:20 AM : Checking property: Documents
+4/16/2023 | 12:05:20 AM : rootStageNode Items = 0
+4/16/2023 | 12:05:20 AM : Checking property: DetailedInformation
+4/16/2023 | 12:05:20 AM : rootStageNode Items = 0
+4/16/2023 | 12:05:20 AM : Checking property: Notes
+4/16/2023 | 12:05:20 AM : rootStageNode Items = 0
+4/16/2023 | 12:05:20 AM : Checking property: Stages
+4/16/2023 | 12:05:20 AM : CreateRootNode Stage - CSI
+4/16/2023 | 12:05:20 AM : Checking property: ID
+4/16/2023 | 12:05:20 AM : CreateRootNode Scene Items
+4/16/2023 | 12:05:20 AM : AddItemToTreeView: Stage - CSI, ID, CaseManager.NewData.Stage
+4/16/2023 | 12:05:20 AM : Node created: Stage ID
+4/16/2023 | 12:05:20 AM : stageNode Items = 1
+4/16/2023 | 12:05:20 AM : Checking property: Completed
+4/16/2023 | 12:05:20 AM : CreateRootNode Scene Items
+4/16/2023 | 12:05:20 AM : AddItemToTreeView: Stage - CSI, Completed, CaseManager.NewData.Stage
+4/16/2023 | 12:05:20 AM : Node created: 
+4/16/2023 | 12:05:20 AM : stageNode Items = 2
+4/16/2023 | 12:05:20 AM : Checking property: StageType
+4/16/2023 | 12:05:20 AM : CreateRootNode Scene Items
+4/16/2023 | 12:05:20 AM : AddItemToTreeView: Stage - CSI, StageType, CaseManager.NewData.Stage
+4/16/2023 | 12:05:20 AM : Node created: Stage Type
+4/16/2023 | 12:05:20 AM : stageNode Items = 3
+4/16/2023 | 12:05:20 AM : Checking property: SceneItems
+4/16/2023 | 12:05:20 AM : CreateRootNode Scene Items
+4/16/2023 | 12:05:20 AM : AddSceneItems: CSI
+4/16/2023 | 12:05:20 AM : CreateRootNode Scene Items
+4/16/2023 | 12:05:20 AM : Creating task for: victim. # of tasks in list: 0
+4/16/2023 | 12:05:20 AM : Creating task for: evidence_1. # of tasks in list: 1
+4/16/2023 | 12:05:20 AM : Creating task for: first_officer. # of tasks in list: 2
+4/16/2023 | 12:05:20 AM : Creating task for: evidence_2. # of tasks in list: 3
+4/16/2023 | 12:05:20 AM : Creating task for: evidence_3. # of tasks in list: 4
+4/16/2023 | 12:05:20 AM : Creating task for: trash_01. # of tasks in list: 5
+4/16/2023 | 12:05:20 AM : Creating task for: trash_02. # of tasks in list: 6
+4/16/2023 | 12:05:20 AM : Creating task for: trash_03. # of tasks in list: 7
+4/16/2023 | 12:05:20 AM : Creating task for: policeguard_1. # of tasks in list: 8
+4/16/2023 | 12:05:20 AM : Creating task for: police_veh_01. # of tasks in list: 9
+4/16/2023 | 12:05:20 AM : Creating task for: policeveh2. # of tasks in list: 10
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Creating task for: barricade1. # of tasks in list: 11
+4/16/2023 | 12:05:20 AM : Creating task for: barricade2. # of tasks in list: 12
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Creating task for: police_crowd_1. # of tasks in list: 13
+4/16/2023 | 12:05:20 AM : Interrogation
+4/16/2023 | 12:05:20 AM : Creating task for: guard2. # of tasks in list: 14
+4/16/2023 | 12:05:20 AM : Creating task for: guard3. # of tasks in list: 15
+4/16/2023 | 12:05:20 AM : Creating task for: cop_clipboard. # of tasks in list: 16
+4/16/2023 | 12:05:20 AM : Creating task for: cop_investigate. # of tasks in list: 17
+4/16/2023 | 12:05:20 AM : Creating task for: bystander1. # of tasks in list: 18
+4/16/2023 | 12:05:20 AM : Creating task for: bystander2. # of tasks in list: 19
+4/16/2023 | 12:05:20 AM : Creating task for: bystander3. # of tasks in list: 20
+4/16/2023 | 12:05:20 AM : Creating task for: pap1. # of tasks in list: 21
+4/16/2023 | 12:05:20 AM : Creating task for: pap2. # of tasks in list: 22
+4/16/2023 | 12:05:20 AM : Creating task for: guard4. # of tasks in list: 23
+4/16/2023 | 12:05:20 AM : Creating task for: pap3. # of tasks in list: 24
+4/16/2023 | 12:05:20 AM : Creating task for: pap4. # of tasks in list: 25
+4/16/2023 | 12:05:20 AM : Creating task for: pap5. # of tasks in list: 26
+4/16/2023 | 12:05:20 AM : Creating task for: bystander4. # of tasks in list: 27
+4/16/2023 | 12:05:20 AM : Creating task for: bystander5. # of tasks in list: 28
+4/16/2023 | 12:05:20 AM : Creating task for: bystander6. # of tasks in list: 29
+4/16/2023 | 12:05:20 AM : Creating task for: pap7. # of tasks in list: 30
+4/16/2023 | 12:05:20 AM : Creating task for: bystander8. # of tasks in list: 31
+4/16/2023 | 12:05:20 AM : Creating task for: policeveh3. # of tasks in list: 32
+4/16/2023 | 12:05:20 AM : Creating task for: barrier3. # of tasks in list: 33
+4/16/2023 | 12:05:20 AM : Creating task for: policveh4. # of tasks in list: 34
+4/16/2023 | 12:05:20 AM : Creating task for: policevehguard1. # of tasks in list: 35
+4/16/2023 | 12:05:20 AM : Creating task for: witness1. # of tasks in list: 36
+4/16/2023 | 12:05:20 AM : Creating task for: witnessguard1. # of tasks in list: 37
+4/16/2023 | 12:05:20 AM : Total of 38 tasks created
+4/16/2023 | 12:05:21 AM : Interrogation
+4/16/2023 | 12:05:22 AM : Interrogation
+4/16/2023 | 12:05:23 AM : Interrogation
+4/16/2023 | 12:05:24 AM : Interrogation
+4/16/2023 | 12:05:25 AM : Interrogation
+4/16/2023 | 12:05:26 AM : Interrogation
+4/16/2023 | 12:05:27 AM : Interrogation
+4/16/2023 | 12:05:28 AM : Interrogation
+4/16/2023 | 12:05:29 AM : Interrogation
+4/16/2023 | 12:05:30 AM : Interrogation
+4/16/2023 | 12:05:31 AM : Interrogation
+4/16/2023 | 12:05:32 AM : Interrogation
+4/16/2023 | 12:05:33 AM : Interrogation
+4/16/2023 | 12:05:34 AM : Interrogation
+4/16/2023 | 12:05:35 AM : Interrogation
+4/16/2023 | 12:05:36 AM : Interrogation
+4/16/2023 | 12:05:37 AM : Interrogation
+4/16/2023 | 12:05:38 AM : Interrogation
+4/16/2023 | 12:05:39 AM : Interrogation

@@ -1,0 +1,10 @@
+7/29/2023 | 4:16:00 AM : CheckSave false
+7/29/2023 | 4:16:11 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/29/2023 | 4:16:12 AM : Clearing nodes
+7/29/2023 | 4:16:12 AM : GetTreeviewItem_Stage CSI
+7/29/2023 | 4:16:14 AM : !! ERROR !! RunSynchronously may not be called on a task that has already completed.
+7/29/2023 | 4:16:14 AM : !! ERROR !!    at System.Threading.Tasks.Task.InternalRunSynchronously(TaskScheduler scheduler, Boolean waitForCompletion)
+   at System.Threading.Tasks.Task.RunSynchronously()
+   at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\CaseLoader.cs:line 71
+7/29/2023 | 4:16:15 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:16:15 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.LoadCase(Case _case) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\CaseLoader.cs:line 42

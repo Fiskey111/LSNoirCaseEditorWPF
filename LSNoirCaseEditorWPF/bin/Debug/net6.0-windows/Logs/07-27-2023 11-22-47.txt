@@ -1,0 +1,29 @@
+7/27/2023 | 11:22:54 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:22:55 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:22:55 PM : !! ERROR !! Object reference not set to an instance of an object.
+7/27/2023 | 11:22:55 PM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 76
+7/27/2023 | 11:22:55 PM : property Completed | Simple: False | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:22:55 PM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:22:55 PM : GetTreeviewItem_Properties List`1
+7/27/2023 | 11:22:55 PM : CreateRootNode SceneItems
+7/27/2023 | 11:22:55 PM : property SceneItems | Simple: False | Total Nodes: 2 | Is List: True
+7/27/2023 | 11:22:56 PM : property CallPosition | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:22:56 PM : property ApproachSoundEnabled | Simple: True | Total Nodes: 4 | Is List: False
+7/27/2023 | 11:22:56 PM : property TimeStart | Simple: True | Total Nodes: 5 | Is List: False
+7/27/2023 | 11:22:56 PM : property TimedEventDelay | Simple: True | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:22:56 PM : GetTreeviewItem_Properties NotificationData
+7/27/2023 | 11:22:56 PM : CreateRootNode CallNotification
+7/27/2023 | 11:22:56 PM : ----property Subtitle | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:22:56 PM : ----property Text | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:22:56 PM : property CallNotification | Simple: False | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:22:56 PM : GetTreeviewItem_Properties BlipData
+7/27/2023 | 11:22:56 PM : CreateRootNode CallBlip
+7/27/2023 | 11:22:56 PM : ----property BlipName | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:22:56 PM : ----property BlipRadius | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:22:56 PM : GetTreeviewItem_Properties BlipColor
+7/27/2023 | 11:22:56 PM : CreateRootNode BlipColor
+7/27/2023 | 11:22:56 PM : ----property BlipColor | Simple: False | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:22:56 PM : ----property BlipSprite | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:22:56 PM : property CallBlip | Simple: False | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:22:56 PM : property PriorStages | Simple: True | Total Nodes: 7 | Is List: True
+7/27/2023 | 11:22:56 PM : property NextStages | Simple: True | Total Nodes: 8 | Is List: True

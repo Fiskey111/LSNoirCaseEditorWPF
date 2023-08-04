@@ -1,0 +1,11 @@
+7/27/2023 | 11:36:05 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:36:05 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:36:05 PM : property Completed | Simple: False | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:36:05 PM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:36:05 PM : False
+7/27/2023 | 11:36:05 PM : System.Collections.Generic.List`1[CaseManager.NewData.SceneItem]
+7/27/2023 | 11:36:07 PM : !! ERROR !! Object does not match target type.
+7/27/2023 | 11:36:07 PM : !! ERROR !!    at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 57

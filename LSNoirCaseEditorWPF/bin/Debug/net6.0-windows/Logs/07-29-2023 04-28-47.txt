@@ -1,0 +1,110 @@
+7/29/2023 | 4:28:51 AM : CheckSave false
+7/29/2023 | 4:28:52 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/29/2023 | 4:28:52 AM : Clearing nodes
+7/29/2023 | 4:28:52 AM : GetTreeviewItem_Stage CSI
+7/29/2023 | 4:28:52 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:28:52 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:28:52 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:28:53 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:53 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:54 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:54 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:54 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:54 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:54 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:54 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:55 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:55 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:55 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:55 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:55 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:55 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:55 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:55 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:56 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:56 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:56 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:56 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:56 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:56 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:56 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:56 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:56 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:56 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:57 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:57 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:57 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:57 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:57 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:57 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:57 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:57 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:57 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:57 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:57 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:57 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:28:57 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:28:57 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:12 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:12 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:12 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:12 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:12 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:12 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:12 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:12 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:13 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:13 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:13 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:13 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:13 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:13 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:13 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:13 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:13 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:13 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:13 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:13 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:14 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:14 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:14 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:14 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:14 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:14 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:14 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:14 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:14 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:14 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:15 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:15 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:15 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:15 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:15 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:15 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:15 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.PropertyLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\PropertyLoader.cs:line 101
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:29:15 AM : Waiting for 12 tasks
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Task 1 status: RanToCompletion result 
+7/29/2023 | 4:29:15 AM : Time to load stage: 22842.7029ms - success=True 
+7/29/2023 | 4:29:15 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:29:15 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.LoadCase(Case _case) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\CaseLoader.cs:line 45

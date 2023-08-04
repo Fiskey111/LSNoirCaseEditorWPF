@@ -1,0 +1,2726 @@
+7/28/2023 | 11:12:56 AM : CheckSave false
+7/28/2023 | 11:12:57 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/28/2023 | 11:12:57 AM : Clearing nodes
+7/28/2023 | 11:12:57 AM : CreateRootNode Case
+7/28/2023 | 11:12:57 AM : GetTreeviewItem_Stage CSI
+7/28/2023 | 11:12:57 AM : CreateRootNode Stage  - CSI
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - victim
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.9542ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2193ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5242ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4777ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.3766ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 24.8972ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - evidence_1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.9876ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3262ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5567ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4543ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.7328ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.0086ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - first_officer
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5277ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3499ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4322ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4594ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.3931ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.675ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - evidence_2
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5614ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3219ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4068ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3925ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.3753ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.0419ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - evidence_3
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5397ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3103ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4281ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.39ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.4182ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 6.728ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - trash_01
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3589ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2363ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3159ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 1.8629ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.5918ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.8285ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - trash_02
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.6161ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4325ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4526ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4476ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.7071ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.4851ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - trash_03
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5812ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4174ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.6596ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4549ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.0668ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.4863ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - policeguard_1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4235ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2206ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4078ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3954ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.5155ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.9053ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - police_veh_01
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.736ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3618ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4781ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 25.1098ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 29.594ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 32.0641ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - policeveh2
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5664ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3243ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3016ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.288ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.48ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.9705ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - barricade1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.6089ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3028ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4225ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4067ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.4126ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 6.8216ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - barricade2
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.6403ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3451ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4551ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4179ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.9239ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.5882ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - police_crowd_1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5731ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3711ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4709ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4501ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.4696ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.3937ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - guard2
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3727ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2141ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5331ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2965ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.8474ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 6.1409ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - guard3
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4245ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2015ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3785ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3581ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.2022ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.313ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - cop_clipboard
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.398ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2383ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3356ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4418ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.3061ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.4328ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - cop_investigate
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5124ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2411ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3619ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3235ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.4427ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.3458ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - bystander1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.391ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2027ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.2891ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3223ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 8.1121ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 9.9494ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - bystander2
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4352ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2555ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3209ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3162ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.5049ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.2448ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - bystander3
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.422ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2048ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2893ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2852ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 2.981ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.7776ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - pap1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4232ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2352ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3276ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.316ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.1077ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.9466ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - pap2
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3812ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2503ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3009ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.316ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.1477ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.9262ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - guard4
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3852ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2021ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2892ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.286ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 2.9452ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.6378ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - pap3
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3816ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2285ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3196ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3334ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.1658ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.9199ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - pap4
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4218ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.271ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3245ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.2206ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 7.569ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 9.4736ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - pap5
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3759ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2152ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3217ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3135ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.0601ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.8352ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - bystander4
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5129ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2296ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2884ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3182ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.1454ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.8824ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - bystander5
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3898ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.224ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2968ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.319ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.0297ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.9144ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - bystander6
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3608ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2321ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3142ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3123ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 2.9501ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.6613ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - pap7
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.362ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3343ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3017ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3407ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.4557ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.2155ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - bystander8
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4004ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2599ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3306ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3556ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.3904ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 18.8675ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - policeveh3
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3883ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2108ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3131ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3453ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.0124ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.8841ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - barrier3
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3846ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.299ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3182ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3192ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.1315ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.8456ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - policveh4
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3876ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2028ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.318ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3143ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 2.9843ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.7301ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - policevehguard1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3926ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2063ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3459ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3127ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.0403ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.8296ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - witness1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3861ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2257ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4481ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3782ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.3304ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 5.0558ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - witnessguard1
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4007ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 3.0113ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3129ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.3161ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 6.103ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 8.0041ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Notification
+7/28/2023 | 11:12:57 AM : CreateRootNode Notification - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.6435ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Call Blip
+7/28/2023 | 11:12:57 AM : ----False || False || True
+7/28/2023 | 11:12:57 AM : Time to load stage: 346.2573ms
+7/28/2023 | 11:12:57 AM : GetTreeviewItem_Stage CSI
+7/28/2023 | 11:12:57 AM : CreateRootNode Stage  - CSI
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - victim
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:57 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Report
+7/28/2023 | 11:12:57 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.4586ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:57 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.2911ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:57 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.359ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:57 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:57 AM : CreateRootNode Questions
+7/28/2023 | 11:12:57 AM : ----Time to load property: 0.5016ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 4.006ms
+7/28/2023 | 11:12:57 AM : ----Time to load property: 6.0989ms
+7/28/2023 | 11:12:57 AM : CreateRootNode Scene Items - evidence_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3931ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2162ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3158ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3193ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.1245ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.8698ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - first_officer
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4077ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2704ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3307ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 2.6375ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.7681ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 7.5741ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - evidence_2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3862ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2072ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3104ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3176ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.0119ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.8526ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - evidence_3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.452ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2534ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2941ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3207ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.1748ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.242ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_01
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3847ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2127ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3276ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3483ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.0678ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.0156ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_02
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3917ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2398ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2965ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3205ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3956ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.7442ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_03
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4561ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.9835ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4538ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3358ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 7.5582ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 10.0827ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeguard_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4019ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2513ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3042ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3221ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.1556ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.9638ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - police_veh_01
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4588ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.6295ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3884ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3535ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 9.5891ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 11.4481ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeveh2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3911ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2296ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2979ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3188ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.1025ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.8936ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - barricade1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.397ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2102ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3579ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3904ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 10.7585ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 12.6081ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - barricade2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3973ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2101ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3302ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3278ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.0816ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.023ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - police_crowd_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3963ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.231ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3215ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3629ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.2631ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.1049ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3974ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2343ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3263ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3279ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.1969ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.1489ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3991ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2329ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3577ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4061ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3411ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.1559ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - cop_clipboard
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4015ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2336ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3067ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3286ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.1604ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.2078ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - cop_investigate
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3997ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2297ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3207ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3196ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.0999ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.9279ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4055ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2469ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3266ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.328ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.2012ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.9805ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4024ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2387ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3692ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4105ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5139ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 8.2154ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3733ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.232ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.325ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3498ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.1464ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.0857ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4031ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2642ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3696ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3413ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5499ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3351ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4213ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2281ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3251ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.328ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.248ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.0789ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4534ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2489ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3638ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5689ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.5976ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 8.4026ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3787ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2392ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3415ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3408ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.1941ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.082ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4345ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2219ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.343ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3267ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.2581ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.1305ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap5
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4245ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2336ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3748ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3663ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.4552ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.2752ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.6828ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2568ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3311ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3508ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 9.6297ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 11.561ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander5
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.6605ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2856ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5344ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3471ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.8581ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.8971ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander6
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4515ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.251ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.325ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3602ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3357ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.1756ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap7
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4372ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2559ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5699ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4278ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.6901ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 8.4866ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander8
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.429ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2418ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3433ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3723ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3273ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.1626ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeveh3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4154ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2419ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3268ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4158ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.4071ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.4668ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - barrier3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4341ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3183ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.346ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4222ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7463ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.8057ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policveh4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4169ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5171ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3811ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3942ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.5645ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.4977ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policevehguard1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.444ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4252ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3849ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4825ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.6618ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.8561ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - backuptarget
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4187ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2764ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3407ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4333ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7863ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.9875ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - witness1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.6322ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3028ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3975ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4304ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 9.1183ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 11.4822ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - witnessguard1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.444ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2543ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4107ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3399ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 7.7441ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 15.1373ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policebackuptarget1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.382ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.241ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3044ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3557ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.2447ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.0813ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Notification
+7/28/2023 | 11:12:58 AM : CreateRootNode Notification - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3285ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Call Blip
+7/28/2023 | 11:12:58 AM : ----False || False || True
+7/28/2023 | 11:12:58 AM : Time to load stage: 299.9704ms
+7/28/2023 | 11:12:58 AM : GetTreeviewItem_Stage CSI
+7/28/2023 | 11:12:58 AM : CreateRootNode Stage  - CSI
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - victim
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5765ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2541ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3658ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4266ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.9055ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.8284ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - evidence_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4583ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2625ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3826ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3906ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.6579ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.5314ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - first_officer
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4456ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2603ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.359ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4726ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.8343ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.8541ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - evidence_2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4469ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2514ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4204ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4292ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.2513ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.2711ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - evidence_3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4725ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2554ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4049ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4068ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7217ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.6406ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_01
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4926ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.292ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3781ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5181ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.9017ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 17.2275ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_02
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.421ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.219ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3122ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3682ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.285ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3902ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_03
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.404ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2427ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3294ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.353ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3985ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3252ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeguard_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4179ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2451ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3669ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4579ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5494ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.2725ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - police_veh_01
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3979ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2651ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2976ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3483ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.2991ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.1147ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeveh2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.6165ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3883ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5038ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3948ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.8492ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.9545ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - barricade1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4347ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2475ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3791ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.393ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7528ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.5773ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - barricade2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.6315ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2455ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3385ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5318ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.8866ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.9992ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - police_crowd_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4168ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3271ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3804ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4341ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.869ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.984ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4567ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.281ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3598ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3735ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 7.2985ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 11.8797ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4334ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2445ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.399ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3355ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.364ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.2311ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - cop_clipboard
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4436ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2496ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3588ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3525ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3746ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3345ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - cop_investigate
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4118ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2426ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3272ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3831ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3784ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3686ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4007ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2339ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3255ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3507ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3448ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.175ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4297ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.24ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4021ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3723ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7711ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.6577ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4677ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2606ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3693ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4163ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.6948ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.5605ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4243ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2784ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3956ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5067ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.965ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.9579ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 14.8976ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2801ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3566ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3652ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 18.5946ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 20.6599ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4508ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2632ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3858ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3825ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.6892ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.5808ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4063ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2405ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3371ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.39ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.4986ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3968ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4114ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.4482ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4209ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3828ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.9876ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 9.081ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap5
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4494ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2499ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3459ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3669ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.487ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3748ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4526ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2913ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3553ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3823ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.9314ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.9714ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander5
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4349ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2665ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.355ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3868ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.6688ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.7076ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander6
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4565ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2654ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4115ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.9657ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.1586ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 14.822ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap7
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.46ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2633ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3528ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.371ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7882ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 10.1254ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander8
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3711ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2291ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3526ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4068ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5005ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.2795ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeveh3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4198ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2705ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.342ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3874ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5361ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.5415ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - barrier3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4277ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2532ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3435ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3862ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.6038ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.7768ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policveh4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4562ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2597ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3712ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4158ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.0013ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.9574ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policevehguard1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5742ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2706ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4032ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4134ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.8954ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.8617ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - witness1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4555ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.298ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.352ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4013ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.6856ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.6265ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - witnessguard1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5215ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3778ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4339ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3913ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 21.4217ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 23.4907ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Notification
+7/28/2023 | 11:12:58 AM : CreateRootNode Notification - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3478ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Call Blip
+7/28/2023 | 11:12:58 AM : ----False || False || True
+7/28/2023 | 11:12:58 AM : Time to load stage: 317.649ms
+7/28/2023 | 11:12:58 AM : GetTreeviewItem_Stage CSI
+7/28/2023 | 11:12:58 AM : CreateRootNode Stage  - CSI
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - victim
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4089ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2546ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3626ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3714ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.44ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3342ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - evidence_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4314ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2433ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3671ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5554ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7722ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.7103ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - first_officer
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4095ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2618ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3354ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3555ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.3669ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.2686ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - evidence_2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4093ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2739ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3412ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3723ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.8919ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.8945ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - evidence_3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4408ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2536ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3631ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3744ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5552ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.5153ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_01
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4098ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2468ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.337ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4642ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5571ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.4691ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_02
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5298ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3276ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4241ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5038ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 8.3291ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 10.4509ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - trash_03
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4293ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2406ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3542ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.392ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.4205ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.4132ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeguard_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4227ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2427ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3391ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3981ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.6179ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.5481ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - police_veh_01
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4256ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2786ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3327ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4024ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5324ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.4495ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeveh2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4157ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2759ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3364ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3763ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.475ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3701ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - barricade1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4517ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2916ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3559ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4229ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7517ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.8999ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - barricade2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4881ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.354ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3673ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3939ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 12.0219ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 14.1312ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - police_crowd_1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.0915ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3155ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3691ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.522ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 8.1022ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 10.0901ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.8857ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3239ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3604ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3792ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 18.142ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 37.6371ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4254ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3915ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.7103ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.6404ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.8697ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.8693ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - cop_clipboard
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4789ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2817ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4294ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4365ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.1532ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.3246ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - cop_investigate
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4348ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2525ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.351ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3941ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.8704ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.9316ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4423ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2707ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3595ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4956ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.8753ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.0374ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.6245ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2684ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3626ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4323ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.5788ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.6031ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4733ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4632ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.666ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4621ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 8.8754ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 10.6665ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap1
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4651ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2611ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3665ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3769ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.6044ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 17.2383ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap2
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4558ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2348ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3115ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3697ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.5001ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.506ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - guard4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4401ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2765ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3634ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4093ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.8577ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.7546ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4293ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2522ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3783ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4284ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.7694ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.7591ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3829ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2323ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3227ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3764ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.4278ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3736ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap5
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.8164ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2819ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4268ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3922ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.2284ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.2192ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander4
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5079ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3294ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.413ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5436ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 4.4554ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 6.4832ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander5
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4669ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3961ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.7479ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.6065ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.6779ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 7.8749ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander6
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4635ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2814ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3706ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.388ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 14.352ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 16.5119ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - pap7
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3766ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3403ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.5816ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4165ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.8916ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 13.9334ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - bystander8
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4636ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2428ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3425ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3494ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.4499ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3273ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Scene Items - policeveh3
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings
+7/28/2023 | 11:12:58 AM : CreateRootNode Interaction Settings - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Report
+7/28/2023 | 11:12:58 AM : CreateRootNode Report - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4275ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence
+7/28/2023 | 11:12:58 AM : CreateRootNode Evidence - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.2715ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog
+7/28/2023 | 11:12:58 AM : CreateRootNode Entity Dialog - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3353ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation
+7/28/2023 | 11:12:58 AM : CreateRootNode Interrogation - 
+7/28/2023 | 11:12:58 AM : CreateRootNode Questions
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.4023ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 3.504ms
+7/28/2023 | 11:12:58 AM : ----Time to load property: 5.3787ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Notification
+7/28/2023 | 11:12:58 AM : CreateRootNode Notification - 
+7/28/2023 | 11:12:58 AM : ----Time to load property: 0.3287ms
+7/28/2023 | 11:12:58 AM : CreateRootNode Call Blip
+7/28/2023 | 11:12:58 AM : ----False || False || True
+7/28/2023 | 11:12:58 AM : Time to load stage: 303.252ms
+7/28/2023 | 11:12:58 AM : Time to load case: 1329.4922ms
+7/28/2023 | 11:12:58 AM : UpdateCaseData with new node Case
+7/28/2023 | 11:13:10 AM : Selected item: Scene Items - victim
+7/28/2023 | 11:13:10 AM : Selected item: Vehicle Lights

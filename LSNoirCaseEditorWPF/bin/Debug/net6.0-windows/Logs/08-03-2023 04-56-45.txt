@@ -1,0 +1,405 @@
+8/3/2023 | 4:56:46 AM : CheckSave false
+8/3/2023 | 4:56:48 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+8/3/2023 | 4:56:48 AM : Clearing nodes
+8/3/2023 | 4:56:48 AM : Total stages: 2
+8/3/2023 | 4:56:48 AM : Starting to load stage: CSI
+8/3/2023 | 4:56:48 AM : GetTreeviewItem_Stage CSI
+8/3/2023 | 4:56:48 AM : Starting task 1 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 3 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : Starting task 4 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 5 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 6 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 7 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 8 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 9 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 10 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 11 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 12 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Task 1 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:48 AM : Task 3 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 4 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:38 False False
+8/3/2023 | 4:56:48 AM : Task 5 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 6 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 7 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 8 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 9 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 10 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+8/3/2023 | 4:56:48 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:48 AM : Task 11 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 12 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Time to load stage: 71.2591ms - success=True 
+8/3/2023 | 4:56:48 AM : Starting to load stage: 
+8/3/2023 | 4:56:48 AM : GetTreeviewItem_Stage 
+8/3/2023 | 4:56:48 AM : Starting task 13 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 14 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:48 AM : Starting task 15 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 16 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 17 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 18 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 19 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 20 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 21 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 22 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 23 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Starting task 24 status: RanToCompletion
+8/3/2023 | 4:56:48 AM : Task 13 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:48 AM : Task 14 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 15 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:1 False False
+8/3/2023 | 4:56:48 AM : Task 16 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 17 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 18 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 19 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 20 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 21 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+8/3/2023 | 4:56:48 AM : Task 22 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Call Blip Items.Count:1 False False
+8/3/2023 | 4:56:48 AM : Task 23 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Task 24 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+8/3/2023 | 4:56:48 AM : Time to load stage: 3.8377ms - success=True 
+8/3/2023 | 4:56:48 AM : Time to load case: 79.5912ms
+8/3/2023 | 4:56:48 AM : UpdateCaseData with new node Case
+8/3/2023 | 4:56:49 AM : Selected item: victim and is deletable False
+8/3/2023 | 4:56:49 AM : Item victim is master attr CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Scene ID.SerializeObject("victim")
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Model Name.SerializeObject("s_f_y_movprem_01")
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Model Random.SerializeObject(true)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Type of Object.SerializeObject(0)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Spawn Position.SerializeObject({"Position":{"X":-1206.4497,"Y":-348.84296,"Z":37.289406},"Heading":27.054462,"Rotation":{"Roll":0.0,"Pitch":-180.0,"Yaw":27.05447}})
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Use Rotation.SerializeObject(false)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Vehicle Lights.SerializeObject(false)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Position Frozen.SerializeObject(false)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Weapon Name.SerializeObject("")
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Scenarios.SerializeObject([])
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Is Interactable.SerializeObject(true)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Important.SerializeObject(true)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Compliant.SerializeObject(false)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Interaction Entity Type.SerializeObject("")
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Can Be Inspected.SerializeObject(true)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Play Sound on Collection.SerializeObject(true)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Sound Collection Filename.SerializeObject("scene_collection.mp3")
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Play Sound Nearby.SerializeObject(true)
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Sound Nearby Filename.SerializeObject("scene_nearby.mp3")
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Text while Inspecting.SerializeObject("")
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Message when Collected.SerializeObject("")
+8/3/2023 | 4:56:53 AM : Saving 
+8/3/2023 | 4:56:53 AM : Secondary Position.SerializeObject({"Position":{"X":0.0,"Y":0.0,"Z":0.0},"Heading":0.0,"Rotation":{"Roll":0.0,"Pitch":0.0,"Yaw":0.0}})
+8/3/2023 | 4:56:53 AM : Saving case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+8/3/2023 | 4:56:53 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+8/3/2023 | 4:56:53 AM : Clearing nodes
+8/3/2023 | 4:56:53 AM : Total stages: 2
+8/3/2023 | 4:56:53 AM : Starting to load stage: CSI
+8/3/2023 | 4:56:53 AM : GetTreeviewItem_Stage CSI
+8/3/2023 | 4:56:53 AM : Starting task 25 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 26 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : Starting task 27 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 28 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 29 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 30 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 31 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 32 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 33 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 34 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 35 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Task 25 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:53 AM : Task 26 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 27 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:38 False False
+8/3/2023 | 4:56:53 AM : Task 28 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 29 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 30 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 31 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 32 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 33 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+8/3/2023 | 4:56:53 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:53 AM : Task 34 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 35 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Time to load stage: 13.8703ms - success=True 
+8/3/2023 | 4:56:53 AM : Starting to load stage: 
+8/3/2023 | 4:56:53 AM : GetTreeviewItem_Stage 
+8/3/2023 | 4:56:53 AM : Starting task 36 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 37 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:53 AM : Starting task 38 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 39 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 40 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 41 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 42 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 43 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 44 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 45 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 46 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Starting task 47 status: RanToCompletion
+8/3/2023 | 4:56:53 AM : Task 36 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:53 AM : Task 37 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 38 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:1 False False
+8/3/2023 | 4:56:53 AM : Task 39 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 40 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 41 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 42 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 43 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 44 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+8/3/2023 | 4:56:53 AM : Task 45 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Call Blip Items.Count:1 False False
+8/3/2023 | 4:56:53 AM : Task 46 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Task 47 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+8/3/2023 | 4:56:53 AM : Time to load stage: 3.0632ms - success=True 
+8/3/2023 | 4:56:53 AM : Time to load case: 17.8104ms
+8/3/2023 | 4:56:53 AM : UpdateCaseData with new node Case
+8/3/2023 | 4:56:53 AM : No item selected
+8/3/2023 | 4:56:54 AM : Selected item: victim and is deletable False
+8/3/2023 | 4:56:54 AM : Item victim is master attr CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Scene ID.SerializeObject("victim")
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Model Name.SerializeObject("s_f_y_movprem_01")
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Model Random.SerializeObject(false)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Type of Object.SerializeObject(0)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Spawn Position.SerializeObject({"Position":{"X":-1206.4497,"Y":-348.84296,"Z":37.289406},"Heading":27.054462,"Rotation":{"Roll":0.0,"Pitch":-180.0,"Yaw":27.05447}})
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Use Rotation.SerializeObject(false)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Vehicle Lights.SerializeObject(false)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Position Frozen.SerializeObject(false)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Weapon Name.SerializeObject("")
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Scenarios.SerializeObject([])
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Is Interactable.SerializeObject(true)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Important.SerializeObject(true)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Compliant.SerializeObject(false)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Interaction Entity Type.SerializeObject("")
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Can Be Inspected.SerializeObject(true)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Play Sound on Collection.SerializeObject(true)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Sound Collection Filename.SerializeObject("scene_collection.mp3")
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Play Sound Nearby.SerializeObject(true)
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Sound Nearby Filename.SerializeObject("scene_nearby.mp3")
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Text while Inspecting.SerializeObject("")
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Message when Collected.SerializeObject("")
+8/3/2023 | 4:56:59 AM : Saving 
+8/3/2023 | 4:56:59 AM : Secondary Position.SerializeObject({"Position":{"X":0.0,"Y":0.0,"Z":0.0},"Heading":0.0,"Rotation":{"Roll":0.0,"Pitch":0.0,"Yaw":0.0}})
+8/3/2023 | 4:56:59 AM : Saving case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+8/3/2023 | 4:56:59 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+8/3/2023 | 4:56:59 AM : Clearing nodes
+8/3/2023 | 4:56:59 AM : Total stages: 2
+8/3/2023 | 4:56:59 AM : Starting to load stage: CSI
+8/3/2023 | 4:56:59 AM : GetTreeviewItem_Stage CSI
+8/3/2023 | 4:56:59 AM : Starting task 48 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 49 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : Starting task 50 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 51 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 52 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 53 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 54 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 55 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 56 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 57 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 58 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Task 48 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:59 AM : Task 49 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 50 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:38 False False
+8/3/2023 | 4:56:59 AM : Task 51 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 52 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 53 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 54 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 55 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 56 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+8/3/2023 | 4:56:59 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:59 AM : Task 57 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 58 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Time to load stage: 9.068ms - success=True 
+8/3/2023 | 4:56:59 AM : Starting to load stage: 
+8/3/2023 | 4:56:59 AM : GetTreeviewItem_Stage 
+8/3/2023 | 4:56:59 AM : Starting task 59 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 2 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 60 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/3/2023 | 4:56:59 AM : Starting task 61 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 62 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 63 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 64 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 65 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 66 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 67 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 68 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 69 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Starting task 70 status: RanToCompletion
+8/3/2023 | 4:56:59 AM : Task 59 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 2 status: RanToCompletion result  True False
+8/3/2023 | 4:56:59 AM : Task 60 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 61 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:1 False False
+8/3/2023 | 4:56:59 AM : Task 62 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 63 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 64 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 65 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 66 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 67 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+8/3/2023 | 4:56:59 AM : Task 68 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Call Blip Items.Count:1 False False
+8/3/2023 | 4:56:59 AM : Task 69 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Task 70 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+8/3/2023 | 4:56:59 AM : Time to load stage: 3.2939ms - success=True 
+8/3/2023 | 4:56:59 AM : Time to load case: 20.5444ms
+8/3/2023 | 4:56:59 AM : UpdateCaseData with new node Case
+8/3/2023 | 4:56:59 AM : No item selected
+8/3/2023 | 4:57:03 AM : Selected item: victim and is deletable False
+8/3/2023 | 4:57:03 AM : Item victim is master attr CaseManager.NewData.SceneItem

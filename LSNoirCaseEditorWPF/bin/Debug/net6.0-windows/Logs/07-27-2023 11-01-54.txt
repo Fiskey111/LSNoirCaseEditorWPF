@@ -1,0 +1,37 @@
+7/27/2023 | 11:01:56 PM : CreateRootNode Scene Item - test
+7/27/2023 | 11:01:56 PM : property ID | Simple: True | Total Nodes: 1
+7/27/2023 | 11:01:56 PM : property Model | Simple: True | Total Nodes: 2
+7/27/2023 | 11:01:56 PM : property ModelRandom | Simple: True | Total Nodes: 3
+7/27/2023 | 11:01:56 PM : property Type | Simple: True | Total Nodes: 4
+7/27/2023 | 11:01:56 PM : property SpawnPosition | Simple: True | Total Nodes: 5
+7/27/2023 | 11:01:56 PM : property UseRotationNotHeading | Simple: True | Total Nodes: 6
+7/27/2023 | 11:01:56 PM : property VehicleLightsOn | Simple: True | Total Nodes: 7
+7/27/2023 | 11:01:56 PM : property ObjectPositionFrozen | Simple: True | Total Nodes: 8
+7/27/2023 | 11:01:56 PM : property WeaponName | Simple: True | Total Nodes: 9
+7/27/2023 | 11:01:56 PM : property Scenarios | Simple: True | Total Nodes: 10
+7/27/2023 | 11:01:56 PM : property IsInteractable | Simple: True | Total Nodes: 11
+7/27/2023 | 11:01:56 PM : ----GetTreeviewItem_Properties InteractionOptions
+7/27/2023 | 11:01:56 PM : CreateRootNode ----InteractionSettings
+7/27/2023 | 11:01:56 PM : ----property IsImportant | Simple: True | Total Nodes: 1
+7/27/2023 | 11:01:56 PM : ----property IsCompliant | Simple: True | Total Nodes: 2
+7/27/2023 | 11:01:56 PM : ----property InteractiveEntityType | Simple: True | Total Nodes: 3
+7/27/2023 | 11:01:56 PM : ----property CanBeInspected | Simple: True | Total Nodes: 4
+7/27/2023 | 11:01:56 PM : ----property IsCollected | Simple: False | Total Nodes: 4
+7/27/2023 | 11:01:56 PM : ----property IsCollected | Simple: False | Total Nodes: 4
+7/27/2023 | 11:01:56 PM : ----property PlaySoundOnCollection | Simple: True | Total Nodes: 5
+7/27/2023 | 11:01:56 PM : ----property PlaySoundNearby | Simple: True | Total Nodes: 6
+7/27/2023 | 11:01:56 PM : ----property HasSoundPlayed | Simple: False | Total Nodes: 6
+7/27/2023 | 11:01:56 PM : ----property HasSoundPlayed | Simple: False | Total Nodes: 6
+7/27/2023 | 11:01:56 PM : ----property AdditionalTextWhileInspecting | Simple: True | Total Nodes: 7
+7/27/2023 | 11:01:56 PM : ----property MessageWhenCollected | Simple: True | Total Nodes: 8
+7/27/2023 | 11:01:56 PM : ----property Report | Simple: False | Total Nodes: 8
+7/27/2023 | 11:01:56 PM : ----property Report | Simple: False | Total Nodes: 8
+7/27/2023 | 11:01:56 PM : ----property Evidence | Simple: False | Total Nodes: 8
+7/27/2023 | 11:01:56 PM : ----property Evidence | Simple: False | Total Nodes: 8
+7/27/2023 | 11:01:56 PM : ----property SecondaryPosition | Simple: True | Total Nodes: 9
+7/27/2023 | 11:01:56 PM : ----property EntityDialog | Simple: False | Total Nodes: 9
+7/27/2023 | 11:01:56 PM : ----property EntityDialog | Simple: False | Total Nodes: 9
+7/27/2023 | 11:01:56 PM : ----property Interrogation | Simple: False | Total Nodes: 9
+7/27/2023 | 11:01:56 PM : ----property Interrogation | Simple: False | Total Nodes: 9
+7/27/2023 | 11:01:56 PM : property InteractionSettings | Simple: False | Total Nodes: 11
+7/27/2023 | 11:01:56 PM : property InteractionSettings | Simple: False | Total Nodes: 11

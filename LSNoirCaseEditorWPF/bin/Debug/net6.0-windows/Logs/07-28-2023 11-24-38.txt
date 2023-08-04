@@ -1,0 +1,9 @@
+7/28/2023 | 11:24:40 AM : CheckSave false
+7/28/2023 | 11:24:41 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/28/2023 | 11:24:41 AM : Clearing nodes
+7/28/2023 | 11:24:42 AM : CreateRootNode Case
+7/28/2023 | 11:24:42 AM : GetTreeviewItem_Stage CSI
+7/28/2023 | 11:24:42 AM : CreateRootNode Stage  - CSI
+7/28/2023 | 11:24:42 AM : Time to load stage: 18.7757ms
+7/28/2023 | 11:24:42 AM : GetTreeviewItem_Stage CSI
+7/28/2023 | 11:24:42 AM : CreateRootNode Stage  - CSI

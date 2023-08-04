@@ -1,0 +1,2310 @@
+4/29/2023 | 10:13:48 PM : CheckSave false
+4/29/2023 | 10:13:50 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+4/29/2023 | 10:13:50 PM : Clearing nodes
+4/29/2023 | 10:13:50 PM : GetTreeViewData
+4/29/2023 | 10:13:50 PM : CreateRootNode Case Data
+4/29/2023 | 10:13:50 PM : CreateRootNode Documents
+4/29/2023 | 10:13:50 PM : CreateRootNode Additional Information
+4/29/2023 | 10:13:50 PM : CreateRootNode Stages
+4/29/2023 | 10:13:50 PM : Checking property: ID
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: Case Data, ID, CaseManager.NewData.Case
+4/29/2023 | 10:13:50 PM : Node created: Case ID
+4/29/2023 | 10:13:50 PM : rootStageNode Items = 0
+4/29/2023 | 10:13:50 PM : Checking property: Name
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: Case Data, Name, CaseManager.NewData.Case
+4/29/2023 | 10:13:50 PM : Node created: Case Name
+4/29/2023 | 10:13:50 PM : rootStageNode Items = 0
+4/29/2023 | 10:13:50 PM : Checking property: Description
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: Case Data, Description, CaseManager.NewData.Case
+4/29/2023 | 10:13:50 PM : Node created: Case Description
+4/29/2023 | 10:13:50 PM : rootStageNode Items = 0
+4/29/2023 | 10:13:50 PM : Checking property: Progress
+4/29/2023 | 10:13:50 PM : rootStageNode Items = 0
+4/29/2023 | 10:13:50 PM : Checking property: Documents
+4/29/2023 | 10:13:50 PM : rootStageNode Items = 0
+4/29/2023 | 10:13:50 PM : Checking property: DetailedInformation
+4/29/2023 | 10:13:50 PM : rootStageNode Items = 0
+4/29/2023 | 10:13:50 PM : Checking property: Notes
+4/29/2023 | 10:13:50 PM : rootStageNode Items = 0
+4/29/2023 | 10:13:50 PM : Checking property: Stages
+4/29/2023 | 10:13:50 PM : CreateRootNode Stage - CSI
+4/29/2023 | 10:13:50 PM : Checking property: ID
+4/29/2023 | 10:13:50 PM : CreateRootNode Scene Items
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: Stage - CSI, ID, CaseManager.NewData.Stage
+4/29/2023 | 10:13:50 PM : Node created: Stage ID
+4/29/2023 | 10:13:50 PM : stageNode Items = 1
+4/29/2023 | 10:13:50 PM : Checking property: Completed
+4/29/2023 | 10:13:50 PM : CreateRootNode Scene Items
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: Stage - CSI, Completed, CaseManager.NewData.Stage
+4/29/2023 | 10:13:50 PM : Node created: 
+4/29/2023 | 10:13:50 PM : stageNode Items = 2
+4/29/2023 | 10:13:50 PM : Checking property: StageType
+4/29/2023 | 10:13:50 PM : CreateRootNode Scene Items
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: Stage - CSI, StageType, CaseManager.NewData.Stage
+4/29/2023 | 10:13:50 PM : Node created: Stage Type
+4/29/2023 | 10:13:50 PM : stageNode Items = 3
+4/29/2023 | 10:13:50 PM : Checking property: SceneItems
+4/29/2023 | 10:13:50 PM : CreateRootNode Scene Items
+4/29/2023 | 10:13:50 PM : AddSceneItems: CSI
+4/29/2023 | 10:13:50 PM : CreateRootNode Scene Items
+4/29/2023 | 10:13:50 PM : Creating task for: victim. # of tasks in list: 0
+4/29/2023 | 10:13:50 PM : Creating task for: evidence_1. # of tasks in list: 1
+4/29/2023 | 10:13:50 PM : Creating task for: first_officer. # of tasks in list: 2
+4/29/2023 | 10:13:50 PM : Creating task for: evidence_2. # of tasks in list: 3
+4/29/2023 | 10:13:50 PM : Creating task for: evidence_3. # of tasks in list: 4
+4/29/2023 | 10:13:50 PM : Creating task for: trash_01. # of tasks in list: 5
+4/29/2023 | 10:13:50 PM : Creating task for: trash_02. # of tasks in list: 6
+4/29/2023 | 10:13:50 PM : Creating task for: trash_03. # of tasks in list: 7
+4/29/2023 | 10:13:50 PM : Creating task for: policeguard_1. # of tasks in list: 8
+4/29/2023 | 10:13:50 PM : Creating task for: police_veh_01. # of tasks in list: 9
+4/29/2023 | 10:13:50 PM : Creating task for: policeveh2. # of tasks in list: 10
+4/29/2023 | 10:13:50 PM : Creating task for: barricade1. # of tasks in list: 11
+4/29/2023 | 10:13:50 PM : Creating task for: barricade2. # of tasks in list: 12
+4/29/2023 | 10:13:50 PM : Creating task for: police_crowd_1. # of tasks in list: 13
+4/29/2023 | 10:13:50 PM : Creating task for: guard2. # of tasks in list: 14
+4/29/2023 | 10:13:50 PM : Creating task for: guard3. # of tasks in list: 15
+4/29/2023 | 10:13:50 PM : Creating task for: cop_clipboard. # of tasks in list: 16
+4/29/2023 | 10:13:50 PM : Creating task for: cop_investigate. # of tasks in list: 17
+4/29/2023 | 10:13:50 PM : Creating task for: bystander1. # of tasks in list: 18
+4/29/2023 | 10:13:50 PM : Creating task for: bystander2. # of tasks in list: 19
+4/29/2023 | 10:13:50 PM : Creating task for: bystander3. # of tasks in list: 20
+4/29/2023 | 10:13:50 PM : Creating task for: pap1. # of tasks in list: 21
+4/29/2023 | 10:13:50 PM : Creating task for: pap2. # of tasks in list: 22
+4/29/2023 | 10:13:50 PM : Creating task for: guard4. # of tasks in list: 23
+4/29/2023 | 10:13:50 PM : Creating task for: pap3. # of tasks in list: 24
+4/29/2023 | 10:13:50 PM : Creating task for: pap4. # of tasks in list: 25
+4/29/2023 | 10:13:50 PM : Creating task for: pap5. # of tasks in list: 26
+4/29/2023 | 10:13:50 PM : Creating task for: bystander4. # of tasks in list: 27
+4/29/2023 | 10:13:50 PM : Creating task for: bystander5. # of tasks in list: 28
+4/29/2023 | 10:13:50 PM : Creating task for: bystander6. # of tasks in list: 29
+4/29/2023 | 10:13:50 PM : Creating task for: pap7. # of tasks in list: 30
+4/29/2023 | 10:13:50 PM : Creating task for: bystander8. # of tasks in list: 31
+4/29/2023 | 10:13:50 PM : Creating task for: policeveh3. # of tasks in list: 32
+4/29/2023 | 10:13:50 PM : Creating task for: barrier3. # of tasks in list: 33
+4/29/2023 | 10:13:50 PM : Creating task for: policveh4. # of tasks in list: 34
+4/29/2023 | 10:13:50 PM : Creating task for: policevehguard1. # of tasks in list: 35
+4/29/2023 | 10:13:50 PM : Creating task for: witness1. # of tasks in list: 36
+4/29/2023 | 10:13:50 PM : Creating task for: witnessguard1. # of tasks in list: 37
+4/29/2023 | 10:13:50 PM : Total of 38 tasks created
+4/29/2023 | 10:13:50 PM : Multicore method (tasks) took 0.0795866 seconds
+4/29/2023 | 10:13:50 PM : Adding task 104 - total items = 0
+4/29/2023 | 10:13:50 PM : CreateRootNode Scene Item - victim
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Scene ID
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Model Name
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Model Random
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Type of Object
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Spawn Position
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Position Frozen
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Weapon Name
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Scenarios
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:50 PM : Node created: Is Interactable
+4/29/2023 | 10:13:50 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:50 PM : Node created: Important
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:50 PM : Node created: Compliant
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:50 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:50 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:50 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:50 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:50 PM : Node created: Message when Collected
+4/29/2023 | 10:13:50 PM : CreateRootNode Report
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : CreateRootNode 
+4/29/2023 | 10:13:50 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:51 PM : Node created: Traces
+4/29/2023 | 10:13:51 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:51 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:51 PM : Adding task 105 - total items = 1
+4/29/2023 | 10:13:51 PM : CreateRootNode Scene Item - evidence_1
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Scene ID
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Model Name
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Model Random
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Type of Object
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Spawn Position
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Position Frozen
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Weapon Name
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Scenarios
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Is Interactable
+4/29/2023 | 10:13:51 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Important
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Compliant
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Message when Collected
+4/29/2023 | 10:13:51 PM : CreateRootNode Report
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:51 PM : Node created: Traces
+4/29/2023 | 10:13:51 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:51 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:51 PM : Adding task 106 - total items = 2
+4/29/2023 | 10:13:51 PM : CreateRootNode Scene Item - first_officer
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Scene ID
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Model Name
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Model Random
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Type of Object
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Spawn Position
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Position Frozen
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Weapon Name
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Scenarios
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Is Interactable
+4/29/2023 | 10:13:51 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Important
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Compliant
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Message when Collected
+4/29/2023 | 10:13:51 PM : CreateRootNode Report
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:51 PM : Node created: Traces
+4/29/2023 | 10:13:51 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:51 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:51 PM : Adding task 107 - total items = 3
+4/29/2023 | 10:13:51 PM : CreateRootNode Scene Item - evidence_2
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Scene ID
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Model Name
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Model Random
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Type of Object
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Spawn Position
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Position Frozen
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Weapon Name
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Scenarios
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:51 PM : Node created: Is Interactable
+4/29/2023 | 10:13:51 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Important
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Compliant
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:51 PM : Node created: Message when Collected
+4/29/2023 | 10:13:51 PM : CreateRootNode Report
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:51 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:51 PM : CreateRootNode 
+4/29/2023 | 10:13:51 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:51 PM : Node created: Traces
+4/29/2023 | 10:13:52 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:52 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:52 PM : Adding task 108 - total items = 4
+4/29/2023 | 10:13:52 PM : CreateRootNode Scene Item - evidence_3
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Scene ID
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Model Name
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Model Random
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Type of Object
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Spawn Position
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Position Frozen
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Weapon Name
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Scenarios
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Is Interactable
+4/29/2023 | 10:13:52 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:52 PM : Node created: Important
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:52 PM : Node created: Compliant
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:52 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:52 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:52 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:52 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:52 PM : Node created: Message when Collected
+4/29/2023 | 10:13:52 PM : CreateRootNode Report
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:52 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:52 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:52 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:52 PM : Node created: Traces
+4/29/2023 | 10:13:52 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:52 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:52 PM : Adding task 109 - total items = 5
+4/29/2023 | 10:13:52 PM : CreateRootNode Scene Item - trash_01
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Scene ID
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Model Name
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Model Random
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Type of Object
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Spawn Position
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Position Frozen
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Weapon Name
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Scenarios
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:52 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:52 PM : Node created: Is Interactable
+4/29/2023 | 10:13:52 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:52 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:53 PM : Node created: Important
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:53 PM : Node created: Compliant
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:53 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:53 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:53 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:53 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:53 PM : Node created: Message when Collected
+4/29/2023 | 10:13:53 PM : CreateRootNode Report
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:53 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:53 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:53 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:53 PM : Node created: Traces
+4/29/2023 | 10:13:53 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:53 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:53 PM : Adding task 110 - total items = 6
+4/29/2023 | 10:13:53 PM : CreateRootNode Scene Item - trash_02
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:53 PM : Node created: Scene ID
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:53 PM : Node created: Model Name
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:53 PM : Node created: Model Random
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:53 PM : Node created: Type of Object
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:53 PM : Node created: Spawn Position
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:53 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:53 PM : Node created: Position Frozen
+4/29/2023 | 10:13:53 PM : CreateRootNode 
+4/29/2023 | 10:13:53 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:53 PM : Node created: Weapon Name
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:54 PM : Node created: Scenarios
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:54 PM : Node created: Is Interactable
+4/29/2023 | 10:13:54 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:54 PM : Node created: Important
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:54 PM : Node created: Compliant
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:54 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:54 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:54 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:54 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:54 PM : Node created: Message when Collected
+4/29/2023 | 10:13:54 PM : CreateRootNode Report
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:54 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:54 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:54 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:54 PM : Node created: Traces
+4/29/2023 | 10:13:54 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:54 PM : CreateRootNode 
+4/29/2023 | 10:13:54 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:54 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:55 PM : Adding task 111 - total items = 7
+4/29/2023 | 10:13:55 PM : CreateRootNode Scene Item - trash_03
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Scene ID
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Model Name
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Model Random
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Type of Object
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Spawn Position
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Position Frozen
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Weapon Name
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Scenarios
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:55 PM : Node created: Is Interactable
+4/29/2023 | 10:13:55 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:55 PM : Node created: Important
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:55 PM : Node created: Compliant
+4/29/2023 | 10:13:55 PM : CreateRootNode 
+4/29/2023 | 10:13:55 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:56 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:56 PM : CreateRootNode 
+4/29/2023 | 10:13:56 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:56 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:56 PM : CreateRootNode 
+4/29/2023 | 10:13:56 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:56 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:56 PM : CreateRootNode 
+4/29/2023 | 10:13:56 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:56 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:56 PM : CreateRootNode 
+4/29/2023 | 10:13:56 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:56 PM : Node created: Message when Collected
+4/29/2023 | 10:13:56 PM : CreateRootNode Report
+4/29/2023 | 10:13:56 PM : CreateRootNode 
+4/29/2023 | 10:13:56 PM : CreateRootNode 
+4/29/2023 | 10:13:56 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:56 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:56 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:56 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:56 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:57 PM : Node created: Traces
+4/29/2023 | 10:13:57 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:57 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:57 PM : Adding task 112 - total items = 8
+4/29/2023 | 10:13:57 PM : CreateRootNode Scene Item - policeguard_1
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:57 PM : Node created: Scene ID
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:57 PM : Node created: Model Name
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:57 PM : Node created: Model Random
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:57 PM : Node created: Type of Object
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:57 PM : Node created: Spawn Position
+4/29/2023 | 10:13:57 PM : CreateRootNode 
+4/29/2023 | 10:13:57 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:58 PM : Node created: Vehicle Lights
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:58 PM : Node created: Position Frozen
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:58 PM : Node created: Weapon Name
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:58 PM : Node created: Scenarios
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:58 PM : Node created: Is Interactable
+4/29/2023 | 10:13:58 PM : CreateRootNode Interaction
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:58 PM : Node created: Important
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:58 PM : Node created: Compliant
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:58 PM : Node created: Can Be Inspected
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:58 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:58 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:58 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:58 PM : Node created: Text while Inspecting
+4/29/2023 | 10:13:58 PM : CreateRootNode 
+4/29/2023 | 10:13:59 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:13:59 PM : Node created: Message when Collected
+4/29/2023 | 10:13:59 PM : CreateRootNode Report
+4/29/2023 | 10:13:59 PM : CreateRootNode 
+4/29/2023 | 10:13:59 PM : CreateRootNode 
+4/29/2023 | 10:13:59 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:59 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:59 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:13:59 PM : CreateRootNode Evidence
+4/29/2023 | 10:13:59 PM : CreateRootNode 
+4/29/2023 | 10:13:59 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:13:59 PM : Node created: Traces
+4/29/2023 | 10:13:59 PM : CreateRootNode Dialogue
+4/29/2023 | 10:13:59 PM : CreateRootNode 
+4/29/2023 | 10:13:59 PM : CreateRootNode Interrogation
+4/29/2023 | 10:13:59 PM : CreateRootNode 
+4/29/2023 | 10:13:59 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:13:59 PM : Node created: Interrogation ID
+4/29/2023 | 10:13:59 PM : CreateRootNode 
+4/29/2023 | 10:13:59 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:13:59 PM : Adding task 113 - total items = 9
+4/29/2023 | 10:13:59 PM : CreateRootNode Scene Item - police_veh_01
+4/29/2023 | 10:13:59 PM : CreateRootNode 
+4/29/2023 | 10:13:59 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:13:59 PM : Node created: Scene ID
+4/29/2023 | 10:13:59 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:00 PM : Node created: Model Name
+4/29/2023 | 10:14:00 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:00 PM : Node created: Model Random
+4/29/2023 | 10:14:00 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:00 PM : Node created: Type of Object
+4/29/2023 | 10:14:00 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:00 PM : Node created: Spawn Position
+4/29/2023 | 10:14:00 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:00 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:00 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:00 PM : Node created: Position Frozen
+4/29/2023 | 10:14:00 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:00 PM : Node created: Weapon Name
+4/29/2023 | 10:14:00 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:00 PM : Node created: Scenarios
+4/29/2023 | 10:14:00 PM : CreateRootNode 
+4/29/2023 | 10:14:00 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:01 PM : Node created: Is Interactable
+4/29/2023 | 10:14:01 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:01 PM : Node created: Important
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:01 PM : Node created: Compliant
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:01 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:01 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:01 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:01 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:01 PM : Node created: Message when Collected
+4/29/2023 | 10:14:01 PM : CreateRootNode Report
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : CreateRootNode 
+4/29/2023 | 10:14:01 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:02 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:02 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:02 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:02 PM : CreateRootNode 
+4/29/2023 | 10:14:02 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:02 PM : Node created: Traces
+4/29/2023 | 10:14:02 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:02 PM : CreateRootNode 
+4/29/2023 | 10:14:02 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:02 PM : CreateRootNode 
+4/29/2023 | 10:14:02 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:02 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:02 PM : CreateRootNode 
+4/29/2023 | 10:14:02 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:02 PM : Adding task 114 - total items = 10
+4/29/2023 | 10:14:02 PM : CreateRootNode Scene Item - policeveh2
+4/29/2023 | 10:14:02 PM : CreateRootNode 
+4/29/2023 | 10:14:02 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:02 PM : Node created: Scene ID
+4/29/2023 | 10:14:03 PM : CreateRootNode 
+4/29/2023 | 10:14:03 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:03 PM : Node created: Model Name
+4/29/2023 | 10:14:03 PM : CreateRootNode 
+4/29/2023 | 10:14:03 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:03 PM : Node created: Model Random
+4/29/2023 | 10:14:03 PM : CreateRootNode 
+4/29/2023 | 10:14:03 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:03 PM : Node created: Type of Object
+4/29/2023 | 10:14:03 PM : CreateRootNode 
+4/29/2023 | 10:14:03 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:03 PM : Node created: Spawn Position
+4/29/2023 | 10:14:03 PM : CreateRootNode 
+4/29/2023 | 10:14:03 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:03 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:04 PM : CreateRootNode 
+4/29/2023 | 10:14:04 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:04 PM : Node created: Position Frozen
+4/29/2023 | 10:14:04 PM : CreateRootNode 
+4/29/2023 | 10:14:04 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:04 PM : Node created: Weapon Name
+4/29/2023 | 10:14:04 PM : CreateRootNode 
+4/29/2023 | 10:14:04 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:04 PM : Node created: Scenarios
+4/29/2023 | 10:14:04 PM : CreateRootNode 
+4/29/2023 | 10:14:04 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:04 PM : Node created: Is Interactable
+4/29/2023 | 10:14:04 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:04 PM : CreateRootNode 
+4/29/2023 | 10:14:04 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:04 PM : Node created: Important
+4/29/2023 | 10:14:04 PM : CreateRootNode 
+4/29/2023 | 10:14:05 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:05 PM : Node created: Compliant
+4/29/2023 | 10:14:05 PM : CreateRootNode 
+4/29/2023 | 10:14:05 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:05 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:05 PM : CreateRootNode 
+4/29/2023 | 10:14:05 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:05 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:05 PM : CreateRootNode 
+4/29/2023 | 10:14:05 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:05 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:05 PM : CreateRootNode 
+4/29/2023 | 10:14:05 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:05 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:05 PM : CreateRootNode 
+4/29/2023 | 10:14:05 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:05 PM : Node created: Message when Collected
+4/29/2023 | 10:14:05 PM : CreateRootNode Report
+4/29/2023 | 10:14:05 PM : CreateRootNode 
+4/29/2023 | 10:14:05 PM : CreateRootNode 
+4/29/2023 | 10:14:05 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:06 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:06 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:06 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:06 PM : CreateRootNode 
+4/29/2023 | 10:14:06 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:06 PM : Node created: Traces
+4/29/2023 | 10:14:06 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:06 PM : CreateRootNode 
+4/29/2023 | 10:14:06 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:06 PM : CreateRootNode 
+4/29/2023 | 10:14:06 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:06 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:06 PM : CreateRootNode 
+4/29/2023 | 10:14:06 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:06 PM : Adding task 115 - total items = 11
+4/29/2023 | 10:14:06 PM : CreateRootNode Scene Item - barricade1
+4/29/2023 | 10:14:06 PM : CreateRootNode 
+4/29/2023 | 10:14:06 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:06 PM : Node created: Scene ID
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Model Name
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Model Random
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Type of Object
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Spawn Position
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Position Frozen
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Weapon Name
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Scenarios
+4/29/2023 | 10:14:07 PM : CreateRootNode 
+4/29/2023 | 10:14:07 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:07 PM : Node created: Is Interactable
+4/29/2023 | 10:14:07 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:08 PM : CreateRootNode 
+4/29/2023 | 10:14:08 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:08 PM : Node created: Important
+4/29/2023 | 10:14:08 PM : CreateRootNode 
+4/29/2023 | 10:14:08 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:08 PM : Node created: Compliant
+4/29/2023 | 10:14:08 PM : CreateRootNode 
+4/29/2023 | 10:14:08 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:08 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:08 PM : CreateRootNode 
+4/29/2023 | 10:14:08 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:08 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:08 PM : CreateRootNode 
+4/29/2023 | 10:14:08 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:08 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:08 PM : CreateRootNode 
+4/29/2023 | 10:14:08 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:08 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:08 PM : CreateRootNode 
+4/29/2023 | 10:14:09 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:09 PM : Node created: Message when Collected
+4/29/2023 | 10:14:09 PM : CreateRootNode Report
+4/29/2023 | 10:14:09 PM : CreateRootNode 
+4/29/2023 | 10:14:09 PM : CreateRootNode 
+4/29/2023 | 10:14:09 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:09 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:09 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:09 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:09 PM : CreateRootNode 
+4/29/2023 | 10:14:09 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:09 PM : Node created: Traces
+4/29/2023 | 10:14:09 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:09 PM : CreateRootNode 
+4/29/2023 | 10:14:10 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:10 PM : CreateRootNode 
+4/29/2023 | 10:14:10 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:10 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:10 PM : CreateRootNode 
+4/29/2023 | 10:14:10 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:10 PM : Adding task 116 - total items = 12
+4/29/2023 | 10:14:10 PM : CreateRootNode Scene Item - barricade2
+4/29/2023 | 10:14:10 PM : CreateRootNode 
+4/29/2023 | 10:14:10 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:10 PM : Node created: Scene ID
+4/29/2023 | 10:14:10 PM : CreateRootNode 
+4/29/2023 | 10:14:10 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:10 PM : Node created: Model Name
+4/29/2023 | 10:14:10 PM : CreateRootNode 
+4/29/2023 | 10:14:10 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:11 PM : Node created: Model Random
+4/29/2023 | 10:14:11 PM : CreateRootNode 
+4/29/2023 | 10:14:11 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:11 PM : Node created: Type of Object
+4/29/2023 | 10:14:11 PM : CreateRootNode 
+4/29/2023 | 10:14:11 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:11 PM : Node created: Spawn Position
+4/29/2023 | 10:14:11 PM : CreateRootNode 
+4/29/2023 | 10:14:11 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:11 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:11 PM : CreateRootNode 
+4/29/2023 | 10:14:11 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:11 PM : Node created: Position Frozen
+4/29/2023 | 10:14:11 PM : CreateRootNode 
+4/29/2023 | 10:14:11 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:11 PM : Node created: Weapon Name
+4/29/2023 | 10:14:11 PM : CreateRootNode 
+4/29/2023 | 10:14:12 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:12 PM : Node created: Scenarios
+4/29/2023 | 10:14:12 PM : CreateRootNode 
+4/29/2023 | 10:14:12 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:12 PM : Node created: Is Interactable
+4/29/2023 | 10:14:12 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:12 PM : CreateRootNode 
+4/29/2023 | 10:14:12 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:12 PM : Node created: Important
+4/29/2023 | 10:14:12 PM : CreateRootNode 
+4/29/2023 | 10:14:12 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:12 PM : Node created: Compliant
+4/29/2023 | 10:14:12 PM : CreateRootNode 
+4/29/2023 | 10:14:12 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:12 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:12 PM : CreateRootNode 
+4/29/2023 | 10:14:13 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:13 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:13 PM : CreateRootNode 
+4/29/2023 | 10:14:13 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:13 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:13 PM : CreateRootNode 
+4/29/2023 | 10:14:13 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:13 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:13 PM : CreateRootNode 
+4/29/2023 | 10:14:13 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:13 PM : Node created: Message when Collected
+4/29/2023 | 10:14:13 PM : CreateRootNode Report
+4/29/2023 | 10:14:13 PM : CreateRootNode 
+4/29/2023 | 10:14:13 PM : CreateRootNode 
+4/29/2023 | 10:14:13 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:14 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:14 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:14 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:14 PM : CreateRootNode 
+4/29/2023 | 10:14:14 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:14 PM : Node created: Traces
+4/29/2023 | 10:14:14 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:14 PM : CreateRootNode 
+4/29/2023 | 10:14:14 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:14 PM : CreateRootNode 
+4/29/2023 | 10:14:14 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:14 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:14 PM : CreateRootNode 
+4/29/2023 | 10:14:14 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:14 PM : Adding task 117 - total items = 13
+4/29/2023 | 10:14:14 PM : CreateRootNode Scene Item - police_crowd_1
+4/29/2023 | 10:14:14 PM : CreateRootNode 
+4/29/2023 | 10:14:14 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:14 PM : Node created: Scene ID
+4/29/2023 | 10:14:15 PM : CreateRootNode 
+4/29/2023 | 10:14:15 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:15 PM : Node created: Model Name
+4/29/2023 | 10:14:15 PM : CreateRootNode 
+4/29/2023 | 10:14:15 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:15 PM : Node created: Model Random
+4/29/2023 | 10:14:15 PM : CreateRootNode 
+4/29/2023 | 10:14:15 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:15 PM : Node created: Type of Object
+4/29/2023 | 10:14:15 PM : CreateRootNode 
+4/29/2023 | 10:14:15 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:15 PM : Node created: Spawn Position
+4/29/2023 | 10:14:15 PM : CreateRootNode 
+4/29/2023 | 10:14:15 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:15 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:16 PM : CreateRootNode 
+4/29/2023 | 10:14:16 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:16 PM : Node created: Position Frozen
+4/29/2023 | 10:14:16 PM : CreateRootNode 
+4/29/2023 | 10:14:16 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:16 PM : Node created: Weapon Name
+4/29/2023 | 10:14:16 PM : CreateRootNode 
+4/29/2023 | 10:14:16 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:16 PM : Node created: Scenarios
+4/29/2023 | 10:14:16 PM : CreateRootNode 
+4/29/2023 | 10:14:16 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:16 PM : Node created: Is Interactable
+4/29/2023 | 10:14:16 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:16 PM : CreateRootNode 
+4/29/2023 | 10:14:16 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:16 PM : Node created: Important
+4/29/2023 | 10:14:17 PM : CreateRootNode 
+4/29/2023 | 10:14:17 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:17 PM : Node created: Compliant
+4/29/2023 | 10:14:17 PM : CreateRootNode 
+4/29/2023 | 10:14:17 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:17 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:17 PM : CreateRootNode 
+4/29/2023 | 10:14:17 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:17 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:17 PM : CreateRootNode 
+4/29/2023 | 10:14:17 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:17 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:17 PM : CreateRootNode 
+4/29/2023 | 10:14:17 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:17 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:17 PM : CreateRootNode 
+4/29/2023 | 10:14:18 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:18 PM : Node created: Message when Collected
+4/29/2023 | 10:14:18 PM : CreateRootNode Report
+4/29/2023 | 10:14:18 PM : CreateRootNode 
+4/29/2023 | 10:14:18 PM : CreateRootNode 
+4/29/2023 | 10:14:18 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:18 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:18 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:18 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:18 PM : CreateRootNode 
+4/29/2023 | 10:14:18 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:18 PM : Node created: Traces
+4/29/2023 | 10:14:18 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:18 PM : CreateRootNode 
+4/29/2023 | 10:14:18 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:19 PM : CreateRootNode 
+4/29/2023 | 10:14:19 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:19 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:19 PM : CreateRootNode 
+4/29/2023 | 10:14:19 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:19 PM : Adding task 118 - total items = 14
+4/29/2023 | 10:14:19 PM : CreateRootNode Scene Item - guard2
+4/29/2023 | 10:14:19 PM : CreateRootNode 
+4/29/2023 | 10:14:19 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:19 PM : Node created: Scene ID
+4/29/2023 | 10:14:19 PM : CreateRootNode 
+4/29/2023 | 10:14:19 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:19 PM : Node created: Model Name
+4/29/2023 | 10:14:19 PM : CreateRootNode 
+4/29/2023 | 10:14:20 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:20 PM : Node created: Model Random
+4/29/2023 | 10:14:20 PM : CreateRootNode 
+4/29/2023 | 10:14:20 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:20 PM : Node created: Type of Object
+4/29/2023 | 10:14:20 PM : CreateRootNode 
+4/29/2023 | 10:14:20 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:20 PM : Node created: Spawn Position
+4/29/2023 | 10:14:20 PM : CreateRootNode 
+4/29/2023 | 10:14:20 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:20 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:20 PM : CreateRootNode 
+4/29/2023 | 10:14:20 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:20 PM : Node created: Position Frozen
+4/29/2023 | 10:14:20 PM : CreateRootNode 
+4/29/2023 | 10:14:20 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:21 PM : Node created: Weapon Name
+4/29/2023 | 10:14:21 PM : CreateRootNode 
+4/29/2023 | 10:14:21 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:21 PM : Node created: Scenarios
+4/29/2023 | 10:14:21 PM : CreateRootNode 
+4/29/2023 | 10:14:21 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:21 PM : Node created: Is Interactable
+4/29/2023 | 10:14:21 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:21 PM : CreateRootNode 
+4/29/2023 | 10:14:21 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:21 PM : Node created: Important
+4/29/2023 | 10:14:21 PM : CreateRootNode 
+4/29/2023 | 10:14:21 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:22 PM : Node created: Compliant
+4/29/2023 | 10:14:22 PM : CreateRootNode 
+4/29/2023 | 10:14:22 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:22 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:22 PM : CreateRootNode 
+4/29/2023 | 10:14:22 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:22 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:22 PM : CreateRootNode 
+4/29/2023 | 10:14:22 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:22 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:22 PM : CreateRootNode 
+4/29/2023 | 10:14:23 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:23 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:23 PM : CreateRootNode 
+4/29/2023 | 10:14:23 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:23 PM : Node created: Message when Collected
+4/29/2023 | 10:14:23 PM : CreateRootNode Report
+4/29/2023 | 10:14:23 PM : CreateRootNode 
+4/29/2023 | 10:14:23 PM : CreateRootNode 
+4/29/2023 | 10:14:23 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:24 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:24 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:24 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:24 PM : CreateRootNode 
+4/29/2023 | 10:14:24 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:24 PM : Node created: Traces
+4/29/2023 | 10:14:24 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:24 PM : CreateRootNode 
+4/29/2023 | 10:14:24 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:24 PM : CreateRootNode 
+4/29/2023 | 10:14:24 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:25 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:25 PM : CreateRootNode 
+4/29/2023 | 10:14:25 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:25 PM : Adding task 119 - total items = 15
+4/29/2023 | 10:14:25 PM : CreateRootNode Scene Item - guard3
+4/29/2023 | 10:14:25 PM : CreateRootNode 
+4/29/2023 | 10:14:25 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:25 PM : Node created: Scene ID
+4/29/2023 | 10:14:25 PM : CreateRootNode 
+4/29/2023 | 10:14:25 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:25 PM : Node created: Model Name
+4/29/2023 | 10:14:26 PM : CreateRootNode 
+4/29/2023 | 10:14:26 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:26 PM : Node created: Model Random
+4/29/2023 | 10:14:26 PM : CreateRootNode 
+4/29/2023 | 10:14:26 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:26 PM : Node created: Type of Object
+4/29/2023 | 10:14:26 PM : CreateRootNode 
+4/29/2023 | 10:14:26 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:26 PM : Node created: Spawn Position
+4/29/2023 | 10:14:26 PM : CreateRootNode 
+4/29/2023 | 10:14:26 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:26 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:27 PM : CreateRootNode 
+4/29/2023 | 10:14:27 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:27 PM : Node created: Position Frozen
+4/29/2023 | 10:14:27 PM : CreateRootNode 
+4/29/2023 | 10:14:27 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:27 PM : Node created: Weapon Name
+4/29/2023 | 10:14:27 PM : CreateRootNode 
+4/29/2023 | 10:14:27 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:27 PM : Node created: Scenarios
+4/29/2023 | 10:14:27 PM : CreateRootNode 
+4/29/2023 | 10:14:27 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:27 PM : Node created: Is Interactable
+4/29/2023 | 10:14:27 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:27 PM : CreateRootNode 
+4/29/2023 | 10:14:28 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:28 PM : Node created: Important
+4/29/2023 | 10:14:28 PM : CreateRootNode 
+4/29/2023 | 10:14:28 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:28 PM : Node created: Compliant
+4/29/2023 | 10:14:28 PM : CreateRootNode 
+4/29/2023 | 10:14:28 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:28 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:28 PM : CreateRootNode 
+4/29/2023 | 10:14:28 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:28 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:28 PM : CreateRootNode 
+4/29/2023 | 10:14:28 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:29 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:29 PM : CreateRootNode 
+4/29/2023 | 10:14:29 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:29 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:29 PM : CreateRootNode 
+4/29/2023 | 10:14:29 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:29 PM : Node created: Message when Collected
+4/29/2023 | 10:14:29 PM : CreateRootNode Report
+4/29/2023 | 10:14:29 PM : CreateRootNode 
+4/29/2023 | 10:14:29 PM : CreateRootNode 
+4/29/2023 | 10:14:29 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:30 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:30 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:30 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:30 PM : CreateRootNode 
+4/29/2023 | 10:14:30 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:30 PM : Node created: Traces
+4/29/2023 | 10:14:30 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:30 PM : CreateRootNode 
+4/29/2023 | 10:14:30 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:30 PM : CreateRootNode 
+4/29/2023 | 10:14:30 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:30 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:31 PM : CreateRootNode 
+4/29/2023 | 10:14:31 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:31 PM : Adding task 120 - total items = 16
+4/29/2023 | 10:14:31 PM : CreateRootNode Scene Item - cop_clipboard
+4/29/2023 | 10:14:31 PM : CreateRootNode 
+4/29/2023 | 10:14:31 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:31 PM : Node created: Scene ID
+4/29/2023 | 10:14:31 PM : CreateRootNode 
+4/29/2023 | 10:14:31 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:31 PM : Node created: Model Name
+4/29/2023 | 10:14:31 PM : CreateRootNode 
+4/29/2023 | 10:14:31 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:31 PM : Node created: Model Random
+4/29/2023 | 10:14:32 PM : CreateRootNode 
+4/29/2023 | 10:14:32 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:32 PM : Node created: Type of Object
+4/29/2023 | 10:14:32 PM : CreateRootNode 
+4/29/2023 | 10:14:32 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:32 PM : Node created: Spawn Position
+4/29/2023 | 10:14:32 PM : CreateRootNode 
+4/29/2023 | 10:14:32 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:32 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:32 PM : CreateRootNode 
+4/29/2023 | 10:14:32 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:33 PM : Node created: Position Frozen
+4/29/2023 | 10:14:33 PM : CreateRootNode 
+4/29/2023 | 10:14:33 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:33 PM : Node created: Weapon Name
+4/29/2023 | 10:14:33 PM : CreateRootNode 
+4/29/2023 | 10:14:33 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:33 PM : Node created: Scenarios
+4/29/2023 | 10:14:33 PM : CreateRootNode 
+4/29/2023 | 10:14:33 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:33 PM : Node created: Is Interactable
+4/29/2023 | 10:14:33 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:34 PM : CreateRootNode 
+4/29/2023 | 10:14:34 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:34 PM : Node created: Important
+4/29/2023 | 10:14:34 PM : CreateRootNode 
+4/29/2023 | 10:14:34 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:34 PM : Node created: Compliant
+4/29/2023 | 10:14:34 PM : CreateRootNode 
+4/29/2023 | 10:14:34 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:34 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:34 PM : CreateRootNode 
+4/29/2023 | 10:14:34 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:35 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:35 PM : CreateRootNode 
+4/29/2023 | 10:14:35 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:35 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:35 PM : CreateRootNode 
+4/29/2023 | 10:14:35 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:35 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:35 PM : CreateRootNode 
+4/29/2023 | 10:14:35 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:35 PM : Node created: Message when Collected
+4/29/2023 | 10:14:35 PM : CreateRootNode Report
+4/29/2023 | 10:14:36 PM : CreateRootNode 
+4/29/2023 | 10:14:36 PM : CreateRootNode 
+4/29/2023 | 10:14:36 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:36 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:36 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:36 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:36 PM : CreateRootNode 
+4/29/2023 | 10:14:36 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:36 PM : Node created: Traces
+4/29/2023 | 10:14:37 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:37 PM : CreateRootNode 
+4/29/2023 | 10:14:37 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:37 PM : CreateRootNode 
+4/29/2023 | 10:14:37 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:37 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:37 PM : CreateRootNode 
+4/29/2023 | 10:14:37 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:37 PM : Adding task 121 - total items = 17
+4/29/2023 | 10:14:38 PM : CreateRootNode Scene Item - cop_investigate
+4/29/2023 | 10:14:38 PM : CreateRootNode 
+4/29/2023 | 10:14:38 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:38 PM : Node created: Scene ID
+4/29/2023 | 10:14:38 PM : CreateRootNode 
+4/29/2023 | 10:14:38 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:38 PM : Node created: Model Name
+4/29/2023 | 10:14:38 PM : CreateRootNode 
+4/29/2023 | 10:14:38 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:38 PM : Node created: Model Random
+4/29/2023 | 10:14:39 PM : CreateRootNode 
+4/29/2023 | 10:14:39 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:39 PM : Node created: Type of Object
+4/29/2023 | 10:14:39 PM : CreateRootNode 
+4/29/2023 | 10:14:39 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:39 PM : Node created: Spawn Position
+4/29/2023 | 10:14:39 PM : CreateRootNode 
+4/29/2023 | 10:14:39 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:39 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:39 PM : CreateRootNode 
+4/29/2023 | 10:14:40 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:40 PM : Node created: Position Frozen
+4/29/2023 | 10:14:40 PM : CreateRootNode 
+4/29/2023 | 10:14:40 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:40 PM : Node created: Weapon Name
+4/29/2023 | 10:14:40 PM : CreateRootNode 
+4/29/2023 | 10:14:40 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:40 PM : Node created: Scenarios
+4/29/2023 | 10:14:40 PM : CreateRootNode 
+4/29/2023 | 10:14:40 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:41 PM : Node created: Is Interactable
+4/29/2023 | 10:14:41 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:41 PM : CreateRootNode 
+4/29/2023 | 10:14:41 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:41 PM : Node created: Important
+4/29/2023 | 10:14:41 PM : CreateRootNode 
+4/29/2023 | 10:14:41 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:41 PM : Node created: Compliant
+4/29/2023 | 10:14:41 PM : CreateRootNode 
+4/29/2023 | 10:14:42 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:42 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:42 PM : CreateRootNode 
+4/29/2023 | 10:14:42 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:42 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:42 PM : CreateRootNode 
+4/29/2023 | 10:14:42 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:42 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:42 PM : CreateRootNode 
+4/29/2023 | 10:14:43 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:43 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:43 PM : CreateRootNode 
+4/29/2023 | 10:14:43 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:43 PM : Node created: Message when Collected
+4/29/2023 | 10:14:43 PM : CreateRootNode Report
+4/29/2023 | 10:14:43 PM : CreateRootNode 
+4/29/2023 | 10:14:43 PM : CreateRootNode 
+4/29/2023 | 10:14:43 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:44 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:44 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:44 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:44 PM : CreateRootNode 
+4/29/2023 | 10:14:44 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:44 PM : Node created: Traces
+4/29/2023 | 10:14:44 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:44 PM : CreateRootNode 
+4/29/2023 | 10:14:45 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:45 PM : CreateRootNode 
+4/29/2023 | 10:14:45 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:45 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:45 PM : CreateRootNode 
+4/29/2023 | 10:14:45 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:45 PM : Adding task 122 - total items = 18
+4/29/2023 | 10:14:45 PM : CreateRootNode Scene Item - bystander1
+4/29/2023 | 10:14:45 PM : CreateRootNode 
+4/29/2023 | 10:14:46 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:46 PM : Node created: Scene ID
+4/29/2023 | 10:14:46 PM : CreateRootNode 
+4/29/2023 | 10:14:46 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:46 PM : Node created: Model Name
+4/29/2023 | 10:14:46 PM : CreateRootNode 
+4/29/2023 | 10:14:46 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:46 PM : Node created: Model Random
+4/29/2023 | 10:14:46 PM : CreateRootNode 
+4/29/2023 | 10:14:47 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:47 PM : Node created: Type of Object
+4/29/2023 | 10:14:47 PM : CreateRootNode 
+4/29/2023 | 10:14:47 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:47 PM : Node created: Spawn Position
+4/29/2023 | 10:14:47 PM : CreateRootNode 
+4/29/2023 | 10:14:47 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:47 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:47 PM : CreateRootNode 
+4/29/2023 | 10:14:48 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:48 PM : Node created: Position Frozen
+4/29/2023 | 10:14:48 PM : CreateRootNode 
+4/29/2023 | 10:14:48 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:48 PM : Node created: Weapon Name
+4/29/2023 | 10:14:48 PM : CreateRootNode 
+4/29/2023 | 10:14:48 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:48 PM : Node created: Scenarios
+4/29/2023 | 10:14:49 PM : CreateRootNode 
+4/29/2023 | 10:14:49 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:49 PM : Node created: Is Interactable
+4/29/2023 | 10:14:49 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:49 PM : CreateRootNode 
+4/29/2023 | 10:14:49 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:49 PM : Node created: Important
+4/29/2023 | 10:14:49 PM : CreateRootNode 
+4/29/2023 | 10:14:49 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:50 PM : Node created: Compliant
+4/29/2023 | 10:14:50 PM : CreateRootNode 
+4/29/2023 | 10:14:50 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:50 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:50 PM : CreateRootNode 
+4/29/2023 | 10:14:50 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:50 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:14:50 PM : CreateRootNode 
+4/29/2023 | 10:14:51 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:51 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:14:51 PM : CreateRootNode 
+4/29/2023 | 10:14:51 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:51 PM : Node created: Text while Inspecting
+4/29/2023 | 10:14:51 PM : CreateRootNode 
+4/29/2023 | 10:14:51 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:51 PM : Node created: Message when Collected
+4/29/2023 | 10:14:52 PM : CreateRootNode Report
+4/29/2023 | 10:14:52 PM : CreateRootNode 
+4/29/2023 | 10:14:52 PM : CreateRootNode 
+4/29/2023 | 10:14:52 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:52 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:52 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:14:52 PM : CreateRootNode Evidence
+4/29/2023 | 10:14:52 PM : CreateRootNode 
+4/29/2023 | 10:14:53 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:14:53 PM : Node created: Traces
+4/29/2023 | 10:14:53 PM : CreateRootNode Dialogue
+4/29/2023 | 10:14:53 PM : CreateRootNode 
+4/29/2023 | 10:14:53 PM : CreateRootNode Interrogation
+4/29/2023 | 10:14:53 PM : CreateRootNode 
+4/29/2023 | 10:14:53 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:14:54 PM : Node created: Interrogation ID
+4/29/2023 | 10:14:54 PM : CreateRootNode 
+4/29/2023 | 10:14:54 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:14:54 PM : Adding task 123 - total items = 19
+4/29/2023 | 10:14:54 PM : CreateRootNode Scene Item - bystander2
+4/29/2023 | 10:14:54 PM : CreateRootNode 
+4/29/2023 | 10:14:54 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:54 PM : Node created: Scene ID
+4/29/2023 | 10:14:55 PM : CreateRootNode 
+4/29/2023 | 10:14:55 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:55 PM : Node created: Model Name
+4/29/2023 | 10:14:55 PM : CreateRootNode 
+4/29/2023 | 10:14:55 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:55 PM : Node created: Model Random
+4/29/2023 | 10:14:55 PM : CreateRootNode 
+4/29/2023 | 10:14:55 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:56 PM : Node created: Type of Object
+4/29/2023 | 10:14:56 PM : CreateRootNode 
+4/29/2023 | 10:14:56 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:56 PM : Node created: Spawn Position
+4/29/2023 | 10:14:56 PM : CreateRootNode 
+4/29/2023 | 10:14:56 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:56 PM : Node created: Vehicle Lights
+4/29/2023 | 10:14:57 PM : CreateRootNode 
+4/29/2023 | 10:14:57 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:57 PM : Node created: Position Frozen
+4/29/2023 | 10:14:57 PM : CreateRootNode 
+4/29/2023 | 10:14:57 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:57 PM : Node created: Weapon Name
+4/29/2023 | 10:14:57 PM : CreateRootNode 
+4/29/2023 | 10:14:57 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:58 PM : Node created: Scenarios
+4/29/2023 | 10:14:58 PM : CreateRootNode 
+4/29/2023 | 10:14:58 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:14:58 PM : Node created: Is Interactable
+4/29/2023 | 10:14:58 PM : CreateRootNode Interaction
+4/29/2023 | 10:14:58 PM : CreateRootNode 
+4/29/2023 | 10:14:58 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:59 PM : Node created: Important
+4/29/2023 | 10:14:59 PM : CreateRootNode 
+4/29/2023 | 10:14:59 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:59 PM : Node created: Compliant
+4/29/2023 | 10:14:59 PM : CreateRootNode 
+4/29/2023 | 10:14:59 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:14:59 PM : Node created: Can Be Inspected
+4/29/2023 | 10:14:59 PM : CreateRootNode 
+4/29/2023 | 10:15:00 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:00 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:15:00 PM : CreateRootNode 
+4/29/2023 | 10:15:00 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:00 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:15:00 PM : CreateRootNode 
+4/29/2023 | 10:15:00 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:01 PM : Node created: Text while Inspecting
+4/29/2023 | 10:15:01 PM : CreateRootNode 
+4/29/2023 | 10:15:01 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:01 PM : Node created: Message when Collected
+4/29/2023 | 10:15:01 PM : CreateRootNode Report
+4/29/2023 | 10:15:01 PM : CreateRootNode 
+4/29/2023 | 10:15:01 PM : CreateRootNode 
+4/29/2023 | 10:15:02 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:02 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:02 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:02 PM : CreateRootNode Evidence
+4/29/2023 | 10:15:02 PM : CreateRootNode 
+4/29/2023 | 10:15:02 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:15:02 PM : Node created: Traces
+4/29/2023 | 10:15:03 PM : CreateRootNode Dialogue
+4/29/2023 | 10:15:03 PM : CreateRootNode 
+4/29/2023 | 10:15:03 PM : CreateRootNode Interrogation
+4/29/2023 | 10:15:03 PM : CreateRootNode 
+4/29/2023 | 10:15:03 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:15:03 PM : Node created: Interrogation ID
+4/29/2023 | 10:15:03 PM : CreateRootNode 
+4/29/2023 | 10:15:04 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:15:04 PM : Adding task 124 - total items = 20
+4/29/2023 | 10:15:04 PM : CreateRootNode Scene Item - bystander3
+4/29/2023 | 10:15:04 PM : CreateRootNode 
+4/29/2023 | 10:15:04 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:04 PM : Node created: Scene ID
+4/29/2023 | 10:15:04 PM : CreateRootNode 
+4/29/2023 | 10:15:05 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:05 PM : Node created: Model Name
+4/29/2023 | 10:15:05 PM : CreateRootNode 
+4/29/2023 | 10:15:05 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:05 PM : Node created: Model Random
+4/29/2023 | 10:15:05 PM : CreateRootNode 
+4/29/2023 | 10:15:05 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:06 PM : Node created: Type of Object
+4/29/2023 | 10:15:06 PM : CreateRootNode 
+4/29/2023 | 10:15:06 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:06 PM : Node created: Spawn Position
+4/29/2023 | 10:15:06 PM : CreateRootNode 
+4/29/2023 | 10:15:06 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:06 PM : Node created: Vehicle Lights
+4/29/2023 | 10:15:07 PM : CreateRootNode 
+4/29/2023 | 10:15:07 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:07 PM : Node created: Position Frozen
+4/29/2023 | 10:15:07 PM : CreateRootNode 
+4/29/2023 | 10:15:07 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:07 PM : Node created: Weapon Name
+4/29/2023 | 10:15:08 PM : CreateRootNode 
+4/29/2023 | 10:15:08 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:08 PM : Node created: Scenarios
+4/29/2023 | 10:15:08 PM : CreateRootNode 
+4/29/2023 | 10:15:08 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:08 PM : Node created: Is Interactable
+4/29/2023 | 10:15:08 PM : CreateRootNode Interaction
+4/29/2023 | 10:15:09 PM : CreateRootNode 
+4/29/2023 | 10:15:09 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:09 PM : Node created: Important
+4/29/2023 | 10:15:09 PM : CreateRootNode 
+4/29/2023 | 10:15:09 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:09 PM : Node created: Compliant
+4/29/2023 | 10:15:09 PM : CreateRootNode 
+4/29/2023 | 10:15:10 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:10 PM : Node created: Can Be Inspected
+4/29/2023 | 10:15:10 PM : CreateRootNode 
+4/29/2023 | 10:15:10 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:10 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:15:10 PM : CreateRootNode 
+4/29/2023 | 10:15:10 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:11 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:15:11 PM : CreateRootNode 
+4/29/2023 | 10:15:11 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:11 PM : Node created: Text while Inspecting
+4/29/2023 | 10:15:11 PM : CreateRootNode 
+4/29/2023 | 10:15:11 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:11 PM : Node created: Message when Collected
+4/29/2023 | 10:15:12 PM : CreateRootNode Report
+4/29/2023 | 10:15:12 PM : CreateRootNode 
+4/29/2023 | 10:15:12 PM : CreateRootNode 
+4/29/2023 | 10:15:12 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:12 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:12 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:13 PM : CreateRootNode Evidence
+4/29/2023 | 10:15:13 PM : CreateRootNode 
+4/29/2023 | 10:15:13 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:15:13 PM : Node created: Traces
+4/29/2023 | 10:15:13 PM : CreateRootNode Dialogue
+4/29/2023 | 10:15:13 PM : CreateRootNode 
+4/29/2023 | 10:15:14 PM : CreateRootNode Interrogation
+4/29/2023 | 10:15:14 PM : CreateRootNode 
+4/29/2023 | 10:15:14 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:15:14 PM : Node created: Interrogation ID
+4/29/2023 | 10:15:14 PM : CreateRootNode 
+4/29/2023 | 10:15:14 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:15:14 PM : Adding task 125 - total items = 21
+4/29/2023 | 10:15:15 PM : CreateRootNode Scene Item - pap1
+4/29/2023 | 10:15:15 PM : CreateRootNode 
+4/29/2023 | 10:15:15 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:15 PM : Node created: Scene ID
+4/29/2023 | 10:15:15 PM : CreateRootNode 
+4/29/2023 | 10:15:15 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:16 PM : Node created: Model Name
+4/29/2023 | 10:15:16 PM : CreateRootNode 
+4/29/2023 | 10:15:16 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:16 PM : Node created: Model Random
+4/29/2023 | 10:15:16 PM : CreateRootNode 
+4/29/2023 | 10:15:16 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:17 PM : Node created: Type of Object
+4/29/2023 | 10:15:17 PM : CreateRootNode 
+4/29/2023 | 10:15:17 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:17 PM : Node created: Spawn Position
+4/29/2023 | 10:15:17 PM : CreateRootNode 
+4/29/2023 | 10:15:17 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:17 PM : Node created: Vehicle Lights
+4/29/2023 | 10:15:18 PM : CreateRootNode 
+4/29/2023 | 10:15:18 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:18 PM : Node created: Position Frozen
+4/29/2023 | 10:15:18 PM : CreateRootNode 
+4/29/2023 | 10:15:18 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:18 PM : Node created: Weapon Name
+4/29/2023 | 10:15:19 PM : CreateRootNode 
+4/29/2023 | 10:15:19 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:19 PM : Node created: Scenarios
+4/29/2023 | 10:15:19 PM : CreateRootNode 
+4/29/2023 | 10:15:19 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:19 PM : Node created: Is Interactable
+4/29/2023 | 10:15:20 PM : CreateRootNode Interaction
+4/29/2023 | 10:15:20 PM : CreateRootNode 
+4/29/2023 | 10:15:20 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:20 PM : Node created: Important
+4/29/2023 | 10:15:20 PM : CreateRootNode 
+4/29/2023 | 10:15:20 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:21 PM : Node created: Compliant
+4/29/2023 | 10:15:21 PM : CreateRootNode 
+4/29/2023 | 10:15:21 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:21 PM : Node created: Can Be Inspected
+4/29/2023 | 10:15:21 PM : CreateRootNode 
+4/29/2023 | 10:15:21 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:21 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:15:22 PM : CreateRootNode 
+4/29/2023 | 10:15:22 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:22 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:15:22 PM : CreateRootNode 
+4/29/2023 | 10:15:22 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:22 PM : Node created: Text while Inspecting
+4/29/2023 | 10:15:23 PM : CreateRootNode 
+4/29/2023 | 10:15:23 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:23 PM : Node created: Message when Collected
+4/29/2023 | 10:15:23 PM : CreateRootNode Report
+4/29/2023 | 10:15:23 PM : CreateRootNode 
+4/29/2023 | 10:15:23 PM : CreateRootNode 
+4/29/2023 | 10:15:24 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:24 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:24 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:24 PM : CreateRootNode Evidence
+4/29/2023 | 10:15:24 PM : CreateRootNode 
+4/29/2023 | 10:15:25 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:15:25 PM : Node created: Traces
+4/29/2023 | 10:15:25 PM : CreateRootNode Dialogue
+4/29/2023 | 10:15:25 PM : CreateRootNode 
+4/29/2023 | 10:15:25 PM : CreateRootNode Interrogation
+4/29/2023 | 10:15:25 PM : CreateRootNode 
+4/29/2023 | 10:15:26 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:15:26 PM : Node created: Interrogation ID
+4/29/2023 | 10:15:26 PM : CreateRootNode 
+4/29/2023 | 10:15:26 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:15:26 PM : Adding task 126 - total items = 22
+4/29/2023 | 10:15:26 PM : CreateRootNode Scene Item - pap2
+4/29/2023 | 10:15:27 PM : CreateRootNode 
+4/29/2023 | 10:15:27 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:27 PM : Node created: Scene ID
+4/29/2023 | 10:15:27 PM : CreateRootNode 
+4/29/2023 | 10:15:27 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:27 PM : Node created: Model Name
+4/29/2023 | 10:15:28 PM : CreateRootNode 
+4/29/2023 | 10:15:28 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:28 PM : Node created: Model Random
+4/29/2023 | 10:15:28 PM : CreateRootNode 
+4/29/2023 | 10:15:28 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:29 PM : Node created: Type of Object
+4/29/2023 | 10:15:29 PM : CreateRootNode 
+4/29/2023 | 10:15:29 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:29 PM : Node created: Spawn Position
+4/29/2023 | 10:15:29 PM : CreateRootNode 
+4/29/2023 | 10:15:29 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:30 PM : Node created: Vehicle Lights
+4/29/2023 | 10:15:30 PM : CreateRootNode 
+4/29/2023 | 10:15:30 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:30 PM : Node created: Position Frozen
+4/29/2023 | 10:15:30 PM : CreateRootNode 
+4/29/2023 | 10:15:30 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:31 PM : Node created: Weapon Name
+4/29/2023 | 10:15:31 PM : CreateRootNode 
+4/29/2023 | 10:15:31 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:31 PM : Node created: Scenarios
+4/29/2023 | 10:15:31 PM : CreateRootNode 
+4/29/2023 | 10:15:31 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:32 PM : Node created: Is Interactable
+4/29/2023 | 10:15:32 PM : CreateRootNode Interaction
+4/29/2023 | 10:15:32 PM : CreateRootNode 
+4/29/2023 | 10:15:32 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:32 PM : Node created: Important
+4/29/2023 | 10:15:33 PM : CreateRootNode 
+4/29/2023 | 10:15:33 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:33 PM : Node created: Compliant
+4/29/2023 | 10:15:33 PM : CreateRootNode 
+4/29/2023 | 10:15:33 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:33 PM : Node created: Can Be Inspected
+4/29/2023 | 10:15:34 PM : CreateRootNode 
+4/29/2023 | 10:15:34 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:34 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:15:34 PM : CreateRootNode 
+4/29/2023 | 10:15:34 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:35 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:15:35 PM : CreateRootNode 
+4/29/2023 | 10:15:35 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:35 PM : Node created: Text while Inspecting
+4/29/2023 | 10:15:35 PM : CreateRootNode 
+4/29/2023 | 10:15:35 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:36 PM : Node created: Message when Collected
+4/29/2023 | 10:15:36 PM : CreateRootNode Report
+4/29/2023 | 10:15:36 PM : CreateRootNode 
+4/29/2023 | 10:15:36 PM : CreateRootNode 
+4/29/2023 | 10:15:36 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:37 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:37 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:37 PM : CreateRootNode Evidence
+4/29/2023 | 10:15:37 PM : CreateRootNode 
+4/29/2023 | 10:15:37 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:15:38 PM : Node created: Traces
+4/29/2023 | 10:15:38 PM : CreateRootNode Dialogue
+4/29/2023 | 10:15:38 PM : CreateRootNode 
+4/29/2023 | 10:15:38 PM : CreateRootNode Interrogation
+4/29/2023 | 10:15:38 PM : CreateRootNode 
+4/29/2023 | 10:15:39 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:15:39 PM : Node created: Interrogation ID
+4/29/2023 | 10:15:39 PM : CreateRootNode 
+4/29/2023 | 10:15:39 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:15:39 PM : Adding task 127 - total items = 23
+4/29/2023 | 10:15:39 PM : CreateRootNode Scene Item - guard4
+4/29/2023 | 10:15:40 PM : CreateRootNode 
+4/29/2023 | 10:15:40 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:40 PM : Node created: Scene ID
+4/29/2023 | 10:15:40 PM : CreateRootNode 
+4/29/2023 | 10:15:40 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:41 PM : Node created: Model Name
+4/29/2023 | 10:15:41 PM : CreateRootNode 
+4/29/2023 | 10:15:41 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:41 PM : Node created: Model Random
+4/29/2023 | 10:15:42 PM : CreateRootNode 
+4/29/2023 | 10:15:42 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:42 PM : Node created: Type of Object
+4/29/2023 | 10:15:42 PM : CreateRootNode 
+4/29/2023 | 10:15:42 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:43 PM : Node created: Spawn Position
+4/29/2023 | 10:15:43 PM : CreateRootNode 
+4/29/2023 | 10:15:43 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:43 PM : Node created: Vehicle Lights
+4/29/2023 | 10:15:44 PM : CreateRootNode 
+4/29/2023 | 10:15:44 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:44 PM : Node created: Position Frozen
+4/29/2023 | 10:15:44 PM : CreateRootNode 
+4/29/2023 | 10:15:44 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:45 PM : Node created: Weapon Name
+4/29/2023 | 10:15:45 PM : CreateRootNode 
+4/29/2023 | 10:15:45 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:45 PM : Node created: Scenarios
+4/29/2023 | 10:15:45 PM : CreateRootNode 
+4/29/2023 | 10:15:46 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:46 PM : Node created: Is Interactable
+4/29/2023 | 10:15:46 PM : CreateRootNode Interaction
+4/29/2023 | 10:15:46 PM : CreateRootNode 
+4/29/2023 | 10:15:47 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:47 PM : Node created: Important
+4/29/2023 | 10:15:47 PM : CreateRootNode 
+4/29/2023 | 10:15:47 PM : AddItemToTreeView: , IsCompliant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:47 PM : Node created: Compliant
+4/29/2023 | 10:15:48 PM : CreateRootNode 
+4/29/2023 | 10:15:48 PM : AddItemToTreeView: , CanBeInspected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:48 PM : Node created: Can Be Inspected
+4/29/2023 | 10:15:48 PM : CreateRootNode 
+4/29/2023 | 10:15:48 PM : AddItemToTreeView: , PlaySoundOnCollection, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:49 PM : Node created: Play Sound on Collection
+4/29/2023 | 10:15:49 PM : CreateRootNode 
+4/29/2023 | 10:15:49 PM : AddItemToTreeView: , PlaySoundNearby, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:49 PM : Node created: Play Sound Nearby
+4/29/2023 | 10:15:49 PM : CreateRootNode 
+4/29/2023 | 10:15:50 PM : AddItemToTreeView: , AdditionalTextWhileInspecting, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:50 PM : Node created: Text while Inspecting
+4/29/2023 | 10:15:50 PM : CreateRootNode 
+4/29/2023 | 10:15:50 PM : AddItemToTreeView: , MessageWhenCollected, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:15:50 PM : Node created: Message when Collected
+4/29/2023 | 10:15:51 PM : CreateRootNode Report
+4/29/2023 | 10:15:51 PM : CreateRootNode 
+4/29/2023 | 10:15:51 PM : CreateRootNode 
+4/29/2023 | 10:15:51 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:52 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:52 PM : System.Reflection.TargetException: Object does not match target type.
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem..ctor(String name, String description, Boolean editable, Type type, PropertyInfo& property, Object& obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\GetCaseData.cs:line 16
+4/29/2023 | 10:15:52 PM : CreateRootNode Evidence
+4/29/2023 | 10:15:52 PM : CreateRootNode 
+4/29/2023 | 10:15:52 PM : AddItemToTreeView: , Traces, CaseManager.NewData.EvidenceData
+4/29/2023 | 10:15:53 PM : Node created: Traces
+4/29/2023 | 10:15:53 PM : CreateRootNode Dialogue
+4/29/2023 | 10:15:53 PM : CreateRootNode 
+4/29/2023 | 10:15:53 PM : CreateRootNode Interrogation
+4/29/2023 | 10:15:53 PM : CreateRootNode 
+4/29/2023 | 10:15:54 PM : AddItemToTreeView: , ID, CaseManager.NewData.Interrogation
+4/29/2023 | 10:15:54 PM : Node created: Interrogation ID
+4/29/2023 | 10:15:54 PM : CreateRootNode 
+4/29/2023 | 10:15:54 PM : AddItemToTreeView Error: 
+4/29/2023 | 10:15:54 PM : Adding task 128 - total items = 24
+4/29/2023 | 10:15:55 PM : CreateRootNode Scene Item - pap3
+4/29/2023 | 10:15:55 PM : CreateRootNode 
+4/29/2023 | 10:15:55 PM : AddItemToTreeView: , ID, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:55 PM : Node created: Scene ID
+4/29/2023 | 10:15:55 PM : CreateRootNode 
+4/29/2023 | 10:15:56 PM : AddItemToTreeView: , Model, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:56 PM : Node created: Model Name
+4/29/2023 | 10:15:56 PM : CreateRootNode 
+4/29/2023 | 10:15:56 PM : AddItemToTreeView: , ModelRandom, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:57 PM : Node created: Model Random
+4/29/2023 | 10:15:57 PM : CreateRootNode 
+4/29/2023 | 10:15:57 PM : AddItemToTreeView: , Type, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:57 PM : Node created: Type of Object
+4/29/2023 | 10:15:58 PM : CreateRootNode 
+4/29/2023 | 10:15:58 PM : AddItemToTreeView: , SpawnPosition, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:58 PM : Node created: Spawn Position
+4/29/2023 | 10:15:58 PM : CreateRootNode 
+4/29/2023 | 10:15:59 PM : AddItemToTreeView: , VehicleLightsOn, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:59 PM : Node created: Vehicle Lights
+4/29/2023 | 10:15:59 PM : CreateRootNode 
+4/29/2023 | 10:15:59 PM : AddItemToTreeView: , ObjectPositionFrozen, CaseManager.NewData.SceneItem
+4/29/2023 | 10:15:59 PM : Node created: Position Frozen
+4/29/2023 | 10:16:00 PM : CreateRootNode 
+4/29/2023 | 10:16:00 PM : AddItemToTreeView: , WeaponName, CaseManager.NewData.SceneItem
+4/29/2023 | 10:16:00 PM : Node created: Weapon Name
+4/29/2023 | 10:16:00 PM : CreateRootNode 
+4/29/2023 | 10:16:01 PM : AddItemToTreeView: , Scenarios, CaseManager.NewData.SceneItem
+4/29/2023 | 10:16:01 PM : Node created: Scenarios
+4/29/2023 | 10:16:01 PM : CreateRootNode 
+4/29/2023 | 10:16:01 PM : AddItemToTreeView: , IsInteractable, CaseManager.NewData.SceneItem
+4/29/2023 | 10:16:02 PM : Node created: Is Interactable
+4/29/2023 | 10:16:02 PM : CreateRootNode Interaction
+4/29/2023 | 10:16:02 PM : CreateRootNode 
+4/29/2023 | 10:16:02 PM : AddItemToTreeView: , IsImportant, CaseManager.NewData.InteractionOptions
+4/29/2023 | 10:16:03 PM : Node created: Important
+4/29/2023 | 10:16:03 PM : CreateRootNode 

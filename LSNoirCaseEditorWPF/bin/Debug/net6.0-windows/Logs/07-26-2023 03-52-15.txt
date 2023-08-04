@@ -1,0 +1,16 @@
+7/26/2023 | 3:52:24 PM : CreateRootNode Scene Item - test
+7/26/2023 | 3:52:24 PM : property ID
+7/26/2023 | 3:52:24 PM : property Model
+7/26/2023 | 3:52:24 PM : property ModelRandom
+7/26/2023 | 3:52:24 PM : property Type
+7/26/2023 | 3:52:24 PM : property SpawnPosition
+7/26/2023 | 3:52:24 PM : property VehicleLightsOn
+7/26/2023 | 3:52:24 PM : property ObjectPositionFrozen
+7/26/2023 | 3:52:24 PM : property WeaponName
+7/26/2023 | 3:52:24 PM : property Scenarios
+7/26/2023 | 3:52:24 PM : property IsInteractable
+7/26/2023 | 3:52:24 PM : property InteractionSettings
+7/26/2023 | 3:52:41 PM : DebugCheck_Click False
+7/26/2023 | 3:52:42 PM : DebugCheck_Click True
+7/26/2023 | 3:52:42 PM : DebugCheck_Click False
+7/26/2023 | 3:52:43 PM : DebugCheck_Click True

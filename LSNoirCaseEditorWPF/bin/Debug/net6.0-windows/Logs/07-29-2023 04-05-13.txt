@@ -1,0 +1,17 @@
+7/29/2023 | 4:05:15 AM : CheckSave false
+7/29/2023 | 4:05:16 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/29/2023 | 4:05:17 AM : Clearing nodes
+7/29/2023 | 4:05:17 AM : GetTreeviewItem_Stage CSI
+7/29/2023 | 4:05:17 AM : Starting task 1 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 2 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 3 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 4 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 5 status: Running
+7/29/2023 | 4:05:17 AM : Starting task 6 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 7 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 8 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 9 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 10 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 11 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Starting task 12 status: WaitingToRun
+7/29/2023 | 4:05:17 AM : Waiting for 12 tasks

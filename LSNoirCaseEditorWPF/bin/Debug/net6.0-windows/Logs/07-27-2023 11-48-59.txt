@@ -1,0 +1,7 @@
+7/27/2023 | 11:49:02 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:49:02 PM : Checking custom property: ID
+7/27/2023 | 11:49:02 PM : Type: System.String
+7/27/2023 | 11:49:02 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:49:02 PM : Checking custom property: Completed
+7/27/2023 | 11:49:02 PM : Type: 
+7/27/2023 | 11:49:02 PM : resultingProperty.ItemType is null

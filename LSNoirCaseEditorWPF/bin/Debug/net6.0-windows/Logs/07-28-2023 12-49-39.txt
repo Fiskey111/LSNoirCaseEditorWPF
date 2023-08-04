@@ -1,0 +1,49 @@
+7/28/2023 | 12:49:42 AM : CreateRootNode Stage  - 
+7/28/2023 | 12:49:42 AM : Checking custom property: ID
+7/28/2023 | 12:49:42 AM : Type: System.String
+7/28/2023 | 12:49:42 AM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 12:49:42 AM : Checking custom property: Completed
+7/28/2023 | 12:49:42 AM : Checking custom property: StageType
+7/28/2023 | 12:49:42 AM : Type: System.String
+7/28/2023 | 12:49:42 AM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 12:49:42 AM : Checking custom property: SceneItems
+7/28/2023 | 12:49:42 AM : Type: System.Collections.Generic.List`1[CaseManager.NewData.SceneItem]
+7/28/2023 | 12:49:42 AM : CreateRootNode Scene Items
+7/28/2023 | 12:49:42 AM : ----GetTreeviewItem_Properties SceneItem
+7/28/2023 | 12:49:42 AM : CreateRootNode SceneItems
+7/28/2023 | 12:49:43 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/28/2023 | 12:49:43 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 118
+7/28/2023 | 12:49:43 AM : property SceneItems | Simple: False | Total Nodes: 3 | Is List: True
+7/28/2023 | 12:49:43 AM : Checking custom property: CallPosition
+7/28/2023 | 12:49:43 AM : Type: CaseManager.Resources.SpawnPointTemp
+7/28/2023 | 12:49:43 AM : property CallPosition | Simple: True | Total Nodes: 4 | Is List: False
+7/28/2023 | 12:49:43 AM : Checking custom property: ApproachSoundEnabled
+7/28/2023 | 12:49:43 AM : Type: System.Boolean
+7/28/2023 | 12:49:43 AM : property ApproachSoundEnabled | Simple: True | Total Nodes: 5 | Is List: False
+7/28/2023 | 12:49:43 AM : Checking custom property: TimeStart
+7/28/2023 | 12:49:43 AM : Type: System.TimeSpan
+7/28/2023 | 12:49:43 AM : property TimeStart | Simple: True | Total Nodes: 6 | Is List: False
+7/28/2023 | 12:49:43 AM : Checking custom property: TimedEventDelay
+7/28/2023 | 12:49:43 AM : Type: System.TimeSpan
+7/28/2023 | 12:49:43 AM : property TimedEventDelay | Simple: True | Total Nodes: 7 | Is List: False
+7/28/2023 | 12:49:43 AM : Checking custom property: CallNotification
+7/28/2023 | 12:49:43 AM : Type: CaseManager.NewData.NotificationData
+7/28/2023 | 12:49:43 AM : CreateRootNode Notification
+7/28/2023 | 12:49:43 AM : ----GetTreeviewItem_Properties NotificationData
+7/28/2023 | 12:49:43 AM : CreateRootNode CallNotification
+7/28/2023 | 12:49:44 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/28/2023 | 12:49:44 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 118
+7/28/2023 | 12:49:44 AM : Checking custom property: CallBlip
+7/28/2023 | 12:49:44 AM : Type: CaseManager.NewData.BlipData
+7/28/2023 | 12:49:44 AM : CreateRootNode Call Blip
+7/28/2023 | 12:49:44 AM : ----GetTreeviewItem_Properties BlipData
+7/28/2023 | 12:49:44 AM : CreateRootNode CallBlip
+7/28/2023 | 12:49:45 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/28/2023 | 12:49:45 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 118
+7/28/2023 | 12:49:45 AM : Checking custom property: PriorStages
+7/28/2023 | 12:49:45 AM : Type: System.Collections.Generic.List`1[System.String]
+7/28/2023 | 12:49:45 AM : property PriorStages | Simple: True | Total Nodes: 8 | Is List: True
+7/28/2023 | 12:49:45 AM : Checking custom property: NextStages
+7/28/2023 | 12:49:45 AM : Type: System.Collections.Generic.List`1[System.String]
+7/28/2023 | 12:49:45 AM : property NextStages | Simple: True | Total Nodes: 9 | Is List: True
+7/28/2023 | 12:49:45 AM : Time to load stage: 2504.752ms

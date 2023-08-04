@@ -1,0 +1,10 @@
+7/27/2023 | 11:40:42 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:40:42 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:40:42 PM : property Completed | Simple: False | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:40:42 PM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:40:42 PM : False
+7/27/2023 | 11:40:42 PM : System.Collections.Generic.List`1[CaseManager.NewData.SceneItem]
+7/27/2023 | 11:40:43 PM : !! ERROR !! Object must implement IConvertible.
+7/27/2023 | 11:40:43 PM : !! ERROR !!    at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType)
+   at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 55

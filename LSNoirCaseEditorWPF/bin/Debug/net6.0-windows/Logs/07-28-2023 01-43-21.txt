@@ -1,0 +1,18 @@
+7/28/2023 | 1:43:22 PM : CheckSave false
+7/28/2023 | 1:43:24 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/28/2023 | 1:43:24 PM : Clearing nodes
+7/28/2023 | 1:43:24 PM : GetTreeviewItem_Stage CSI
+7/28/2023 | 1:43:24 PM : Time to load stage: 21.2381ms
+7/28/2023 | 1:43:24 PM : GetTreeviewItem_Stage CSI
+7/28/2023 | 1:43:24 PM : Time to load stage: 19.3516ms
+7/28/2023 | 1:43:24 PM : GetTreeviewItem_Stage CSI
+7/28/2023 | 1:43:24 PM : Time to load stage: 43.8938ms
+7/28/2023 | 1:43:24 PM : GetTreeviewItem_Stage CSI
+7/28/2023 | 1:43:24 PM : ----False || False || True
+7/28/2023 | 1:43:24 PM : Time to load stage: 102.5134ms
+7/28/2023 | 1:43:24 PM : ----Time to load property: 93.7929ms
+7/28/2023 | 1:43:24 PM : Time to load case: 195.7551ms
+7/28/2023 | 1:43:24 PM : UpdateCaseData with new node Case
+7/28/2023 | 1:43:24 PM : ----Time to load property: 0.8109ms
+7/28/2023 | 1:43:24 PM : ----Time to load property: 0.3734ms
+7/28/2023 | 1:43:24 PM : ----Time to load property: 0.5ms

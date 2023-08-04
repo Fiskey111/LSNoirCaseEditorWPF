@@ -1,0 +1,14 @@
+8/4/2023 | 4:48:20 AM : CheckSave false
+8/4/2023 | 4:48:21 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+8/4/2023 | 4:48:22 AM : Clearing nodes
+8/4/2023 | 4:48:22 AM : Total stages: 2
+8/4/2023 | 4:48:22 AM : Starting to load stage: CSI
+8/4/2023 | 4:48:22 AM : GetTreeviewItem_Stage CSI
+8/4/2023 | 4:48:22 AM : Time to load stage: 68.343ms - success=True 
+8/4/2023 | 4:48:22 AM : Starting to load stage: 
+8/4/2023 | 4:48:22 AM : GetTreeviewItem_Stage 
+8/4/2023 | 4:48:22 AM : Time to load stage: 3.0086ms - success=True 
+8/4/2023 | 4:48:22 AM : Time to load case: 75.6223ms
+8/4/2023 | 4:48:22 AM : UpdateCaseData with new node Case
+8/4/2023 | 4:48:23 AM : Selected item: victim and is deletable LSNoirCaseEditorWPF.Logic.MasterTreeViewItem
+8/4/2023 | 4:48:23 AM : Item victim is master attr CaseManager.NewData.SceneItem

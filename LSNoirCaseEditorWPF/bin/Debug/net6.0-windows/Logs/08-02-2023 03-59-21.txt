@@ -1,0 +1,208 @@
+8/2/2023 | 3:59:22 PM : CheckSave false
+8/2/2023 | 3:59:23 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+8/2/2023 | 3:59:23 PM : Clearing nodes
+8/2/2023 | 3:59:23 PM : Total stages: 2
+8/2/2023 | 3:59:23 PM : Starting to load stage: CSI
+8/2/2023 | 3:59:23 PM : GetTreeviewItem_Stage CSI
+8/2/2023 | 3:59:23 PM : Starting task 1 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 2 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 3 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : Starting task 4 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 5 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 6 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 7 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 8 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 9 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 10 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 2 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 11 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 12 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Task 1 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 2 status: RanToCompletion result  True False
+8/2/2023 | 3:59:23 PM : Task 3 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 4 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:38 False False
+8/2/2023 | 3:59:23 PM : Task 5 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 6 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 7 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 8 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 9 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 10 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+8/2/2023 | 3:59:23 PM : Task 2 status: RanToCompletion result  True False
+8/2/2023 | 3:59:23 PM : Task 11 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 12 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Time to load stage: 63.4668ms - success=True 
+8/2/2023 | 3:59:23 PM : Starting to load stage: 
+8/2/2023 | 3:59:23 PM : GetTreeviewItem_Stage 
+8/2/2023 | 3:59:23 PM : Starting task 13 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 2 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 14 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : CreateNodeForMaster Scene Item  True CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:23 PM : Starting task 15 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 16 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 17 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 18 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 19 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 20 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 21 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 22 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 23 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Starting task 24 status: RanToCompletion
+8/2/2023 | 3:59:23 PM : Task 13 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 2 status: RanToCompletion result  True False
+8/2/2023 | 3:59:23 PM : Task 14 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 15 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:1 False False
+8/2/2023 | 3:59:23 PM : Task 16 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 17 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 18 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 19 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 20 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 21 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+8/2/2023 | 3:59:23 PM : Task 22 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Call Blip Items.Count:1 False False
+8/2/2023 | 3:59:23 PM : Task 23 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Task 24 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+8/2/2023 | 3:59:23 PM : Time to load stage: 3.4475ms - success=True 
+8/2/2023 | 3:59:23 PM : Time to load case: 71.2971ms
+8/2/2023 | 3:59:23 PM : UpdateCaseData with new node Case
+8/2/2023 | 3:59:24 PM : Selected item: evidence_1 and is deletable False
+8/2/2023 | 3:59:24 PM : Item evidence_1 is master attr CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:24 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34
+8/2/2023 | 3:59:24 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34
+8/2/2023 | 3:59:24 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34
+8/2/2023 | 3:59:26 PM : Selected item: victim and is deletable False
+8/2/2023 | 3:59:26 PM : Item victim is master attr CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:26 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34
+8/2/2023 | 3:59:26 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34
+8/2/2023 | 3:59:26 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34
+8/2/2023 | 3:59:32 PM : Selected item: evidence_1 and is deletable False
+8/2/2023 | 3:59:32 PM : Item evidence_1 is master attr CaseManager.NewData.SceneItem
+8/2/2023 | 3:59:32 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34
+8/2/2023 | 3:59:32 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34
+8/2/2023 | 3:59:32 PM : Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+   at Newtonsoft.Json.JsonTextReader.ReadStringValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsString()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at LSNoirCaseEditorWPF.Logic.CustomTreeViewItem.DeserializeObject[T]() in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Objects\CustomTreeViewItem.cs:line 34

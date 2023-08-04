@@ -1,0 +1,16 @@
+7/27/2023 | 11:16:27 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:16:27 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:16:28 PM : !! ERROR !! Object reference not set to an instance of an object.
+7/27/2023 | 11:16:29 PM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 76
+7/27/2023 | 11:16:29 PM : property Completed | Simple: False | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:16:29 PM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:16:29 PM : GetTreeviewItem_Properties List`1
+7/27/2023 | 11:16:29 PM : CreateRootNode SceneItems
+7/27/2023 | 11:16:29 PM : property SceneItems | Simple: False | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:16:29 PM : property CallPosition | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:16:29 PM : property ApproachSoundEnabled | Simple: True | Total Nodes: 4 | Is List: False
+7/27/2023 | 11:16:29 PM : property TimeStart | Simple: True | Total Nodes: 5 | Is List: False
+7/27/2023 | 11:16:29 PM : property TimedEventDelay | Simple: True | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:16:31 PM : !! ERROR !! This operation is only valid on generic types.
+7/27/2023 | 11:16:31 PM : !! ERROR !!    at System.RuntimeType.GetGenericTypeDefinition()
+   at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 50

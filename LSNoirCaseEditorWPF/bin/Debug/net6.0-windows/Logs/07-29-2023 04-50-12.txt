@@ -1,0 +1,72 @@
+7/29/2023 | 4:50:15 AM : CheckSave false
+7/29/2023 | 4:50:16 AM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/29/2023 | 4:50:16 AM : Clearing nodes
+7/29/2023 | 4:50:16 AM : GetTreeviewItem_Stage CSI
+7/29/2023 | 4:50:17 AM : Starting task 1 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 2 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 3 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 4 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 5 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 6 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 7 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 8 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 9 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 2 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 10 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Starting task 11 status: RanToCompletion
+7/29/2023 | 4:50:17 AM : Waiting for 12 tasks
+7/29/2023 | 4:50:17 AM : Task 1 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0
+7/29/2023 | 4:50:18 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:50:18 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\CaseLoader.cs:line 91
+7/29/2023 | 4:50:18 AM : GetTreeviewItem_Stage CSI
+7/29/2023 | 4:50:18 AM : Starting task 12 status: RanToCompletion
+7/29/2023 | 4:50:18 AM : Starting task 2 status: RanToCompletion
+7/29/2023 | 4:50:18 AM : Starting task 13 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 14 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 15 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 16 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 17 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 18 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 19 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 2 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 20 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 21 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Waiting for 12 tasks
+7/29/2023 | 4:50:19 AM : Task 12 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0
+7/29/2023 | 4:50:19 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:50:19 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\CaseLoader.cs:line 91
+7/29/2023 | 4:50:19 AM : GetTreeviewItem_Stage CSI
+7/29/2023 | 4:50:19 AM : Starting task 22 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 2 status: RanToCompletion
+7/29/2023 | 4:50:19 AM : Starting task 23 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 24 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 25 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 26 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 27 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 28 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 29 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 2 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 30 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 31 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Waiting for 12 tasks
+7/29/2023 | 4:50:20 AM : Task 22 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0
+7/29/2023 | 4:50:20 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:50:20 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\CaseLoader.cs:line 91
+7/29/2023 | 4:50:20 AM : GetTreeviewItem_Stage CSI
+7/29/2023 | 4:50:20 AM : Starting task 32 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 2 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 33 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 34 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 35 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 36 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 37 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 38 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 39 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 2 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 40 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Starting task 41 status: RanToCompletion
+7/29/2023 | 4:50:20 AM : Waiting for 12 tasks
+7/29/2023 | 4:50:20 AM : Task 32 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0
+7/29/2023 | 4:50:21 AM : !! ERROR !! Object reference not set to an instance of an object.
+7/29/2023 | 4:50:21 AM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\CaseLoader.cs:line 91
+7/29/2023 | 4:50:21 AM : Time to load case: 4318.4186ms

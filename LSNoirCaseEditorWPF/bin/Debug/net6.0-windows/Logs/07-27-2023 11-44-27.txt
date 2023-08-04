@@ -1,0 +1,30 @@
+7/27/2023 | 11:44:29 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:44:29 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:44:29 PM : True || False || False
+7/27/2023 | 11:44:29 PM : property Completed | Simple: False | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:44:29 PM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:44:29 PM : False
+7/27/2023 | 11:44:29 PM : System.Collections.Generic.List`1[CaseManager.NewData.SceneItem]
+7/27/2023 | 11:44:29 PM : GetTreeviewItem_Properties List`1
+7/27/2023 | 11:44:29 PM : CreateRootNode SceneItems
+7/27/2023 | 11:44:29 PM : property SceneItems | Simple: False | Total Nodes: 2 | Is List: True
+7/27/2023 | 11:44:29 PM : property CallPosition | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:44:29 PM : property ApproachSoundEnabled | Simple: True | Total Nodes: 4 | Is List: False
+7/27/2023 | 11:44:29 PM : property TimeStart | Simple: True | Total Nodes: 5 | Is List: False
+7/27/2023 | 11:44:29 PM : property TimedEventDelay | Simple: True | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:44:29 PM : GetTreeviewItem_Properties NotificationData
+7/27/2023 | 11:44:29 PM : CreateRootNode CallNotification
+7/27/2023 | 11:44:29 PM : ----property Subtitle | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:44:29 PM : ----property Text | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:44:29 PM : property CallNotification | Simple: False | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:44:29 PM : GetTreeviewItem_Properties BlipData
+7/27/2023 | 11:44:29 PM : CreateRootNode CallBlip
+7/27/2023 | 11:44:29 PM : ----property BlipName | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:44:29 PM : ----property BlipRadius | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:44:29 PM : GetTreeviewItem_Properties BlipColor
+7/27/2023 | 11:44:29 PM : CreateRootNode BlipColor
+7/27/2023 | 11:44:29 PM : ----property BlipColor | Simple: False | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:44:29 PM : ----property BlipSprite | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:44:29 PM : property CallBlip | Simple: False | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:44:29 PM : property PriorStages | Simple: True | Total Nodes: 7 | Is List: True
+7/27/2023 | 11:44:29 PM : property NextStages | Simple: True | Total Nodes: 8 | Is List: True

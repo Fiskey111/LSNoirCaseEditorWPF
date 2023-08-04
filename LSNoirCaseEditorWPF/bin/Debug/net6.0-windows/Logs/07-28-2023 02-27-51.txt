@@ -1,0 +1,7 @@
+7/28/2023 | 2:27:53 PM : CheckSave false
+7/28/2023 | 2:27:54 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/28/2023 | 2:27:54 PM : Clearing nodes
+7/28/2023 | 2:27:54 PM : GetTreeviewItem_Stage CSI
+7/28/2023 | 2:28:25 PM : Time to load stage: 30096.2739ms - success=False 
+7/28/2023 | 2:28:35 PM : !! ERROR !! Object reference not set to an instance of an object.
+7/28/2023 | 2:28:35 PM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.LoadCase(Case _case) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\CaseLoader.cs:line 42

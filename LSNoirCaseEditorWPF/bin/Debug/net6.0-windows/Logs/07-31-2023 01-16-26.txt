@@ -1,0 +1,107 @@
+7/31/2023 | 1:16:27 PM : CheckSave false
+7/31/2023 | 1:16:28 PM : Loading case from J:\steam\steamapps\common\Grand Theft Auto V\Plugins\LSPDFR\LSNoir\Cases\Starry Murder\StarryMurder.caseData
+7/31/2023 | 1:16:29 PM : Clearing nodes
+7/31/2023 | 1:16:29 PM : Total stages: 2
+7/31/2023 | 1:16:29 PM : Starting to load stage: CSI
+7/31/2023 | 1:16:29 PM : GetTreeviewItem_Stage CSI
+7/31/2023 | 1:16:29 PM : Starting task 1 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 2 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 3 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Is master
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Starting task 4 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 5 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 6 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 7 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 8 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 9 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 10 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 2 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 11 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 12 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Task 1 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 2 status: RanToCompletion result  True False
+7/31/2023 | 1:16:29 PM : Task 3 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 4 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:38 False False
+7/31/2023 | 1:16:29 PM : Task 5 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 6 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 7 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 8 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 9 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 10 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+7/31/2023 | 1:16:29 PM : Task 2 status: RanToCompletion result  True False
+7/31/2023 | 1:16:29 PM : Task 11 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 12 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Time to load stage: 296.0036ms - success=True 
+7/31/2023 | 1:16:29 PM : Starting to load stage: 
+7/31/2023 | 1:16:29 PM : GetTreeviewItem_Stage 
+7/31/2023 | 1:16:29 PM : Starting task 13 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 2 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 14 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Is master
+7/31/2023 | 1:16:29 PM : Is list and master, creating simple item
+7/31/2023 | 1:16:29 PM : Starting task 15 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 16 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 17 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 18 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 19 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 20 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 21 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 22 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 23 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Starting task 24 status: RanToCompletion
+7/31/2023 | 1:16:29 PM : Task 13 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage ID Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 2 status: RanToCompletion result  True False
+7/31/2023 | 1:16:29 PM : Task 14 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Stage Type Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 15 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Scene Items Items.Count:1 False False
+7/31/2023 | 1:16:29 PM : Task 16 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Call Position Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 17 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Approach Sound Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 18 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Sound Nearby Filename Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 19 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time of Start Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 20 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Time Delay Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 21 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Notification Items.Count:1 False False
+7/31/2023 | 1:16:29 PM : Task 22 status: RanToCompletion result System.Windows.Controls.TreeViewItem Header:Call Blip Items.Count:1 False False
+7/31/2023 | 1:16:29 PM : Task 23 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Prior Stages Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Task 24 status: RanToCompletion result LSNoirCaseEditorWPF.Logic.CustomTreeViewItem Header:Next Stages Items.Count:0 False False
+7/31/2023 | 1:16:29 PM : Time to load stage: 9.3906ms - success=True 
+7/31/2023 | 1:16:29 PM : Time to load case: 328.4181ms
+7/31/2023 | 1:16:29 PM : UpdateCaseData with new node Case
+7/31/2023 | 1:16:32 PM : Selected item: Scene Items - victim and is deletable True
+7/31/2023 | 1:16:32 PM : Item CaseManager.NewData.SceneItem is deletable attr True

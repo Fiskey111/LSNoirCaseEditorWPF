@@ -1,0 +1,82 @@
+7/28/2023 | 12:35:02 AM : CreateRootNode Stage  - 
+7/28/2023 | 12:35:02 AM : Checking custom property: ID
+7/28/2023 | 12:35:02 AM : Type: System.String
+7/28/2023 | 12:35:02 AM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 12:35:02 AM : Checking custom property: Completed
+7/28/2023 | 12:35:02 AM : Checking custom property: StageType
+7/28/2023 | 12:35:02 AM : Type: System.String
+7/28/2023 | 12:35:02 AM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 12:35:02 AM : Checking custom property: SceneItems
+7/28/2023 | 12:35:02 AM : Type: System.Collections.Generic.List`1[CaseManager.NewData.SceneItem]
+7/28/2023 | 12:35:02 AM : CreateRootNode Scene Items
+7/28/2023 | 12:35:02 AM : ----GetTreeviewItem_Properties SceneItem
+7/28/2023 | 12:35:02 AM : CreateRootNode SceneItems
+7/28/2023 | 12:35:02 AM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 0.709ms
+7/28/2023 | 12:35:02 AM : ----property Model | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 1.3531ms
+7/28/2023 | 12:35:02 AM : ----property ModelRandom | Simple: True | Total Nodes: 3 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 32.581ms
+7/28/2023 | 12:35:02 AM : ----property Type | Simple: True | Total Nodes: 4 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 33.7468ms
+7/28/2023 | 12:35:02 AM : ----property SpawnPosition | Simple: True | Total Nodes: 5 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 109.4254ms
+7/28/2023 | 12:35:02 AM : ----property UseRotationNotHeading | Simple: True | Total Nodes: 6 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 109.7488ms
+7/28/2023 | 12:35:02 AM : ----property VehicleLightsOn | Simple: True | Total Nodes: 7 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 110.0477ms
+7/28/2023 | 12:35:02 AM : ----property ObjectPositionFrozen | Simple: True | Total Nodes: 8 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 110.3478ms
+7/28/2023 | 12:35:02 AM : ----property WeaponName | Simple: True | Total Nodes: 9 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 110.6463ms
+7/28/2023 | 12:35:02 AM : ----property Scenarios | Simple: True | Total Nodes: 10 | Is List: True
+7/28/2023 | 12:35:02 AM : Time to load property: 118.6277ms
+7/28/2023 | 12:35:02 AM : ----property IsInteractable | Simple: True | Total Nodes: 11 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 119.0207ms
+7/28/2023 | 12:35:02 AM : CreateRootNode Interaction Settings
+7/28/2023 | 12:35:02 AM : ----GetTreeviewItem_Properties InteractionOptions
+7/28/2023 | 12:35:02 AM : CreateRootNode InteractionSettings
+7/28/2023 | 12:35:02 AM : ----property IsImportant | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 0.535ms
+7/28/2023 | 12:35:02 AM : ----property IsCompliant | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 0.89ms
+7/28/2023 | 12:35:02 AM : ----property InteractiveEntityType | Simple: True | Total Nodes: 3 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 1.2927ms
+7/28/2023 | 12:35:02 AM : ----property CanBeInspected | Simple: True | Total Nodes: 4 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 1.7729ms
+7/28/2023 | 12:35:02 AM : CreateRootNode 
+7/28/2023 | 12:35:02 AM : ----True || False || False
+7/28/2023 | 12:35:02 AM : ----property PlaySoundOnCollection | Simple: True | Total Nodes: 5 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 2.4606ms
+7/28/2023 | 12:35:02 AM : ----property PlaySoundNearby | Simple: True | Total Nodes: 6 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 2.8367ms
+7/28/2023 | 12:35:02 AM : CreateRootNode 
+7/28/2023 | 12:35:02 AM : ----True || False || False
+7/28/2023 | 12:35:02 AM : ----property AdditionalTextWhileInspecting | Simple: True | Total Nodes: 7 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 3.7779ms
+7/28/2023 | 12:35:02 AM : ----property MessageWhenCollected | Simple: True | Total Nodes: 8 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 4.4193ms
+7/28/2023 | 12:35:02 AM : CreateRootNode Report
+7/28/2023 | 12:35:02 AM : ----GetTreeviewItem_Properties TextContainer
+7/28/2023 | 12:35:02 AM : CreateRootNode Report
+7/28/2023 | 12:35:02 AM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 2.6506ms
+7/28/2023 | 12:35:02 AM : ----property Title | Simple: True | Total Nodes: 2 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 3.1012ms
+7/28/2023 | 12:35:02 AM : ----property Text | Simple: True | Total Nodes: 3 | Is List: False
+7/28/2023 | 12:35:02 AM : Time to load property: 3.6374ms
+7/28/2023 | 12:35:03 AM : !! ERROR !! Element already has a logical parent. It must be detached from the old parent before it is attached to a new one.
+7/28/2023 | 12:35:03 AM : !! ERROR !!    at MS.Internal.Controls.InnerItemCollectionView.AssertPristineModelChild(Object item)
+   at MS.Internal.Controls.InnerItemCollectionView.Add(Object item)
+   at System.Windows.Controls.ItemCollection.Add(Object newItem)
+   at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 138
+7/28/2023 | 12:35:03 AM : !! ERROR !! Element already has a logical parent. It must be detached from the old parent before it is attached to a new one.
+7/28/2023 | 12:35:03 AM : !! ERROR !!    at MS.Internal.Controls.InnerItemCollectionView.AssertPristineModelChild(Object item)
+   at MS.Internal.Controls.InnerItemCollectionView.Add(Object item)
+   at System.Windows.Controls.ItemCollection.Add(Object newItem)
+   at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Properties(Type type, PropertyInfo rootProperty, Object obj) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 138
+7/28/2023 | 12:35:04 AM : !! ERROR !! Element already has a logical parent. It must be detached from the old parent before it is attached to a new one.
+7/28/2023 | 12:35:04 AM : !! ERROR !!    at MS.Internal.Controls.InnerItemCollectionView.AssertPristineModelChild(Object item)
+   at MS.Internal.Controls.InnerItemCollectionView.Add(Object item)
+   at System.Windows.Controls.ItemCollection.Add(Object newItem)
+   at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 65

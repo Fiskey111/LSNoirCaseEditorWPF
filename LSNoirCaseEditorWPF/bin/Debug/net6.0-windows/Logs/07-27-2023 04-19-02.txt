@@ -1,0 +1,13 @@
+7/27/2023 | 4:19:03 PM : CreateRootNode Scene Item - test
+7/27/2023 | 4:19:03 PM : property ID | Simple: True
+7/27/2023 | 4:19:03 PM : property Model | Simple: True
+7/27/2023 | 4:19:03 PM : property ModelRandom | Simple: True
+7/27/2023 | 4:19:03 PM : property Type | Simple: False
+7/27/2023 | 4:19:03 PM : property SpawnPosition | Simple: False
+7/27/2023 | 4:19:03 PM : property UseRotationNotHeading | Simple: True
+7/27/2023 | 4:19:03 PM : property VehicleLightsOn | Simple: True
+7/27/2023 | 4:19:03 PM : property ObjectPositionFrozen | Simple: True
+7/27/2023 | 4:19:03 PM : property WeaponName | Simple: True
+7/27/2023 | 4:19:03 PM : property Scenarios | Simple: False
+7/27/2023 | 4:19:03 PM : property IsInteractable | Simple: True
+7/27/2023 | 4:19:03 PM : property InteractionSettings | Simple: False

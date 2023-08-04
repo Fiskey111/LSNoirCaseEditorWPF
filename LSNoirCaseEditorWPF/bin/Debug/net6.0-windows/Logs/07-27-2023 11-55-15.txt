@@ -1,0 +1,103 @@
+7/27/2023 | 11:55:17 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:55:17 PM : Checking custom property: ID
+7/27/2023 | 11:55:17 PM : Type: System.String
+7/27/2023 | 11:55:18 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: Completed
+7/27/2023 | 11:55:18 PM : Type: 
+7/27/2023 | 11:55:18 PM : ----True || False || False
+7/27/2023 | 11:55:18 PM : property Completed | Simple: False | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: StageType
+7/27/2023 | 11:55:18 PM : Type: System.String
+7/27/2023 | 11:55:18 PM : property StageType | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: SceneItems
+7/27/2023 | 11:55:18 PM : Type: System.Collections.Generic.List`1[CaseManager.NewData.SceneItem]
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties SceneItem
+7/27/2023 | 11:55:18 PM : CreateRootNode SceneItems
+7/27/2023 | 11:55:18 PM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Model | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property ModelRandom | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Type | Simple: True | Total Nodes: 4 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property SpawnPosition | Simple: True | Total Nodes: 5 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property UseRotationNotHeading | Simple: True | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property VehicleLightsOn | Simple: True | Total Nodes: 7 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property ObjectPositionFrozen | Simple: True | Total Nodes: 8 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property WeaponName | Simple: True | Total Nodes: 9 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Scenarios | Simple: True | Total Nodes: 10 | Is List: True
+7/27/2023 | 11:55:18 PM : ----property IsInteractable | Simple: True | Total Nodes: 11 | Is List: False
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties InteractionOptions
+7/27/2023 | 11:55:18 PM : CreateRootNode InteractionSettings
+7/27/2023 | 11:55:18 PM : ----property IsImportant | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property IsCompliant | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property InteractiveEntityType | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property CanBeInspected | Simple: True | Total Nodes: 4 | Is List: False
+7/27/2023 | 11:55:18 PM : ----True || False || False
+7/27/2023 | 11:55:18 PM : ----property IsCollected | Simple: False | Total Nodes: 4 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property PlaySoundOnCollection | Simple: True | Total Nodes: 5 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property PlaySoundNearby | Simple: True | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:55:18 PM : ----True || False || False
+7/27/2023 | 11:55:18 PM : ----property HasSoundPlayed | Simple: False | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property AdditionalTextWhileInspecting | Simple: True | Total Nodes: 7 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property MessageWhenCollected | Simple: True | Total Nodes: 8 | Is List: False
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties TextContainer
+7/27/2023 | 11:55:18 PM : CreateRootNode Report
+7/27/2023 | 11:55:18 PM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Title | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Text | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Report | Simple: False | Total Nodes: 8 | Is List: False
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties EvidenceData
+7/27/2023 | 11:55:18 PM : CreateRootNode Evidence
+7/27/2023 | 11:55:18 PM : ----True || False || False
+7/27/2023 | 11:55:18 PM : ----property TestCompleted | Simple: False | Total Nodes: 0 | Is List: False
+7/27/2023 | 11:55:18 PM : ----True || False || False
+7/27/2023 | 11:55:18 PM : ----property TestCompletionTime | Simple: False | Total Nodes: 0 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Traces | Simple: True | Total Nodes: 1 | Is List: True
+7/27/2023 | 11:55:18 PM : ----property Evidence | Simple: False | Total Nodes: 8 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property SecondaryPosition | Simple: True | Total Nodes: 9 | Is List: False
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties Dialog
+7/27/2023 | 11:55:18 PM : CreateRootNode EntityDialog
+7/27/2023 | 11:55:18 PM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property DialogLines | Simple: True | Total Nodes: 2 | Is List: True
+7/27/2023 | 11:55:18 PM : ----property EntityDialog | Simple: False | Total Nodes: 9 | Is List: False
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties Interrogation
+7/27/2023 | 11:55:18 PM : CreateRootNode Interrogation
+7/27/2023 | 11:55:18 PM : ----property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Questions | Simple: False | Total Nodes: 1 | Is List: True
+7/27/2023 | 11:55:18 PM : ----property Interrogation | Simple: False | Total Nodes: 9 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property InteractionSettings | Simple: False | Total Nodes: 11 | Is List: False
+7/27/2023 | 11:55:18 PM : property SceneItems | Simple: False | Total Nodes: 2 | Is List: True
+7/27/2023 | 11:55:18 PM : Checking custom property: CallPosition
+7/27/2023 | 11:55:18 PM : Type: CaseManager.Resources.SpawnPointTemp
+7/27/2023 | 11:55:18 PM : property CallPosition | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: ApproachSoundEnabled
+7/27/2023 | 11:55:18 PM : Type: System.Boolean
+7/27/2023 | 11:55:18 PM : property ApproachSoundEnabled | Simple: True | Total Nodes: 4 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: TimeStart
+7/27/2023 | 11:55:18 PM : Type: System.TimeSpan
+7/27/2023 | 11:55:18 PM : property TimeStart | Simple: True | Total Nodes: 5 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: TimedEventDelay
+7/27/2023 | 11:55:18 PM : Type: System.TimeSpan
+7/27/2023 | 11:55:18 PM : property TimedEventDelay | Simple: True | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: CallNotification
+7/27/2023 | 11:55:18 PM : Type: CaseManager.NewData.NotificationData
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties NotificationData
+7/27/2023 | 11:55:18 PM : CreateRootNode CallNotification
+7/27/2023 | 11:55:18 PM : ----property Subtitle | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property Text | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:55:18 PM : property CallNotification | Simple: False | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: CallBlip
+7/27/2023 | 11:55:18 PM : Type: CaseManager.NewData.BlipData
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties BlipData
+7/27/2023 | 11:55:18 PM : CreateRootNode CallBlip
+7/27/2023 | 11:55:18 PM : ----property BlipName | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property BlipRadius | Simple: True | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:55:18 PM : ----GetTreeviewItem_Properties BlipColor
+7/27/2023 | 11:55:18 PM : CreateRootNode BlipColor
+7/27/2023 | 11:55:18 PM : ----property BlipColor | Simple: False | Total Nodes: 2 | Is List: False
+7/27/2023 | 11:55:18 PM : ----property BlipSprite | Simple: True | Total Nodes: 3 | Is List: False
+7/27/2023 | 11:55:18 PM : property CallBlip | Simple: False | Total Nodes: 6 | Is List: False
+7/27/2023 | 11:55:18 PM : Checking custom property: PriorStages
+7/27/2023 | 11:55:18 PM : Type: System.Collections.Generic.List`1[System.String]
+7/27/2023 | 11:55:18 PM : property PriorStages | Simple: True | Total Nodes: 7 | Is List: True
+7/27/2023 | 11:55:18 PM : Checking custom property: NextStages
+7/27/2023 | 11:55:18 PM : Type: System.Collections.Generic.List`1[System.String]
+7/27/2023 | 11:55:18 PM : property NextStages | Simple: True | Total Nodes: 8 | Is List: True

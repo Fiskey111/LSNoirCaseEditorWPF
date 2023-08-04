@@ -1,0 +1,9 @@
+7/27/2023 | 11:15:45 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:15:45 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:15:46 PM : !! ERROR !! Object reference not set to an instance of an object.
+7/27/2023 | 11:15:46 PM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 40
+7/27/2023 | 11:15:52 PM : GetTreeviewItem_Stage 
+7/27/2023 | 11:15:52 PM : CreateRootNode Stage  - 
+7/27/2023 | 11:15:52 PM : property ID | Simple: True | Total Nodes: 1 | Is List: False
+7/27/2023 | 11:15:53 PM : !! ERROR !! Object reference not set to an instance of an object.
+7/27/2023 | 11:15:53 PM : !! ERROR !!    at LSNoirCaseEditorWPF.Logic.StageLoader.GetTreeviewItem_Stage(Stage stage) in C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\Logic\StageLoader.cs:line 40
