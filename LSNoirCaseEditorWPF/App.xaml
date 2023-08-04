@@ -7,7 +7,7 @@
         <ResourceDictionary>
 
             <Style x:Key="TreeViewItemStyleExpandAll" TargetType="TreeViewItem">
-                <Setter Property="IsExpanded" Value="True"/>
+                <Setter Property="IsExpanded" Value="False"/>
             </Style>
 
             <DataTemplate x:Key="ExplorerItemTemplateSelector">

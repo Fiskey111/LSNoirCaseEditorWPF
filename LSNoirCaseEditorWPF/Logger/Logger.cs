@@ -28,7 +28,7 @@ namespace LSNoirCaseEditorWPF.Logger
         {
             string data = DateTime.Now.ToShortDateString() + " | " + DateTime.Now.ToLongTimeString() + " : " + log;
             Logs.Add(new Log(data, isDebug));
-            OnLogAdded(null, EventArgs.Empty);
+            OnLogAdded(log);
         }
 
         private static int _lastIndex = 0;
@@ -53,7 +53,9 @@ namespace LSNoirCaseEditorWPF.Logger
             }
         }
 
-        public static event EventHandler OnLogAdded = delegate { };
+        public static event LogAdd OnLogAdded;
+
+        public delegate void LogAdd(string text);
     }
 
     internal class Log

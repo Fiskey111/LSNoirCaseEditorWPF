@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
@@ -11,6 +12,8 @@ using System.Windows.Shapes;
 using CaseManager.NewData;
 using CaseManager.Resources;
 using LSNoirCaseEditorWPF.Logic;
+using LSNoirCaseEditorWPF.Logic.Editor;
+using LSNoirCaseEditorWPF.Objects;
 using LSNoirCaseEditorWPF.Windows;
 using Microsoft.Win32;
 using ModernWpf.Controls;
@@ -18,6 +21,7 @@ using Newtonsoft.Json;
 using Xceed.Wpf.Toolkit;
 using static LSNoirCaseEditorWPF.Logger.Logger;
 using Color = System.Windows.Media.Color;
+using MessageBox = System.Windows.MessageBox;
 using Page = System.Windows.Controls.Page;
 
 namespace LSNoirCaseEditorWPF.Pages
@@ -49,7 +53,7 @@ namespace LSNoirCaseEditorWPF.Pages
 
         private void CurrentCase_OnCaseReloaded(TreeViewItem rootNode)
         {
-            _button?.Remove();
+            //_button?.Remove();
             UpdateCaseData(rootNode);
         }
 
@@ -139,7 +143,7 @@ namespace LSNoirCaseEditorWPF.Pages
                     try
                     {
                         // Set search phrase and temporary IDs
-                        var searchPhrase = "Scene Item - ";
+                        var searchPhrase = "Scene Items - ";
                         var sceneID = string.Empty;
                         var workingNode = _lastItemSelected;
                         var found = false;
@@ -273,7 +277,8 @@ namespace LSNoirCaseEditorWPF.Pages
         {
             if (node != null)
             {
-                if (node.Header.ToString().Contains("Scene Item -"))
+                Logger.Logger.AddLog($"CaseViewer.DeleteItem {node.Header} selected", true);
+                if (node.Header.ToString().Contains("Scene Items -"))
                 {
                     bool dialog = await CreateHeaderDialog($"Permanently Delete {node.Header}?", "Are you sure you would like to delete this item?", "Cancel", "Yes");
                     if (!dialog) return;
@@ -294,7 +299,7 @@ namespace LSNoirCaseEditorWPF.Pages
                     }
                     stage.SceneItems.RemoveAt(stageIndex);
                 }
-                if (node.Header.ToString().Contains("Question -"))
+                else if (node.Header.ToString().Contains("Question -"))
                 {
                     bool dialog = await CreateHeaderDialog($"Permanently Delete {node.Header}?", "Are you sure you would like to delete this item?", "Cancel", "Yes");
                     if (!dialog) return;
@@ -362,7 +367,9 @@ namespace LSNoirCaseEditorWPF.Pages
 
         private bool GetRootNodeFromID(ENodeName nodeType, List<IDataBase> itemList, TreeViewItem startingNode, out int outBaseIndex, out TreeViewItem outNode)
         {
-            Logger.Logger.AddLog($"GetRootNodeFromID({GetIDNodeNameFromEnum(nodeType)})", true);
+            try
+            {
+            Logger.Logger.AddLog($"GetRootNodeFromID({GetIDNodeNameFromEnum(nodeType)}), {itemList.Count}, {startingNode == null}", true);
             bool found = false;
             outNode = null;
             outBaseIndex = -1;
@@ -374,7 +381,7 @@ namespace LSNoirCaseEditorWPF.Pages
                 var depth = 100;
                 for (int i = 0; i < depth; i++)
                 {
-                    if (tempNode == null || tempNode.Parent == null) break;
+                    if (tempNode == null || tempNode.Parent == null || (tempNode.Parent as TreeViewItem) == null) break;
                     AddLog($"{i}/{depth} | {found} | Checking node: {tempNode.Header} with parent {(tempNode.Parent as TreeViewItem).Header}", true);
                     if (found || tempNode == null || tempNode.Header == null) break;
                     if (tempNode.Header.ToString().Contains(GetIDNodeNameFromEnum(nodeType)))
@@ -431,6 +438,14 @@ namespace LSNoirCaseEditorWPF.Pages
             }
             Logger.Logger.AddLog($"Found: {found} | found node: {outNode.Header} | found index: {outBaseIndex}", true);
             return found;
+            }
+            catch (Exception e)
+            {
+                ShowError(e);
+                throw;
+            }
+
+            return false;
         }
 
         public enum ENodeName { Stage, Document, Scene, Information }
@@ -475,12 +490,6 @@ namespace LSNoirCaseEditorWPF.Pages
             CaseContent.Items.Refresh();
         }
 
-        internal List<string> PullAllIDs()
-        {
-            var list = MainScreen.CaseHandler.AllNodes.Where(node => node.Header.ToString().Contains("ID")).Cast<CustomTreeViewItem>().ToList();
-            return list.Select(item => item.Value).ToList();
-        }
-
         internal static bool CheckIDs(CaseViewer page, CustomTreeViewItem currentNode, string id)
         {
             foreach (TreeViewItem node in page.CaseContent.Items)
@@ -498,100 +507,160 @@ namespace LSNoirCaseEditorWPF.Pages
 
         private TreeViewItem _lastItemSelected;
 
-        private async void Box_ItemInvoked(object sender, RoutedPropertyChangedEventArgs<object> args)
+        private async void Box_ItemInvoked(object? sender, RoutedPropertyChangedEventArgs<object> args)
         {
-            if (sender != null)
-            {
-                if (args.NewValue is TreeViewItem)
-                {
-                    _lastItemSelected = args.NewValue as TreeViewItem;
-                    Logger.Logger.AddLog($"Selected item: {_lastItemSelected.Header}", true);
-                }
-                else
-                {
-                    _lastItemSelected = null;
-                    Logger.Logger.AddLog($"No item selected", true);
-                }
+            if (sender == null) return;
+            if (args.NewValue is not TreeViewItem item) return;
+            
+            _lastItemSelected = item;
+            AddLog($"Selected item: {_lastItemSelected.Header} and is deletable {_lastItemSelected.GetType()}", true);
+            
+            ClearEditingBoxes();
 
-                if (args.NewValue is CustomTreeViewItem)
-                {
-                    CustomTreeViewItem myNode = (CustomTreeViewItem)args.NewValue;
-                    if (myNode != null)
-                    {
-                        CreateEditingBoxes(myNode);
-                    }
-                    else
-                    {
-                        _button?.Remove();
-                    }
-                }
-                else if (MainScreen.CaseHandler.UnselectableNodes.Any(n => n == (TreeViewItem)args.NewValue))
-                {
-                    _button?.Remove();
-                }
-                else
-                {
-                    _button?.Remove();
-                }
+            if (_lastItemSelected is MasterTreeViewItem masterTreeViewItem)
+            {
+                CreateSaveButton();
+                AddLog($"Item {masterTreeViewItem.Name} is master attr {masterTreeViewItem.Object}", true);
+                CreateEditingBoxes(masterTreeViewItem.Type, masterTreeViewItem.Object);
+            }
+            else if (args.NewValue is CustomTreeViewItem customTreeViewItem)
+            {
+                CreateSaveButton();
+                CreateInteractiveButton(customTreeViewItem.Type, customTreeViewItem);
             }
         }
 
-        private InteractiveButton _button;
+        private void ClearEditingBoxes()
+        {
+            EditStackPanel.Children.Clear();
+            _buttonList.Clear();
+        }
 
+        private List<InteractiveMasterItem> _buttonList = new List<InteractiveMasterItem>();
+
+        private void CreateEditingBoxes(Type type, object item)
+        {
+            var rootProperties = type.GetProperties();
+            foreach (var prop in rootProperties)
+            {
+                if (prop.GetCustomAttribute(typeof(UserEditableAttribute)) is not UserEditableAttribute
+                    resultingProperty) continue;
+                
+                if (resultingProperty.IsMaster)
+                {
+                    CreateEditingBoxes(resultingProperty.ItemType, prop.GetValue(item));
+                }
+                
+                var node = CreateNodeForSimpleItem(prop, item);
+
+                CreateInteractiveButton(resultingProperty.ItemType, node);
+            }
+        }
+
+        private void CreateInteractiveButton(Type type, CustomTreeViewItem node)
+        {
+            var boxType = GetBoxType(type);
+            if (boxType == InteractiveMasterItem.BoxType.None) return;
+
+            var caseViewer = this;
+            var button = new InteractiveMasterItem(EditStackPanel, boxType, node, ref caseViewer);
+            _buttonList.Add(button);
+        }
+
+        private InteractiveMasterItem.BoxType GetBoxType(Type type)
+        {
+            var boxType = InteractiveMasterItem.BoxType.None;
+            if (type == typeof(string)) boxType = InteractiveMasterItem.BoxType.TextBox;
+            else if (type == typeof(List<string>)) boxType = InteractiveMasterItem.BoxType.ComboBoxStringList;
+            else if (type == typeof(TimeSpan)) boxType = InteractiveMasterItem.BoxType.TimePicker;
+            else if (type == typeof(SceneItem.EItemType)) boxType = InteractiveMasterItem.BoxType.EItemType;
+            else if (type == typeof(InterrogationLine.EResponseType))
+                boxType = InteractiveMasterItem.BoxType.InterrogationAnswerType;
+            else if (type == typeof(SpawnPointTemp)) boxType = InteractiveMasterItem.BoxType.SpawnPoint;
+            else if (type == typeof(bool)) boxType = InteractiveMasterItem.BoxType.Boolean;
+            else if (type == typeof(float)) boxType = InteractiveMasterItem.BoxType.Float;
+            else if (type == typeof(int)) boxType = InteractiveMasterItem.BoxType.Integer;
+            else if (type == typeof(System.Drawing.Color)) boxType = InteractiveMasterItem.BoxType.Color;
+            return boxType;
+        }
+        
+        private Button SaveButton { get; set; }
+        private void CreateSaveButton()
+        {
+            SaveButton = new Button()
+            {
+                Content = "Save Changes",
+                Margin = new Thickness(0d, 5d, 0d, 5d),
+                HorizontalAlignment = HorizontalAlignment.Center,
+                MinWidth = 150
+            };
+            
+            SaveButton.Click += UIButton_Click;
+            
+            EditStackPanel.Children.Add(SaveButton);
+            AddSeparator();
+        }
+
+        private void AddSection(string name)
+        {
+            var label = new Label()
+            {
+                Margin = new Thickness(0d, 2d, 0d, 2d),
+                HorizontalAlignment = HorizontalAlignment.Stretch,
+                Content = name
+            };
+
+            EditStackPanel.Children.Add(label);
+        }
+        
+        private void AddSeparator()
+        {
+            var border = new Separator()
+            {
+                Margin = new Thickness(0d, 2d, 0d, 2d),
+                HorizontalAlignment = HorizontalAlignment.Stretch,
+            };
+
+            EditStackPanel.Children.Add(border);
+        }
+       
+        private void UIButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender != SaveButton) return;
+
+            foreach (var item in _buttonList)
+            {
+                Logger.Logger.AddLog($"Saving {item.Name}", true);
+                var result = item.SaveItem(sender);
+                this.GetItemAndUpdate(item.Node, result);
+            }
+            Save();
+            CaseContent.Items.Refresh();
+            ClearEditingBoxes();
+        }
+
+        private CustomTreeViewItem CreateNodeForSimpleItem(PropertyInfo property, object obj)
+        {
+            var editable = GetAttributeData.IsEditable(property, out var name, out var desc, out Type type);
+            return new CustomTreeViewItem(name, desc, editable, type, ref property, ref obj);
+        }
+        
         private void CreateEditingBoxes(CustomTreeViewItem item)
         {
-            _button?.Remove();
+            ClearEditingBoxes();
             var caseViewer = this;
-            if (item.Type == typeof(string)) // textbox
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.TextBox, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(List<string>)) // listofstrings
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.ComboBoxStringList, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(TimeSpan)) // time
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.TimePicker, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(SceneItem.EItemType)) // EItemType
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.EItemType, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(InterrogationLine.EResponseType)) // EResponseType
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.InterrogationAnswerType, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(CaseManager.Resources.SpawnPoint)) // spawnpoint
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.SpawnPoint, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(bool)) // bool
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.Boolean, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(float)) // float
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.Float, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(int)) // int
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.Integer, item, ref caseViewer);
-            }
-            else if (item.Type == typeof(System.Drawing.Color)) // Color
-            {
-                _button = new InteractiveButton(editStackPanel, InteractiveButton.BoxType.Color, item, ref caseViewer);
-            }
+            
+            var boxType = GetBoxType(item.Type);
+            if (boxType == InteractiveMasterItem.BoxType.None) return;
+                
+            //_button = new InteractiveItems(EditStackPanel, boxType, item, ref caseViewer);
         }
 
         internal void GetItemAndUpdate(CustomTreeViewItem item, object data)
         {
             try
             {
-                AddLog($"GetItemAndUpdate({item.Name}|{data})", true);
                 item.PropertyRef.SetValue(item.Object, data);
-                Save();
-                CaseContent.Items.Refresh();
             }
             catch (Exception ex)
             {
@@ -608,646 +677,15 @@ namespace LSNoirCaseEditorWPF.Pages
         {
             MainScreen.CaseHandler.Save();
         }
+        
+        private void ShowError(Exception exception, bool displayMessage = true)
+        {
+            if (displayMessage) MessageBox.Show(exception.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            if (displayMessage) MessageBox.Show(exception.StackTrace, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            Logger.Logger.AddLog($"!! ERROR !! {exception.Message}", false);
+            Logger.Logger.AddLog($"!! ERROR !! {exception.StackTrace}", false);
+            
+        }
     }
 
-    public class InteractiveButton : Button
-    {
-        private CustomTreeViewItem Item { get; set; }
-        private BoxType EBoxType { get; set; }
-        private UIElement DataBox { get; set; }
-        private Button SaveButton { get; set; }
-        private Button AddButton { get; set; }
-        private Button RemoveButton { get; set; }
-
-        private List<TextBox> SpawnPointBoxes { get; set; } = new List<TextBox>();
-        private List<TextBox> RotationBoxes { get; set; } = new List<TextBox>();
-
-        private StackPanel Panel { get; set; }
-        private CaseViewer PageRef;
-
-        public InteractiveButton(StackPanel panel, BoxType boxType, CustomTreeViewItem item, ref CaseViewer pageRef)
-        {
-            try
-            {
-                Item = item;
-                EBoxType = boxType;
-
-                Panel = panel;
-                Panel.Children.Clear();
-
-                PageRef = pageRef;
-
-                CreateLabels();
-
-                CreateBox();
-
-                CreateButton();
-            }
-            catch (Exception ex)
-            {
-                Logger.Logger.AddLog(ex.ToString(), true);
-            }
-        }
-
-        private void CreateLabels()
-        {
-            var label = new TextBlock()
-            {
-                Text = Item.Name
-            };
-            var description = new TextBlock()
-            {
-                Text = Item.Description,
-                Margin = new Thickness(0d, 5d, 0d, 0d),
-                FontSize = 10,
-            };
-
-            Panel.Children.Add(label);
-            Panel.Children.Add(description);
-        }
-
-        private void CreateBox()
-        {
-            if (EBoxType == BoxType.TextBox)
-            {
-                DataBox = new TextBox()
-                {
-                    Text = Item.DeserializeObject<string>(),
-                    IsEnabled = Item.Editable,
-                    MinWidth = 400,
-                    Margin = new Thickness(0d, 5d, 0d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left
-                };
-                Panel.Children.Add(DataBox);
-            }
-            else if (EBoxType == BoxType.ComboBoxStringList)
-            {
-                var box = new ComboBox()
-                {
-                    IsEnabled = Item.Editable,
-                    MinWidth = 400,
-                    Margin = new Thickness(0d, 5d, 0d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left,
-                    IsEditable = Item.Editable
-                };
-                var data = Item.DeserializeObject<List<string>>();
-                if (data == null)
-                {
-                    data = new List<string>();
-                }
-                foreach (var d in data)
-                {
-                    box.Items.Add(d);
-                }
-                if (box.Items.Count > 0)
-                {
-                    box.SelectedIndex = 0;
-                }
-                AddButton = new Button()
-                {
-                    Content = "Add Item",
-                    Margin = new Thickness(0d, 5d, 5d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left,
-                    MinWidth = 100
-                };
-                RemoveButton = new Button()
-                {
-                    Content = "Remove Item",
-                    Margin = new Thickness(0d, 5d, 0d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left,
-                    MinWidth = 100
-                };
-
-                AddButton.Click += ButtonClick;
-                RemoveButton.Click += ButtonClick;
-
-                DataBox = box;
-
-                var secondaryPanel = new StackPanel()
-                {
-                    Orientation = Orientation.Horizontal
-                };
-
-                secondaryPanel.Children.Add(AddButton);
-                secondaryPanel.Children.Add(RemoveButton);
-                Panel.Children.Add(DataBox);
-                Panel.Children.Add(secondaryPanel);
-            }
-            else if (EBoxType == BoxType.TimePicker)
-            {
-                DataBox = new TimePicker()
-                {
-                    Text = Item.DeserializeObject<TimeSpan>().ToString(),
-                    IsEnabled = Item.Editable,
-                    MinWidth = 400,
-                    Margin = new Thickness(0d, 5d, 0d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left
-                };
-                Panel.Children.Add(DataBox);
-            }
-            else if (EBoxType == BoxType.EItemType)
-            {
-                var box = new ComboBox()
-                {
-                    IsEnabled = Item.Editable,
-                    MinWidth = 400,
-                    Margin = new Thickness(0d, 5d, 0d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left
-                };
-                foreach (var item in Enum.GetValues(typeof(SceneItem.EItemType)))
-                {
-                    box.Items.Add(item);
-                }
-                box.SelectedIndex = (int)Item.DeserializeObject<SceneItem.EItemType>();
-                DataBox = box;
-                Panel.Children.Add(DataBox);
-            }
-            else if (EBoxType == BoxType.InterrogationAnswerType)
-            {
-                var box = new ComboBox()
-                {
-                    IsEnabled = Item.Editable,
-                    MinWidth = 400,
-                    Margin = new Thickness(0d, 5d, 0d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left
-                };
-                foreach (var item in Enum.GetValues(typeof(InterrogationLine.EResponseType)))
-                {
-                    box.Items.Add(item);
-                }
-                box.SelectedIndex = (int) Item.DeserializeObject<InterrogationLine.EResponseType>();
-                DataBox = box;
-                Panel.Children.Add(DataBox);
-            }
-            else if (EBoxType == BoxType.Boolean)
-            {
-                var checkLabel = new TextBlock()
-                {
-                    Text = "Enabled:",
-                    Margin = new Thickness(0, 0, 5, 0),
-                    VerticalAlignment = VerticalAlignment.Center
-                };
-                DataBox = new CheckBox()
-                {
-                    IsChecked = Item.DeserializeObject<bool?>(),
-                    IsEnabled = Item.Editable,
-                    MinWidth = 400,
-                    Margin = new Thickness(0d, 5d, 0d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left
-                };
-                var subPanel = new StackPanel()
-                {
-                    Orientation = Orientation.Horizontal
-                };
-                subPanel.Children.Add(checkLabel);
-                subPanel.Children.Add(DataBox);
-                Panel.Children.Add(subPanel);
-            }
-            else if (EBoxType == BoxType.Float)
-            {
-                DataBox = CreateNumberBox("Value", Convert.ToSingle(Item.Value), out var subPanel);
-                Panel.Children.Add(subPanel);
-            }
-            else if (EBoxType == BoxType.Integer)
-            {
-                DataBox = CreateNumberBox("Value", Convert.ToInt32(Item.Value), out var subPanel);
-                Panel.Children.Add(subPanel);
-            }
-            else if (EBoxType == BoxType.DateTime)
-            {
-                DataBox = new DateTimePicker()
-                {
-                    Format = DateTimeFormat.ShortDate,
-                    Value = Item.DeserializeObject<DateTime>()
-                };
-                Panel.Children.Add(DataBox);
-            }
-            else if (EBoxType == BoxType.Color)
-            {
-                DataBox = new ColorCanvas()
-                {
-                    SelectedColor = ConvertToWindowsColor(Item.DeserializeObject<System.Drawing.Color>()),
-                    UsingAlphaChannel = true,
-                    IsEnabled = Item.Editable,
-                    MinWidth = 400,
-                    Margin = new Thickness(0d, 5d, 0d, 0d),
-                    HorizontalAlignment = HorizontalAlignment.Left
-                };
-                Panel.Children.Add(DataBox);
-            }
-            else if (EBoxType == BoxType.SpawnPoint)
-            {
-                var subPanel = new StackPanel();
-
-                var grid = new Grid()
-                {
-                    HorizontalAlignment = HorizontalAlignment.Stretch,
-                    VerticalAlignment = VerticalAlignment.Stretch
-                };
-                grid.ColumnDefinitions.Add(new ColumnDefinition() { Width = new GridLength(75) });
-                grid.ColumnDefinitions.Add(new ColumnDefinition() { Width = new GridLength(250) });
-
-                var spawnpoint = Item.DeserializeObject<SpawnPoint>();
-                if (spawnpoint == null) spawnpoint = SpawnPoint.Zero;
-
-                string[] axes = new[] { "x", "y", "z" };
-                string[] rotation = new[] { "heading", "roll", "pitch", "yaw" };
-                foreach (var axis in axes)
-                {
-                    grid.RowDefinitions.Add(new RowDefinition());
-                    var value = 0f;
-                    switch (axis)
-                    {
-                        case "x":
-                            value = spawnpoint.Position.X;
-                            break;
-                        case "y":
-                            value = spawnpoint.Position.Y;
-                            break;
-                        case "z":
-                            value = spawnpoint.Position.Z;
-                            break;
-                    }
-                    SpawnPointBoxes.Add(CreateNumberBox(axis, grid, value));
-                }
-                foreach (var axis in rotation)
-                {
-                    grid.RowDefinitions.Add(new RowDefinition());
-                    var value = 0f;
-                    switch (axis)
-                    {
-                        case "heading":
-                            value = spawnpoint.Heading;
-                            break;
-                        case "roll":
-                            value = spawnpoint.Rotation.Roll;
-                            break;
-                        case "pitch":
-                            value = spawnpoint.Rotation.Pitch;
-                            break;
-                        case "yaw":
-                            value = spawnpoint.Rotation.Yaw;
-                            break;
-                    }
-                    RotationBoxes.Add(CreateNumberBox(axis, grid, value));
-                    if (axis == "heading")
-                    {
-                        grid.RowDefinitions.Add(new RowDefinition());
-                        var orLabel = new TextBlock();
-
-                        orLabel.Text = "OR";
-                        orLabel.Margin = new Thickness(0, 5, 0, 5);
-                        orLabel.HorizontalAlignment = HorizontalAlignment.Center;
-                        orLabel.VerticalAlignment = VerticalAlignment.Center;
-                        Grid.SetColumn(orLabel, 0);
-                        Grid.SetColumnSpan(orLabel, 2);
-                        Grid.SetRow(orLabel, grid.RowDefinitions.Count - 1);
-                        grid.Children.Add(orLabel);
-                    }
-                }
-
-                Panel.Children.Add(grid);
-            }
-        }
-
-        private Color ConvertToWindowsColor(System.Drawing.Color color)
-        {
-            return new Color()
-            {
-                A = color.A,
-                B = color.B,
-                G = color.G,
-                R = color.R
-            };
-        }
-        private System.Drawing.Color ConvertToDrawingColor(Color color)
-        {
-            return System.Drawing.Color.FromArgb(color.A, color.R, color.G, color.B);
-        }
-
-        private TextBox CreateNumberBox(string positionAxis, float currentValue, out StackPanel panel)
-        {
-            var label = new TextBlock()
-            {
-                Text = positionAxis,
-                Margin = new Thickness(0, 0, 5, 0),
-                VerticalAlignment = VerticalAlignment.Center,
-
-            };
-            var numberBox = new TextBox()
-            {
-                Name = positionAxis,
-                Margin = new Thickness(0, 10, 5, 0),
-                MinWidth = 200,
-                Text = currentValue.ToString()
-            };
-            numberBox.TextChanged += Float_OnBeforeTextChanging;
-
-            panel = new StackPanel()
-            {
-                Orientation = Orientation.Horizontal
-            };
-            panel.Children.Add(label);
-            panel.Children.Add(numberBox);
-            return numberBox;
-        }
-        private TextBox CreateNumberBox(string positionAxis, int currentValue, out StackPanel panel)
-        {
-            var label = new TextBlock()
-            {
-                Text = positionAxis,
-                Margin = new Thickness(0, 0, 5, 0),
-                VerticalAlignment = VerticalAlignment.Center,
-
-            };
-            var numberBox = new TextBox()
-            {
-                Name = positionAxis,
-                Margin = new Thickness(0, 10, 5, 0),
-                MinWidth = 200,
-                Text = currentValue.ToString()
-            };
-            numberBox.TextChanged += Integer_OnBeforeTextChanging;
-
-            panel = new StackPanel()
-            {
-                Orientation = Orientation.Horizontal
-            };
-            panel.Children.Add(label);
-            panel.Children.Add(numberBox); ;
-            return numberBox;
-        }
-
-        private TextBox CreateNumberBox(string positionAxis, Grid grid, float currentValue)
-        {
-            var rect = new Rectangle();
-            if (positionAxis == "heading")
-            {
-                var color = new SolidColorBrush(Colors.Blue);
-                rect.Margin = new Thickness(0, 10, 5, 0);
-                color.Opacity = 0.2;
-                rect.Fill = color;
-            }
-            else if (positionAxis == "roll" || positionAxis == "pitch" || positionAxis == "yaw")
-            {
-                var color = new SolidColorBrush(Colors.Green);
-                color.Opacity = 0.2;
-                rect.Fill = color;
-                if (positionAxis == "roll") rect.Margin = new Thickness(0, 10, 5, 0);
-            }
-            var label = new TextBlock()
-            {
-                Text = positionAxis,
-                Margin = new Thickness(0, 0, 5, 0),
-                VerticalAlignment = VerticalAlignment.Center,
-
-            };
-            var numberBox = new TextBox()
-            {
-                Name = positionAxis,
-                Margin = new Thickness(0, 10, 5, 0),
-                MinWidth = 200,
-                Text = currentValue.ToString()
-            };
-            numberBox.TextChanged += Float_OnBeforeTextChanging;
-
-            Grid.SetColumn(label, 0);
-            Grid.SetColumn(numberBox, 1);
-            Grid.SetColumn(rect, 0);
-            Grid.SetColumnSpan(rect, 2);
-            Grid.SetRow(rect, grid.RowDefinitions.Count - 1);
-            Grid.SetRow(label, grid.RowDefinitions.Count - 1);
-            Grid.SetRow(numberBox, grid.RowDefinitions.Count - 1);
-            grid.Children.Add(rect);
-            grid.Children.Add(label);
-            grid.Children.Add(numberBox);
-            return numberBox;
-        }
-        private TextBox CreateNumberBox(string positionAxis, Grid grid, int currentValue)
-        {
-            var label = new TextBlock()
-            {
-                Text = positionAxis,
-                Margin = new Thickness(0, 0, 5, 0),
-                VerticalAlignment = VerticalAlignment.Center,
-
-            };
-            var numberBox = new TextBox()
-            {
-                Name = positionAxis,
-                Margin = new Thickness(0, 10, 5, 0),
-                MinWidth = 200,
-                Text = currentValue.ToString()
-            };
-            numberBox.TextChanged += Integer_OnBeforeTextChanging; ;
-
-            Grid.SetColumn(label, 0);
-            Grid.SetColumn(numberBox, 1);
-            Grid.SetRow(label, grid.RowDefinitions.Count - 1);
-            Grid.SetRow(numberBox, grid.RowDefinitions.Count - 1);
-            grid.Children.Add(label);
-            grid.Children.Add(numberBox);
-            return numberBox;
-        }
-
-        private void Integer_OnBeforeTextChanging(object sender, TextChangedEventArgs  args)
-        {
-            var text = (sender as TextBox).Text;
-            if (!int.TryParse(text, out _) && text != "-")
-            {
-                args.Handled = true;
-                (sender as TextBox).Undo();
-            }
-        }
-
-        private void Float_OnBeforeTextChanging(object sender, TextChangedEventArgs  args)
-        {
-            var text = (sender as TextBox).Text;
-            if (!Regex.Match(text, @"-?[0-9]*\.?[0-9]+").Success)
-            {
-                if (text != "-")
-                {
-                    args.Handled = true;
-                    (sender as TextBox).Undo();
-                }
-                else if (!float.TryParse(text, out _))
-                {
-                    args.Handled = true;
-                    (sender as TextBox).Undo();
-                }
-            }
-        }
-
-        public void Remove()
-        {
-            Panel?.Children.Clear();
-            if (AddButton != null) AddButton.Click -= ButtonClick;
-            if (RemoveButton != null) RemoveButton.Click -= ButtonClick;
-            if (SaveButton != null) SaveButton.Click -= UIButton_Click;
-        }
-
-        private void ButtonClick(object sender, RoutedEventArgs e)
-        {
-            try
-            {
-                if (sender == AddButton)
-                {
-                    var comboBox = DataBox as ComboBox;
-                    var selectedItem = comboBox.SelectedItem.ToString();
-                    comboBox.Items.Add(selectedItem);
-                }
-                else if (sender == RemoveButton)
-                {
-                    var comboBox = DataBox as ComboBox;
-                    comboBox.Items.RemoveAt(comboBox.SelectedIndex);
-                }
-            }
-            catch (Exception ex)
-            {
-                CaseViewer.CreateFlyout(sender as FrameworkElement, ex.ToString());
-            }
-        }
-
-        private void CreateButton()
-        {
-            SaveButton = new Button()
-            {
-                Content = "Save Changes",
-                Margin = new Thickness(0d, 5d, 0d, 0d),
-                HorizontalAlignment = HorizontalAlignment.Left,
-                MinWidth = 150
-            };
-            SaveButton.Click += UIButton_Click;
-
-            Panel.Children.Add(SaveButton);
-        }
-
-        private void UIButton_Click(object sender, RoutedEventArgs e)
-        {
-            if (sender != SaveButton) return;
-
-            string serializedData = string.Empty;
-            object unserializedData = null;
-            bool validType = false;
-
-            if (EBoxType == BoxType.TextBox)
-            {
-                var box = DataBox as TextBox;
-                serializedData = JsonConvert.SerializeObject(box.Text);
-                unserializedData = box.Text;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.ComboBoxStringList)
-            {
-                var box = DataBox as ComboBox;
-                List<string> saveData = (from object? item in box.Items select item.ToString()).ToList();
-                serializedData = JsonConvert.SerializeObject(saveData);
-                unserializedData = saveData;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.EItemType)
-            {
-                var box = DataBox as ComboBox;
-                Enum.TryParse(typeof(SceneItem.EItemType), box.SelectedValue.ToString(), out var saveData);
-                serializedData = JsonConvert.SerializeObject(saveData);
-                unserializedData = saveData;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.InterrogationAnswerType)
-            {
-                var box = DataBox as ComboBox;
-                Enum.TryParse(typeof(InterrogationLine.EResponseType), box.SelectedValue.ToString(), out var saveData);
-                serializedData = JsonConvert.SerializeObject(saveData);
-                unserializedData = saveData;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.TimePicker)
-            {
-                var box = DataBox as TimePicker;
-                serializedData = JsonConvert.SerializeObject(box.Value);
-                unserializedData = box.TimeInterval;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.Float)
-            {
-                var data = GetFloatDataFromBox(DataBox as TextBox);
-
-                serializedData = JsonConvert.SerializeObject(data);
-                unserializedData = data;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.Integer)
-            {
-                var data = GetIntDataFromBox(DataBox as TextBox);
-
-                serializedData = JsonConvert.SerializeObject(data);
-                unserializedData = data;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.Color)
-            {
-                var box = DataBox as ColorCanvas;
-                var data = ConvertToDrawingColor(box.SelectedColor.Value);
-
-                serializedData = JsonConvert.SerializeObject(data);
-                unserializedData = data;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.DateTime)
-            {
-                var box = DataBox as DateTimePicker;
-                DateTime data = (DateTime) box.Value;
-
-                serializedData = JsonConvert.SerializeObject(data);
-                unserializedData = data;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.SpawnPoint)
-            {
-                string[] axes = new[] { "x", "y", "z" };
-                string[] rotation = new[] { "heading", "roll", "pitch", "yaw" };
-
-                SpawnPoint point = new SpawnPoint()
-                {
-                    Position = new VectorTemp(GetFloatDataFromBox(SpawnPointBoxes[0]), GetFloatDataFromBox(SpawnPointBoxes[1]), GetFloatDataFromBox(SpawnPointBoxes[2])),
-                    Heading = GetFloatDataFromBox(RotationBoxes[0]),
-                    Rotation = new RotatorTemp(GetFloatDataFromBox(RotationBoxes[1]), GetFloatDataFromBox(RotationBoxes[2]), GetFloatDataFromBox(RotationBoxes[3]))
-                };
-
-                serializedData = JsonConvert.SerializeObject(point);
-                unserializedData = point;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-            else if (EBoxType == BoxType.Boolean)
-            {
-                var box = DataBox as CheckBox;
-                serializedData = JsonConvert.SerializeObject(box.IsChecked);
-                unserializedData = box.IsChecked;
-                validType = Convert.ChangeType(unserializedData, Item.Type) != null;
-            }
-
-            if (!validType)
-            {
-                CaseViewer.CreateFlyout(sender as FrameworkElement, $"Invalid type\nMust be type: {Item.Type}");
-            }
-
-            if (Item.Name.Contains("ID"))
-            {
-                var okay = CaseViewer.CheckIDs(PageRef, Item, serializedData);
-                if (!okay)
-                {
-                    CaseViewer.CreateFlyout(sender as FrameworkElement, "Duplicate ID value");
-                    return;
-                }
-            }
-
-            Item.SerializeObject(serializedData);
-            PageRef.GetItemAndUpdate(Item, unserializedData);
-        }
-
-        private float GetFloatDataFromBox(TextBox box) => Convert.ToSingle(box.Text);
-        private int GetIntDataFromBox(TextBox box) => Convert.ToInt32(box.Text);
-
-        public enum BoxType { ComboBoxStringList, TextBox, TimePicker, SpawnPoint, Boolean, Float, Color, Integer, InterrogationAnswerType, EItemType, DateTime }
-    }
 }

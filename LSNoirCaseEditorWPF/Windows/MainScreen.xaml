@@ -5,8 +5,9 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
+    WindowStartupLocation="CenterScreen"
     Width="1500"
-    Height="800">
+    Height="1000">
 
     <Grid>
         <Grid.RowDefinitions>
@@ -68,6 +69,14 @@
             <MenuItem x:Name="navViewSource" Click="Menu_Clicked"  Margin="5,5,5,5">
                 <MenuItem.Header>
                     <TextBlock Text="Source" VerticalAlignment="Center" />
+                </MenuItem.Header>
+                <MenuItem.Icon>
+                    <Image Source="/Images/view-cloud.png"  VerticalAlignment="Center" />
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem x:Name="navViewTest" Click="Menu_Clicked"  Margin="5,5,5,5">
+                <MenuItem.Header>
+                    <TextBlock Text="Test" VerticalAlignment="Center" />
                 </MenuItem.Header>
                 <MenuItem.Icon>
                     <Image Source="/Images/view-cloud.png"  VerticalAlignment="Center" />

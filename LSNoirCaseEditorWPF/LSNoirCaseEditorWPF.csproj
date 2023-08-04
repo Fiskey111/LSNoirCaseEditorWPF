@@ -117,8 +117,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="CaseManager">
-      <HintPath>..\..\CaseManager\CaseManager\bin\Debug\netcoreapp2.0\CaseManager.dll</HintPath>
+    <Reference Include="LSNoir_CaseManagerFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\CaseManagerFramework\LSNoir_CaseManagerFramework\bin\Debug\LSNoir_CaseManagerFramework.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -23,28 +23,30 @@ namespace LSNoirCaseEditorWPF.Pages
             debugCheck.IsChecked = true;
             #endif
 
-            UpdateLogs();
+            UpdateLogs("");
 
             Logger.Logger.OnLogAdded += Logger_OnLogAdded;
 
             logLink.Content = Logger.Logger._file;
         }
 
-        private void Logger_OnLogAdded(object? sender, EventArgs e)
+        private void Logger_OnLogAdded(string text)
         {
-            UpdateLogs();
+            UpdateLogs(text);
         }
 
-        public void UpdateLogs()
+        public void UpdateLogs(string text)
         {
-            Dispatcher.Invoke(() =>
-            {
-                LogBox.Text = Logger.Logger.Logs.ToList().Where(
-                    line => debugCheck.IsChecked != false || !line.IsDebug)
-                    .Aggregate(string.Empty, (current, line)
-                        => current + line.LogData + Environment.NewLine);
+            if (debugCheck.IsChecked == true)
+                LogBox.Text = LogBox.Text + Environment.NewLine + text;
+                else
+                {
+                    LogBox.Text = Logger.Logger.Logs.ToList().Where(
+                            line => debugCheck.IsChecked != false || !line.IsDebug)
+                        .Aggregate(string.Empty, (current, line)
+                            => current + line.LogData + Environment.NewLine);
+                }
                 ScrollView.ScrollToEnd();
-            });
         }
 
         private void DebugCheck_Click(object sender, RoutedEventArgs e)
@@ -53,7 +55,10 @@ namespace LSNoirCaseEditorWPF.Pages
 
             Logger.Logger.AddLog($"DebugCheck_Click {debugCheck.IsChecked}", true);
 
-            UpdateLogs();
+            UpdateLogs(Logger.Logger.Logs.ToList().Where(
+                    line => debugCheck.IsChecked != false || !line.IsDebug)
+                .Aggregate(string.Empty, (current, line)
+                    => current + line.LogData + Environment.NewLine));
         }
 
         private void logLink_Click(object sender, RoutedEventArgs e)

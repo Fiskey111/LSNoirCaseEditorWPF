@@ -199,9 +199,10 @@ C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\De
 C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\Images\button-cancel.png
 C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\Images\graph.png
 C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\Images\page-arrow-down-left.png
-C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\ref\LSNoirCaseEditorWPF.dll
 C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
-C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\CaseManager.dll
-C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\CaseManager.pdb
-C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\CaseManager.xml
 C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\Images\open-empty.png
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net6.0-windows\refint\LSNoirCaseEditorWPF.dll
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\LSNoir_CaseManagerFramework.dll
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\bin\Debug\net6.0-windows\LSNoir_CaseManagerFramework.pdb
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net6.0-windows\Windows\LoadingBarPage.g.cs
+C:\Users\Chris Fiske\source\repos\LSNoirCaseEditorWPF\LSNoirCaseEditorWPF\obj\Debug\net6.0-windows\Windows\LoadingBarPage.baml

@@ -12,7 +12,7 @@
           "ModernWpfUI": "0.9.6",
           "Newtonsoft.Json": "13.0.2",
           "WindowsAPICodePack-Shell": "1.1.1",
-          "CaseManager": "0.2.0.0"
+          "LSNoir_CaseManagerFramework": "1.0.0.0"
         },
         "runtime": {
           "LSNoirCaseEditorWPF.dll": {}
@@ -499,11 +499,11 @@
           }
         }
       },
-      "CaseManager/0.2.0.0": {
+      "LSNoir_CaseManagerFramework/1.0.0.0": {
         "runtime": {
-          "CaseManager.dll": {
-            "assemblyVersion": "0.2.0.0",
-            "fileVersion": "0.2.0.0"
+          "LSNoir_CaseManagerFramework.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -550,7 +550,7 @@
       "path": "windowsapicodepack-shell/1.1.1",
       "hashPath": "windowsapicodepack-shell.1.1.1.nupkg.sha512"
     },
-    "CaseManager/0.2.0.0": {
+    "LSNoir_CaseManagerFramework/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

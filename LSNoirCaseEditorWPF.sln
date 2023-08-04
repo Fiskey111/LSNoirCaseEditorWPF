@@ -5,6 +5,12 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSNoirCaseEditorWPF", "LSNoirCaseEditorWPF\LSNoirCaseEditorWPF.csproj", "{7A825094-507E-4EE2-A749-E3CC7A71B9BF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CaseManager", "CaseManager", "{F290F9E7-1A77-4879-A735-AAB9755DC9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSNoir_CaseManagerFramework", "..\CaseManagerFramework\LSNoir_CaseManagerFramework\LSNoir_CaseManagerFramework.csproj", "{9E76CA48-653B-4701-B03C-14DD98BD4FAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CaseManager-Editor", "CaseManager-Editor", "{44D1C75F-4A3A-488E-89BD-AA87A6C0BFF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +21,19 @@ Global
 		{7A825094-507E-4EE2-A749-E3CC7A71B9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A825094-507E-4EE2-A749-E3CC7A71B9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A825094-507E-4EE2-A749-E3CC7A71B9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E76CA48-653B-4701-B03C-14DD98BD4FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E76CA48-653B-4701-B03C-14DD98BD4FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E76CA48-653B-4701-B03C-14DD98BD4FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E76CA48-653B-4701-B03C-14DD98BD4FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7B9C25DE-BA57-491B-97E6-F37E2CB275F2}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E76CA48-653B-4701-B03C-14DD98BD4FAD} = {F290F9E7-1A77-4879-A735-AAB9755DC9B1}
+		{7A825094-507E-4EE2-A749-E3CC7A71B9BF} = {44D1C75F-4A3A-488E-89BD-AA87A6C0BFF7}
 	EndGlobalSection
 EndGlobal

@@ -14,7 +14,7 @@
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="500" />
+            <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
         <Menu x:Name="commandBar" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Center">
@@ -55,9 +55,11 @@
             </MenuItem>
         </Menu>
 
-        <ScrollViewer Grid.Row="1">
+        <ScrollViewer Grid.Row="1" Grid.Column="0">
             <TreeView x:Name="CaseContent" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,10,10,10" MinHeight="500" MaxHeight="750" MinWidth="500" ItemContainerStyle="{StaticResource TreeViewItemStyleExpandAll}" />
         </ScrollViewer>
-        <StackPanel x:Name="editStackPanel" Grid.Row="1" Grid.Column="1" Margin="10,10,10,10" Grid.RowSpan="2" VerticalAlignment="Top"/>
+        <ScrollViewer Grid.Row="1" Grid.Column="1" >
+            <StackPanel x:Name="EditStackPanel" Margin="10,10,10,10" VerticalAlignment="Top" MinWidth="50"/>
+        </ScrollViewer>
     </Grid>
 </Page>

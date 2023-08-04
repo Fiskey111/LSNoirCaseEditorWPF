@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7o29+9E6r2LPsPUYuqB8PQHRDFaUktLjcjSZ5swp2xrOiiaNrcMrvVWNxFI3APhzlY1sZ7eXltGw86YngU6MiQ==",
+  "dgSpecHash": "0kMrFaP4mle4f64QqRlhx2/9B/seM1HAUR0nyoQ/Gbqqz4ZoRwbdrNWnU/zR7ApOzrZGXntbavGwaTk5Lg8ZbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Chris Fiske\\source\\repos\\LSNoirCaseEditorWPF\\LSNoirCaseEditorWPF\\LSNoirCaseEditorWPF.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'WindowsAPICodePack-Core 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'WindowsAPICodePack-Core 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "WindowsAPICodePack-Core",
       "targetGraphs": [
         "net6.0-windows7.0"
@@ -25,7 +25,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'WindowsAPICodePack-Shell 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'WindowsAPICodePack-Shell 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "WindowsAPICodePack-Shell",
       "targetGraphs": [
         "net6.0-windows7.0"

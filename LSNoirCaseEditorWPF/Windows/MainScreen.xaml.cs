@@ -249,6 +249,9 @@ namespace LSNoirCaseEditorWPF.Windows
             {
                 SaveCase();
             }
+            else if (item == navViewTest) 
+            {
+            }
         }
     }
 }
